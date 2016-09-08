@@ -167,16 +167,16 @@ a.blue {
 }
 
 a.blue:hover {
-    background-color: #7db7f0;
-    background-image: -webkit-gradient(linear, left top, left bottom, from(#7db7f0), to(#B7CDD4));
-    background-image: -webkit-linear-gradient(top, #7db7f0, #B7CDD4);
-    background-image: -moz-linear-gradient(top, #7db7f0, #B7CDD4);
-    background-image: -ms-linear-gradient(top, #7db7f0, #B7CDD4);
-    background-image: -o-linear-gradient(top, #7db7f0, #B7CDD4);
-    background-image: linear-gradient(to top, #7db7f0, #B7CDD4);
+    background-color: #093447;
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#093447), to(#B7CDD4));
+    background-image: -webkit-linear-gradient(top, #093447, #B7CDD4);
+    background-image: -moz-linear-gradient(top, #093447, #B7CDD4);
+    background-image: -ms-linear-gradient(top, #093447, #B7CDD4);
+    background-image: -o-linear-gradient(top, #093447, #B7CDD4);
+    background-image: linear-gradient(to top, #093447, #B7CDD4);
     border: 1px solid #115290;
     color: #ffffff;
-    -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#7db7f0, endColorstr=#B7CDD4)";
+    -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#093447, endColorstr=#B7CDD4)";
     text-shadow: 0 -1px 0 #115290;
 }
 
@@ -266,7 +266,11 @@ a.blue:hover {
     text-align: left;
 }
 
+/* Columbia university bedeworks calendar widget */
 
+.bwEventsTitle {
+    display:none;
+}
 
 /**
  * Site footer
