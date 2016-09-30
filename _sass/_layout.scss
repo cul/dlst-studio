@@ -268,9 +268,20 @@ a.blue:hover {
 
 /* Columbia university bedeworks calendar widget */
 
-.bwEventsTitle {
-    display:none;
+#widgets .bwEventList {
+    padding: 0;
+    margin-left: 0;
+    list-style: none;
 }
+
+#widgets .bwEventList li {
+    padding-bottom: 1rem;
+}
+
+#widgets .bwEventList strong {
+    font-weight: 400;
+}
+
 
 /**
  * Site footer
