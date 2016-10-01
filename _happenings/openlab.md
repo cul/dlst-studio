@@ -1,6 +1,6 @@
 ---
 layout: happening
-title: "xpmethod open lab"
+title: "xpmethod Open Lab"
 time-slot: "Fridays 3:00 PM - 5:00 PM"
 active: True
 ---
