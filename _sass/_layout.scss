@@ -111,7 +111,7 @@
  * Site front-matter
  */
 
-#lead {
+#lead, #content-box {
     -moz-border-radius: 4px;
     -webkit-border-radius: 4px;
     background-color: #ffffff;
@@ -127,6 +127,17 @@
     margin: 0;
     padding-top: 40px;
     text-align: center;
+}
+
+#content-box p {
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 27px;
+    padding: 0 4rem 0 4rem;
+}
+
+#content-box h2 {
+    padding: 2rem 4rem 0 4rem;
 }
 
 #lead p {
@@ -251,6 +262,11 @@ a.blue:hover {
     padding: 0 0 0 20px;
 }
 
+#widgets ul {
+    list-style-type: none;
+    margin-left: 0;
+}
+
 #widgets ul li a {
     display: inline;
     text-decoration: none;
@@ -364,6 +380,7 @@ a.blue:hover {
     font-size: 20px;
 }
 
+
 .post-list {
     margin-left: 0;
     list-style: none;
@@ -393,9 +410,13 @@ a.blue:hover {
 }
 
 .post-title {
-    font-size: 42px;
+    color: #356E81;
+    font-size: 4rem;
     letter-spacing: -1px;
     line-height: 1;
+    text-align: center;
+    padding: 50px 40px 0px 40px;
+
 
     @include media-query($on-laptop) {
         font-size: 36px;
