@@ -30,16 +30,15 @@
         <div class="widget-wrapper">
           <h2>Happenings</h2>
           <ul class="bwEventList">
+          {% for item in site.happenings do %}
             <li>
               <span class="bwSummary">
-                <strong>meet-ups</strong>
+              <a href="{{ site.baseurl }}{{ item.url }}"><strong>{{item.title}}</strong></a>
               </span>
               <br>
-              <span class="bwDateTime">Fridays 2-4pm</span>
+              <span class="bwDateTime">{{item.time-slot}}</span>
             </li>
-            <li>hackathons</li>
-            <li>researchathons</li>
-            <li>xpmethod Open Lab.</li>
+          {% endfor %}
           </ul>
         </div>
       </div>
@@ -48,7 +47,7 @@
           <h2>About us</h2>
           <p>The Studio@Butler is a modular space in 208b Butler Library that supports events and activities for up to 40 people. Events and activities in this space are scheduled and managed by the GSAS Teaching Center and the Digital Humanities Center. To learn more about our partners visit our <a href="{{site.baseurl}}/partners.html">Partners page</a>. Members of the Columbia community may request use of the Studio for an educational or digital scholarship project. To do so send us a line.</p>
 
-          <p>For more information, see our Studio FAQs.</p>
+          <p>For more information, see our <a href="{{site.baseurl}}/faq.html">Studio FAQs</a>.</p>
         </div>
       </div>
   	</div>  
