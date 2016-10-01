@@ -1,8 +1,8 @@
 ---
 layout: happening
 title: "xpmethod Open Lab"
-time-slot: "Fridays 3:00 PM - 5:00 PM"
+time-slot: "Thursdays 3:00 PM - 5:00 PM"
 active: True
 ---
 
-Drop by open lab with your own technology and ideas. Open lab meets every Friday from 2pm to 5pm during session. During open lab hours, [Columbia’s Group for Experimental Methods in the Humanities](http://xpmethod.plaintext.in/) welcomes to the Studio all who want to work on a project in a collaborative environment. At the lab you will be coding, making, critiquing, interpreting with some of the leading practitioners of digital humanities at Columbia University.
+The foundational Lab for Studio@Butler, the xpMethod Open Lab is a collaborative make and talk environment bringing together humanities, social scienes, and data sciences in one non-hierachical space. To learn more about the xpmethod group visit our [site](http://xpmethod.plaintext.in/). If you would like to learn more about the ethos of the lab, please visit our [lab culture manifest](http://xpmethod.plaintext.in/lab-culture.html).

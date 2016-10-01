@@ -134,6 +134,7 @@
     font-weight: 300;
     line-height: 27px;
     padding: 0 4rem 0 4rem;
+    letter-spacing: .015rem;
 }
 
 #content-box h2 {
@@ -212,7 +213,7 @@ a.blue:hover {
 
 /* Phones */
 
-@media only screen and (max-width: 320px) {
+@media only screen and (max-width: 360px) {
 
 #lead p {
     font-size: 12px;
@@ -227,6 +228,18 @@ a.blue:hover {
 .call-to-action a.button {
     font-size: 14px;
     padding: 7px 17px;
+}
+
+#content-box p {
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 1.2rem;
+    padding: 0 2rem 0 2rem;
+}
+
+#content-box h2 {
+    padding: 1rem 2rem 0 2rem;
+    line-height: 2rem;
 }
 
 }
@@ -370,6 +383,11 @@ a.blue:hover {
         width: -webkit-calc(100% - (#{$spacing-unit} / 2));
         width:         calc(100% - (#{$spacing-unit} / 2));
     }
+}
+
+#copyright {
+    font-size: .7rem;
+    float: right;
 }
 
 
