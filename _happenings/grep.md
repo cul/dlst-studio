@@ -1,6 +1,6 @@
 ---
 layout: happening
-title: "xpmethod: GREP the Humanities"
+title: "GREP the Humanities"
 time-slot: "Thursdays 3:00 PM - 5:00 PM"
 active: True
 ---
