@@ -9,7 +9,7 @@ The Studio is designed for active collaboration in digital scholarship and digit
 
 ## How is the Studio set up?
 
-The Studio may be configured for a variety of small or larger group activities. It features tables and white boards on wheels, a large screen with speakers, a digital projector, a video camera with tripod, and wireless microphones. The room may be divided up into sections or opened up for larger groups.
+The Studio may be configured for a variety of small or larger group activities. It features tables and white boards on wheels, a large screen with speakers, a digital projector, a video camera with tripod, and wireless microphones. The room may be divided up into sections or opened up for larger groups. See pictures on the CTL website of [various setups of the Studio](http://ctl.columbia.edu/support/workshop-planning/208b-butler-library/).
 
 ## How many people can the Studio accommodate?
 
@@ -17,11 +17,11 @@ The Studio is located in a tall, rectangular room on the south side of Butler Li
 
 Activities in the Studio incorporating tables can accommodate up to 25 or so persons. If tables are rolled away and chairs arranged into rows, the Studio can hold up to 40 persons.
 
-## What technology is in the Studio?
+What technology is in the Studio?
 
 The Studio is a bring-your-own-technology space. There are no computers installed in the room, but we are ready to plug your laptop in for presentations or capture events with projectors, a video camera, and microphones. Wireless connectivity has been upgraded to the fastest available in the library.
 
-If you need advanced software or scanning technology for your research, that is available in the Digital Humanities Center (305 Butler); software and computers for teaching support are available in the Center for New Media Teaching and Learning Faculty Support Lab (204 Butler).
+If you need advanced software or scanning technology for your research, that is available in the Digital Humanities Center (305 Butler); software and computers for teaching support are available in the CTL’s Learning Commons (204 Butler).
 
 ## When is the Studio open?
 
@@ -39,7 +39,8 @@ If your meeting pertains to practices in teaching and learning or the digital hu
 ## Can I bring food into the Studio?
 
 Yes, you can, but you have to let us know first. Usually you will be working with a library coordinator to plan your event. Make sure you let him or her know so that they can inform the Library Information Office.
-I am teaching at Columbia, and my class includes a digital component. May I hold it in the Studio?
+
+## I am teaching at Columbia, and my class includes a digital component. May I hold it in the Studio?
 
 The libraries do not provide classroom space at Columbia. However, the Studio may be booked for digital lab components of Columbia classes, as well as course-related training, project-building, and evaluation activities. Send us your ideas for use of the Studio in your course, and we’ll take it from there.
 

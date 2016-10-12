@@ -10,7 +10,7 @@ title: "Butler Studio"
 email: studio@libraries.cul.columbia.edu
 description: > # this means to ignore newlines until "baseurl:"
   The Butler Library Studio provides a co-working space to the Columbia community for gatherings and collaborations that advance the practice of pedagogy and digital scholarship.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/studio" # the subpath of your site, e.g. /blog
 url: "http://studio-dev.library.columbia.edu" # the base hostname & protocol for your site
 
 # Build settings
