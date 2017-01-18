@@ -1,7 +1,7 @@
 ---
 layout: happening
 title: "Please, get me unstuck!"
-time-slot: "Fridays 2:00 PM - 3:00 PM"
+time-slot: "Fridays 1:00 PM - 2:00 PM"
 active: True
 ---
 

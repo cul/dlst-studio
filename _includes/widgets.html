@@ -30,7 +30,9 @@
         <div class="widget-wrapper">
           <h2>Ongoing</h2>
           <ul class="bwEventList">
-          {% for item in site.happenings do %}
+          {% assign sorted_pages = (site.happenings | sort: 'title') %}
+          {% for item in sorted_pages %}
+          {% if item.active %}
             <li>
               <span class="bwSummary">
               <a href="{{ site.baseurl }}{{ item.url }}"><strong>{{item.title}}</strong></a>
@@ -38,6 +40,7 @@
               <br>
               <span class="bwDateTime">{{item.time-slot}}</span>
             </li>
+           {% endif %} 
           {% endfor %}
           </ul>
         </div>
