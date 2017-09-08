@@ -2,7 +2,7 @@
 layout: happening
 title: "Data Visualization for Architecture, Urbanism and the Humanities"
 time-slot: "Fridays 9:00 AM - 11:00 AM"
-active: True
+active: False
 ---
 
 This course/lab provides an introduction to data visualization theory and methods for students entirely new to the fields of computation and information design. Through a series of in-class exercises and take-home assignments, students will learn how to critically engage and produce interactive data visualization pieces that can serve as exploratory and analytical tools.
