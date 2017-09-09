@@ -2,7 +2,7 @@
 layout: happening
 title: "Conflict Urbanism: Language Justice in New York City."
 time-slot: "Fridays 11:00 AM - 1:00 PM"
-active: True
+active: False
 ---
 
 This is the second in a series of multidisciplinary Mellon seminars on the topic of Conflict Urbanism, as part of a multi-university initiative in Architecture, Urbanism and the Humanities. This year, we will focus on how language is a major force in shaping cities, both through a theoretical lens and through fieldwork in linguistically diverse neighborhoods throughout New York City.

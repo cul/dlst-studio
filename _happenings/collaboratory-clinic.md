@@ -2,7 +2,7 @@
 layout: happening
 title: "Collaboratory Clinic"
 time-slot: "Thursdays 3:00 PM - 5:00 PM"
-active: True
+active: False
 ---
 
 We are happy to announce the Collaboratory Clinic, an appointment-based free consulting service for students and researchers at Columbia University that offers assistance with planning and executing data driven research projects, including help with data visualization, analysis and prediction, both in conceptual terms and with concrete software implementations. The Clinic is a partnership between the Studio@Butler and the Collaboratory@Columbia.
