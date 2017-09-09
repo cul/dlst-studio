@@ -7,7 +7,7 @@ Studio@Butler opened in Fall 2013, conceived and funded by a new partnership bet
 
 ## Founding Organizations
 
-**The Digital Humanities Center at Columbia University Libraries**. The DHC helps Columbia faculty and students incorporate advanced computer-based approaches into their research, publications and teaching. It offers scholars paths into the latest digital resources and technologies, often in combination with resources they create themselves. The Digital Scholarship Coordinator for the Humanities and History, Alex Gil (agil@columbia.edu) schedules talks, trainings, researchathons, labs, and many other happenings in the Studio.
+**The Digital Humanities Center at Columbia University Libraries**. The DHC—now folded into the Digital Scholarship unit of the Libraries—helps Columbia faculty and students incorporate advanced computer-based approaches into their research, publications and teaching. It offers scholars paths into the latest digital resources and technologies, often in combination with resources they create themselves. The Digital Scholarship Coordinator, Alex Gil (agil@columbia.edu) schedules talks, trainings, researchathons, labs, and many other happenings in the Studio.
 
 **Columbia University’s [Center for Teaching and Learning](http://ctl.columbia.edu/)**. When it opened in 2013, Studio@Butler housed the GSAS Teaching Center, a professional development resource for graduate students that merged into Columbia’s new Center for Teaching and Learning (CTL) in 2015. CTL holds workshops for graduate students in the Studio as well as a range of presentations, course labs, and informal gatherings. Mark Phillipson (mlp55@columbia.edu), Director of Graduate Student Programs and Initiatives, programs Studio events for the CTL.
 
