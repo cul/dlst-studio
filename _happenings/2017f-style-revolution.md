@@ -2,7 +2,7 @@
 layout: happening
 title: "Style Revolution"
 time-slot: "Mondays 4:00PM - 6:00 PM"
-active: True
+active: False
 ---
 
 In this course lab we will create a digital humanities project based on the most radical and influential style magazine in European history, the *Journal des Dames et des Modes*.  A rare complete set of the Journal’s revolutionary 1797-1804 plates has recently been rediscovered at the Morgan Library, and digitized, and together, we will architect a home for the images online.
