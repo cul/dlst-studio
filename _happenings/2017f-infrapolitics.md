@@ -2,7 +2,7 @@
 layout: happening
 title: "Conflict Urbanism: InfraPolitics"
 time-slot: "Fridays 11:00 AM - 1:00 PM"
-active: True
+active: False
 ---
 
 This course lab focuses on infrastructure as a structuring principle of cities, highlighting the ways that urban spaces are physically shaped and ordered by a range of governing interventions—from natural resource extraction to urban planning, and the economics of real estate. The lab focuses on exploring cities in the Global South whose historical emergence points to a range of social conflicts manifest in urban policy and design, that challenges the adequacy (and efficacy) of dominant paradigms of infrastructural development derived from the history of American and European cities.
