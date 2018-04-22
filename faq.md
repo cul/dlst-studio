@@ -5,7 +5,7 @@ title: Frequently asked questions
 
 ## What kinds of events does the Studio usually host?
 
-The Studio is designed for active collaboration in digital scholarship and digital pedagogy. We host conferences, seminars and workshops related to those areas, but also newer forms of collaboration: hackathons, researchathons, tech meet-ups, and more. The room is very often used for courses with a digital lab component. We also design programs around our community's needs. If you need a particular workshop not offered elsewhere or would like to reverse-engineer a digital scholarship project, the Studio is the right venue to host a learning session around digital technologies, and we will be happy to match you with someone who can help you.
+The Studio is designed for active collaboration in digital scholarship and digital pedagogy. We host conferences, seminars, talks and workshops related to those areas, but also newer forms of collaboration: hackathons, researchathons, tech meet-ups, and more. The room is very often used for courses with a digital lab component. We also design programs around our community's needs. If you need a particular workshop not offered elsewhere or would like to reverse-engineer a digital scholarship project, the Studio is the right venue to host a learning session around digital technologies, and we will be happy to match you with someone who can help you.
 
 ## How is the Studio set up?
 
