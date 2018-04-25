@@ -1,12 +1,15 @@
 language: ruby
 rvm: 2.4
-branches:
-  only: master
 env:
   global: NOKOGIRI_USE_SYSTEM_LIBRARIES=true
 before_script:
   - bundle exec jekyll build
 script:
   - bundle exec rake test
-# after_success:
-#   - bundle exec rake travis:deploy:s3
+deploy:
+  provider: script
+  on:
+    - branch: production
+      script: echo "i'm on production!"
+    - branch: staging
+      script: echo "i'm on staging!"

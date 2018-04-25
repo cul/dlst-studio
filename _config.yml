@@ -7,7 +7,7 @@ description: >
 baseurl: ''
 url: ''
 
-exclude: [Rakefile, vendor]
+exclude: [Rakefile, vendor, Gemfile*]
 
 # Collections for happenings
 collections:
