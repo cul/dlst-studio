@@ -19,16 +19,16 @@ end
 
 namespace :push do
   desc 'push built site to s3 branch'
-  task :branch do
+  task :static do
     if ENV['CI']
       BRANCH = ENV['TRAVIS_BRANCH']
-      if BRANCH == 'production' or 'staging'
+      if BRANCH == 'master'
         REPO_SLUG = ENV['TRAVIS_REPO_SLUG']
         USER = REPO_SLUG.split('/')[0]
         TOKEN = ENV['ACCESS_TOKEN']
         COMMIT_MSG = "Site updated via #{ENV['TRAVIS_COMMIT']}".freeze
         ORIGIN = "https://#{USER}:#{TOKEN}@github.com/#{REPO_SLUG}.git".freeze
-        puts "Deploying to #{BRANCH}_site from Travis as #{USER}"
+        puts "Deploying to 'static' branch from Travis as #{USER}"
 
         Dir.mktmpdir do |tmp|
           cp_r '_site/.', tmp
@@ -36,7 +36,7 @@ namespace :push do
           system 'git init'
           system "git add . && git commit -m '#{COMMIT_MSG}'"
           system "git remote add origin #{ORIGIN}"
-          system "git push origin master:refs/heads/#{BRANCH}_site --force"
+          system "git push origin master:refs/heads/static --force"
         end
       end
     end

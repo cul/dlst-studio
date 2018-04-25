@@ -7,13 +7,21 @@ before_script:
 script:
   - bundle exec rake test
 after_success:
-  - bundle exec rake push:branch
+  - bundle exec rake push:static
 # deploy:
 #   - provider: s3
+#     access_key_id: $AWS_ID
+#     secret_access_key: $AWS_SECRET_KEY
+#     bucket: "cul-s3-prod-bucket"
 #     skip_cleanup: true
+#     region: us-west-2
 #     on:
-#       branch: production
+#       branch: master
 #   - provider: s3
+#     access_key_id: $AWS_ID
+#     secret_access_key: $AWS_SECRET_KEY
+#     bucket: "cul-s3-staging-bucket"
 #     skip_cleanup: true
+#     region: us-west-2
 #     on:
 #       branch: staging

@@ -7,9 +7,12 @@ description: >
 baseurl: ''
 url: ''
 
-exclude: [Rakefile, vendor, Gemfile*]
+exclude: [Rakefile, vendor, Gemfile*, README*]
+permalink: pretty
 
 # Collections for happenings
 collections:
   happenings:
+    output: true
+  pages:
     output: true
