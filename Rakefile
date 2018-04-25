@@ -1,4 +1,5 @@
 require 'html-proofer'
+require 'rake'
 include FileUtils
 
 desc 'run htmlproofer, rspec if exists'
