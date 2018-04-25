@@ -8,8 +8,10 @@ script:
   - bundle exec rake test
 deploy:
   - provider: script
+    script: echo "i'm on production!"
     on:
-      - branch: production
-        script: echo "i'm on production!"
-      - branch: staging
-        script: echo "i'm on staging!"
+      branch: production
+  - provider: script
+    script: echo "i'm on staging!"
+    on:
+      branch: staging
