@@ -2,27 +2,28 @@
 
 ### to contribute
 
-1. clone the repository and change directory into it:
+1. Clone the repository and change directory into it:
 ```sh
 $ git clone https://github.com/cul/dhc-studio.git
 $ cd dhc-studio
 ```
-2. install the dependencies
+2. Install the dependencies
 ```sh
 $ bundle install
 ```
-3. add/edit files
-4. serve the site to view changes
+3. Add/edit files
+4. Serve the site to view changes
 ```sh
 $ bundle exec jekyll serve
 ```
-5. add the changes to the `staging` branch
+5. Add the changes to a new `staging` branch. Pushing (to) this branch will build the site on an s3 staging bucket at [[LINK]()] which will be live for 1hr.
 ```sh
 $ git checkout -b staging
 $ git add .
 $ git commit -m "YOUR COMMIT"
-$ git push
+$ git push --set-upstream origin staging
 ```
-6. look at the staging s3 bucket at [[LINK]()]. it will be live for 1hr.
-7. if everything looks good and the tests pass, create a pull request to merge `staging` into `master`. If the PR is successful, travis will push the compiled Jekyll `_site` files to the `static` branch and to the `prod` s3 bucket.
-8. delete the `staging` branch after the PR is merged.
+> __Note:__ You can keep adding to the `staging` branch as much as you like, and Travis will keep building to the staging bucket.
+
+6. If everything looks good in the staging bucket and the tests on Travis pass, you can create a pull request to merge `staging` into `master`. If this pull request is successful, Travis will push the compiled Jekyll `_site` files to the `production` s3 bucket as well as a `static` GitHub branch (for backup).
+7. Make sure you delete the `staging` branch after the PR is merged to prevent future git conflicts.
