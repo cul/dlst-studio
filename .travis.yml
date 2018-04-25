@@ -14,6 +14,6 @@ deploy:
       branch: production
   - provider: script
     skip_cleanup: true
-    script: bundle list
+    script: bundle && bundle list
     on:
       branch: staging
