@@ -9,9 +9,11 @@ script:
 deploy:
   - provider: script
     script: bundle exec rake push:branch
+    skip_cleanup: true
     on:
       branch: production
   - provider: script
+    skip_cleanup: true
     script: bundle exec rake push:branch
     on:
       branch: staging
