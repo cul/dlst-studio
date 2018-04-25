@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Frequently asked questions
+permalink: /faq/
 ---
 
 ## What kinds of events does the Studio usually host?
@@ -35,7 +36,7 @@ Studio@Butler is a place for active collaboration, training, presentation, and c
 
 If your meeting pertains to practices in teaching and learning or the digital humanities, we are happy to work with you to schedule it.  Send us a description of the event.
 
- 
+
 ## Can I bring food into the Studio?
 
 Yes, you can, but you have to let us know first. Usually you will be working with a library coordinator to plan your event. Make sure you let him or her know so that they can inform the Library Information Office.

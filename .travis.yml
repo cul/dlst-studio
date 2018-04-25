@@ -1,12 +1,27 @@
 language: ruby
 rvm: 2.4
-branches:
-  only: master
 env:
   global: NOKOGIRI_USE_SYSTEM_LIBRARIES=true
 before_script:
   - bundle exec jekyll build
 script:
   - bundle exec rake test
-# after_success:
-#   - bundle exec rake travis:deploy:s3
+after_success:
+  - bundle exec rake push:static
+# deploy:
+#   - provider: s3
+#     access_key_id: $AWS_ID
+#     secret_access_key: $AWS_SECRET_KEY
+#     bucket: "cul-s3-prod-bucket"
+#     skip_cleanup: true
+#     region: us-west-2
+#     on:
+#       branch: master
+#   - provider: s3
+#     access_key_id: $AWS_ID
+#     secret_access_key: $AWS_SECRET_KEY
+#     bucket: "cul-s3-staging-bucket"
+#     skip_cleanup: true
+#     region: us-west-2
+#     on:
+#       branch: staging
