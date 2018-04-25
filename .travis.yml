@@ -7,9 +7,9 @@ before_script:
 script:
   - bundle exec rake test
 deploy:
-  provider: script
-  on:
-    - branch: production
-      script: echo "i'm on production!"
-    - branch: staging
-      script: echo "i'm on staging!"
+  - provider: script
+    on:
+      - branch: production
+        script: echo "i'm on production!"
+      - branch: staging
+        script: echo "i'm on staging!"
