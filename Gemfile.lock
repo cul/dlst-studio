@@ -86,7 +86,6 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  colorize
   html-proofer
   jekyll
   rake

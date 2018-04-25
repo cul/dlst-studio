@@ -1,4 +1,5 @@
 # dhc-studio
+[![Build Status](https://travis-ci.org/cul/dhc-studio.svg?branch=master)](https://travis-ci.org/cul/dhc-studio) [![Dependency Status](https://gemnasium.com/badges/github.com/cul/dhc-studio.svg)](https://gemnasium.com/github.com/cul/dhc-studio)
 
 ### to contribute
 
