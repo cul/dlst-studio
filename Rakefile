@@ -39,21 +39,12 @@ namespace :git do
             system "git remote add origin #{ORIGIN}"
             system "git push origin master:refs/heads/static --force"
           end
+        else
+          puts 'This task only runs on the master branch. Skipping for #{BRANCH}.'
         end
       else
         puts 'Not on Travis-CI. Skipping push to static branch.'
       end
-    end
-  end
-end
-
-namespace :travis do
-  namespace :deploy do
-    task :prod do
-
-    end
-    task :prod do
-
     end
   end
 end
