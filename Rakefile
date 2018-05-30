@@ -40,7 +40,7 @@ namespace :git do
             system "git push origin master:refs/heads/static --force"
           end
         else
-          puts 'This task only runs on the master branch. Skipping for #{BRANCH}.'
+          puts "This task only runs on the master branch. Skipping for #{BRANCH}."
         end
       else
         puts 'Not on Travis-CI. Skipping push to static branch.'
