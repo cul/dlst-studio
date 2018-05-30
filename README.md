@@ -1,12 +1,12 @@
 # dhc-studio
-[![Build Status](https://travis-ci.org/cul/dhc-studio.svg?branch=master)](https://travis-ci.org/cul/dhc-studio)
+[![Build Status](https://travis-ci.org/cul/dlst-studio.svg?branch=master)](https://travis-ci.org/cul/dlst-studio)
 
 ### to contribute
 
 1. Clone the repository and change directory into it:
 ```sh
-$ git clone https://github.com/cul/dhc-studio.git
-$ cd dhc-studio
+$ git clone https://github.com/cul/dlst-studio.git
+$ cd dlst-studio
 ```
 2. Install the dependencies
 ```sh

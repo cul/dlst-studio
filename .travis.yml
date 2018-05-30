@@ -24,9 +24,3 @@ deploy:
     local_dir: _site
     on:
       branch: master
-  - provider: releases
-    api_key: $GIT_ACCESS_TOKEN
-    skip_cleanup: true
-    on:
-      branch: master
-      tags: true
