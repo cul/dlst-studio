@@ -17,7 +17,7 @@ $ bundle install
 ```sh
 $ bundle exec jekyll serve
 ```
-5. Add the changes to a new `staging` branch. Pushing (to) this branch will build the site on an s3 staging bucket at [[LINK]()] which will be live for 1hr.
+5. Add the changes to a new `staging` branch. Pushing (to) this branch will build the site on an s3 staging bucket at <http://cul-s3-dlst-travis-studio-staging.s3-website-us-west-2.amazonaws.com/> which will be live for 1hr.
 ```sh
 $ git checkout -b staging
 $ git add .
