@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
-gem 'jekyll'
 
 group :development, :test do
+  gem 'jekyll'
   gem 'html-proofer'
   gem 'rake'
 end
