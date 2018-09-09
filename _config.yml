@@ -1,22 +1,18 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
 # Site settings
-title: "Butler Studio"
-email: studio@libraries.cul.columbia.edu
-description: > # this means to ignore newlines until "baseurl:"
+title         : Butler Studio
+email         : studio@libraries.cul.columbia.edu
+description   : >
   The Butler Library Studio provides a co-working space to the Columbia community for gatherings and collaborations that advance the practice of pedagogy and digital scholarship.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://studio.cul.columbia.edu" # the base hostname & protocol for your site
+baseurl       : ''
+url           : ''
+source        : 'src'
 
-# Build settings
-markdown: kramdown
+exclude       : [Rakefile, vendor, Gemfile*, README*]
+permalink     : pretty
 
 # Collections for happenings
 collections:
   happenings:
+    output: true
+  pages:
     output: true
