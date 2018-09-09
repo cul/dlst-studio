@@ -2,7 +2,7 @@
 layout: happening
 title: "Metaphor and Media Lab"
 time-slot: "Wednesday 2:40PM - 4:00 PM"
-active: True
+active: False
 ---
 
 In this "lab" component for [CLEN 4910](https://github.com/denten-courses/metaphor-media/blob/master/README.md) we will test our theoretical intuitions against case studies of literary metaphor and metaphor in the fields of law, medicine, philosophy, and design.
