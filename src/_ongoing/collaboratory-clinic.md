@@ -1,5 +1,5 @@
 ---
-layout: happening
+layout: event
 title: "Collaboratory Clinic"
 time-slot: "Thursdays 3:00 PM - 5:00 PM"
 active: False

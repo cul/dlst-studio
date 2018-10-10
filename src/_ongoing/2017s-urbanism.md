@@ -1,5 +1,5 @@
 ---
-layout: happening
+layout: event
 title: "Conflict Urbanism: Language Justice in New York City."
 time-slot: "Fridays 11:00 AM - 1:00 PM"
 active: False

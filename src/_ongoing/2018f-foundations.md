@@ -1,5 +1,5 @@
 ---
-layout: happening
+layout: event
 title: "Foundations for Research Computing Office Hours"
 time-slot: "Fridays 1:00 PM - 3:00 PM"
 active: True

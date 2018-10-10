@@ -1,5 +1,5 @@
 ---
-layout: happening
+layout: event
 title: "What is a Book for the 21st Century?  Working with Texts in a Digital Environment."
 time-slot: "Fridays 2:00 PM - 4:00 PM"
 active: False

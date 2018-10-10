@@ -12,7 +12,9 @@ permalink     : pretty
 
 # Collections for happenings
 collections:
-  happenings:
+  ongoing:
     output: true
   pages:
+    output: true
+  upcoming:
     output: true

@@ -1,5 +1,5 @@
 ---
-layout: happening
+layout: event
 title: "Technologies of Dissent Lab"
 time-slot: "Wednesday 2:00PM - 4:00 PM"
 active: False

@@ -3,28 +3,63 @@
   		<div id="home_widget_1" class="grid col-300">
 
         <div class="widget-wrapper">
-          <h2>Upcoming</h2>
-          <div id="loader"><img src="{{site.baseurl}}/assets/ajax-loader.gif"/></div>
-          <div id="bwOutput"></div>
-          <script type="text/javascript" src="https://events.columbia.edu/3.10/calfeedrsrc.MainCampus/default/default/theme/javascript/eventListWidget.js"> </script>
-          <script type="text/javascript" src="https://events.columbia.edu/feeder/main/eventsFeed.do?f=y&sort=dtstart.utc:asc&fexpr=(categories.href=%22/public/.bedework/categories/org/studio_butler%22)%20and%20(entity_type=%22event%22%7Centity_type=%22todo%22)&skinName=list-json&setappvar=objName(bwObject)&count=5"> </script>
-          <script type="text/javascript">
-          var bwJsWidgetOptions = {
-            title: "",
-            showTitle: false,
-            displayDescription: false,
-            calendarServer: "https://events.columbia.edu",
-            resourcesRoot: "https://events.columbia.edu/3.10/calfeedrsrc.MainCampus/default/default/theme",
-            limitList: false,
-            limit: 4,
-            displayStartDateOnlyInList: true,
-            displayTimeInList: true,
-            displayLocationInList: false,
-            listMode: "byTitle",
-            displayInNewWindow: true,
-          };
-            insertBwEvents("bwOutput",bwObject,bwJsWidgetOptions);
-          </script>
+          {% assign sorted_pages = (site.upcoming | sort: 'id') %}
+          {% assign today = (site.time | date: '%y%m%d%H' | plus: 0) %}
+          <!-- Upcoming -->
+          {% for item in sorted_pages %}
+            {% if item.pid > today %}
+            <h2>Upcoming</h2>
+            <ul class="bwEventList">
+            {% break %}
+            {% endif %}
+          {% endfor %}
+          {% for item in sorted_pages %}
+            {% if item.pid > today %}
+              <li>
+                <span class="bwSummary">
+                <a href="{{ site.baseurl }}{{ item.url }}"><strong>{{item.title}}</strong></a>
+                </span>
+                <br>
+                <span class="bwDateTime">{{item.time-slot}}</span>
+              </li>
+           {% else %}
+           {% endif %}
+          {% endfor %}
+          {% for item in sorted_pages %}
+            {% if item.pid > today %}
+            </ul>
+            {% break %}
+            {% endif %}
+          {% endfor %}
+          <!-- Recent -->
+          {% for item in sorted_pages %}
+            {% if item.pid < today %}
+            <h2>Recent</h2>
+            <ul class="bwEventList">
+            {% break %}
+            {% endif %}
+          {% endfor %}
+          {% for item in sorted_pages %}
+            {% if item.pid < today %}
+              <li>
+                <span class="bwSummary">
+                <a href="{{ site.baseurl }}{{ item.url }}"><strong>{{item.title}}</strong></a>
+                </span>
+                <br>
+                <span class="bwDateTime">{{item.time-slot}}</span>
+              </li>
+           {% else %}
+           {% endif %}
+          {% endfor %}
+          {% for item in sorted_pages %}
+            {% if item.pid < today %}
+            </ul>
+            {% break %}
+            {% endif %}
+          {% endfor %}
+
+
+
 
         </div>
       </div>
@@ -32,7 +67,7 @@
         <div class="widget-wrapper">
           <h2>Ongoing</h2>
           <ul class="bwEventList">
-          {% assign sorted_pages = (site.happenings | sort: 'title') %}
+          {% assign sorted_pages = (site.ongoing | sort: 'title') %}
           {% for item in sorted_pages %}
           {% if item.active %}
             <li>

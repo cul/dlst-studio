@@ -1,5 +1,5 @@
 ---
-layout: happening
+layout: event
 title: "Transforming Texts: Textual Analysis, Literary Modeling, and Visualization"
 time-slot: "Wednesday 2:00 PM - 4:00 PM & Fridays 1:00 PM - 3:00 PM"
 active: False

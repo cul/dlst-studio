@@ -1,5 +1,5 @@
 ---
-layout: happening
+layout: event
 title: "South Asia Digital Futures"
 time-slot: "Thursdays 12:00 PM - 2:00 PM"
 active: False

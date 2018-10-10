@@ -1,5 +1,5 @@
 ---
-layout: happening
+layout: event
 title: "Style Revolution"
 time-slot: "Mondays 4:00PM - 6:00 PM"
 active: False
