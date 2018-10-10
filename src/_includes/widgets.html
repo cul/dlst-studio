@@ -3,7 +3,7 @@
   		<div id="home_widget_1" class="grid col-300">
 
         <div class="widget-wrapper">
-          {% assign sorted_pages = (site.upcoming | sort: 'id') %}
+          {% assign sorted_pages = (site.upcoming | sort: 'pid') %}
           {% assign today = (site.time | date: '%y%m%d%H' | plus: 0) %}
           <!-- Upcoming -->
           {% for item in sorted_pages %}

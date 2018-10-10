@@ -2,7 +2,7 @@
 layout: event
 title: "Arts and Algorithms"
 pid: 18102418
-time-slot: "September 26, 6:30 PM - 9:00 PM"
+time-slot: "October 24, 6:30 PM - 9:00 PM"
 active: True
 type: meetup
 ---
