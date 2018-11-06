@@ -74,6 +74,12 @@ ul, ol {
     margin-left: $spacing-unit;
 }
 
+ul {
+    margin-left: 5rem;
+    font-size: 1.2rem;
+    list-style: circle;
+}
+
 li {
     > ul,
     > ol {
