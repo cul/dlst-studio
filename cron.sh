@@ -5,5 +5,5 @@ t=$(date +%T)
 cd ~/www/dhc-studio/
 git add . 
 git commit -m "Rebuild for $d $t" >>$log 2>>$log
-echo " " >> $log 
-git push origin master
+git push origin master >>$log 2>>$log
+echo " " >> $log
