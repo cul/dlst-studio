@@ -1,4 +1,5 @@
 #! /bin/bash
+cd ~/www/dhc-studio/
 d=$(date +%Y-%m-%d-%T)
 echo "Commit for $d" > cron.log
 git add . 
