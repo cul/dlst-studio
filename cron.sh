@@ -1,8 +1,8 @@
 #! /bin/bash
-cd ~/www/dhc-studio/
+log=~/www/dhc-studio/cron.log
 d=$(date +%Y-%m-%d-%T)
-echo "Commit for $d" > cron.log
+echo "Commit for $d" > log
 git add . 
-git commit -m "cron job for $d" &> cron.log
-echo " " > cron.log 
+git commit -m "cron job for $d" &> log
+echo " " > log 
 git push origin master
