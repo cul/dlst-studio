@@ -4,6 +4,7 @@
 
         <div class="widget-wrapper">
           {% assign sorted_pages = (site.upcoming | sort: 'pid') %}
+
           {% assign today = (site.time | date: '%y%m%d%H' | plus: 0) %}
           <!-- Upcoming -->
           {% for item in sorted_pages %}
@@ -38,7 +39,8 @@
             {% endif %}
           {% endfor %}
           <!-- Recent -->
-          {% for item in sorted_pages %}
+          {% assign sorted_pages_reverse = (site.upcoming | sort: 'pid' | reverse) %}
+          {% for item in sorted_pages_reverse %}
             {% if item.pid < today %}
             <h2>Recent</h2>
             <ul class="bwEventList">
@@ -46,7 +48,7 @@
             {% endif %}
           {% endfor %}
           {% assign count = 0 %}
-          {% for item in sorted_pages %}
+          {% for item in sorted_pages_reverse %}
             {% if item.pid < today %}
               <li>
                 <span class="bwSummary">
@@ -63,7 +65,7 @@
            {% else %}
            {% endif %}
           {% endfor %}
-          {% for item in sorted_pages %}
+          {% for item in sorted_pages_reverse %}
             {% if item.pid < today %}
             </ul>
             {% break %}
