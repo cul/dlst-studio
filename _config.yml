@@ -1,15 +1,32 @@
 # Site settings
-title         : Butler Studio
-email         : studio@libraries.cul.columbia.edu
-description   : >
-  The Butler Library Studio provides a co-working space to the Columbia community for gatherings and collaborations that advance the practice of pedagogy and digital scholarship.
-baseurl       : ''
-url           : ''
-source        : 'src'
+title: CUL Studio
+description: >- # this means to ignore newlines until "baseurl:"
+  The Columbia University Libraries Studio is both a space and a practice that
+  enables ethical, sustainable, FAIR, and collaborative, digitally-driven
+  research and pedagogy.
+email: studio@libraries.cul.columbia.edu
+baseurl: '/dslt-studio'
 
-exclude       : [Rakefile, vendor, Gemfile*, README*]
-permalink     : pretty
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-redirect-from
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+kramdown:
+  input: GFM
+  footnote_backlink: '&#x21A9;&#xFE0E;'
+  auto_id_prefix: s-
+  parse_block_html: true
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
+      start_line: 1
 
+permalink: pretty
 # Collections for happenings
 collections:
   ongoing:
