@@ -10,17 +10,60 @@
     {% endif %}
   {% endcapture %}
   {% capture description %}{{ raw_description | strip }}{% endcapture %}
+  {% capture image %}{%if page.image %}{{ page.image }}{% else %}{{ site.image }}{% endif %}{% endcapture %}
+  {% capture url %}{{ page.url | absolute_url }}{% endcapture %}
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- OpenGraph -->
   <meta property="og:title" content="{{ title }}"/>
   <meta property="og:description" content="{{ description }}">
-  <meta property="fb:admins" content="elotroalex"/>
-  <meta property="og:url" rel="canonical" content="https://studio.cul.columbia.edu/{{page.url}}"/>
-  <meta property="fb:app_id" content="589495744558280"/>
-  <meta property="og:image" content="https://studio.cul.columbia.edu/assets/og-moth.jpg"/>
+  <meta property="og:url" rel="canonical" content="{{ url }}"/>
+  <meta property="og:image" content="{{ image }}"/>
+  <!-- <meta property="og:image:type" content="image/png" /> -->
   <meta property="og:image:width" content="300" />
   <meta property="og:image:height" content="300" />
+  <meta property="og:locale" content="en_US" />
+  <meta property="og:type" content="website" />
+  <meta property="fb:admins" content="{{ site.fb.admins }}"/>
+  <meta property="fb:app_id" content="{{ site.fb.app_id }}"/>
+
+  <!-- Twitter -->
+  <meta name="twitter:title" content="{{ title }}" />
+  <meta name="twitter:creator" content="@elotroalex" />
+  <meta name="twitter:description" content="{{ description }}" />
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:image" content="{{ image }}" />
+
+  <!-- Dublin Core -->
+  <meta name="DC.title" content="{{ title }}" />
+  <meta name="DC.description" content="{{ description }}" />
+  <meta name="DC.type" content="{{ page.dcType | default: 'Text' }}">
+  <!-- <meta name="DC.creator" content="{{page.author.creator}}"> -->
+  <!-- <meta name="DC.created" content="2018-06-25"> -->
+  <!-- <meta name="DC.date" content="2018-06-25"> -->
+
+  <!-- ld+json -->
+  <script type="application/ld+json">
+    { 
+      "@context": "http://schema.org", 
+      "@type": "{{ page.dcType | default: 'WebSite' }}", 
+        "url": "{{ url }}", 
+      "name": "{{ title }}",
+      {% if page.author %}
+        "author": [{ "@type": "Person", "name": "{{ page.author.name }}", "url": "{{ page.author.url | default: "" }}" }],
+      {% else %}
+        "author": [
+          { "@type": "Person", "name": "Alex Gil", "url": "http://elotroalex.com" }
+          ],
+      {% endif %}
+      "description": "{{ description }}",
+      "publisher": "Columbia University Libraries",
+      "datePublished": "2018-06-25"
+    }
+  </script>
+
   <title>{{ title }}</title>
   <meta name="description" content="{{ description }}">
 

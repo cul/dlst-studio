@@ -6,6 +6,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   research and pedagogy.
 email: studio@libraries.cul.columbia.edu
 baseurl: '/dslt-studio'
+image: "https://studio.cul.columbia.edu/assets/og-moth.jpg"
 
 markdown: kramdown
 plugins:
@@ -35,3 +36,6 @@ collections:
     output: true
   upcoming:
     output: true
+fb:
+  admins: elotroalex
+  app_id: 589495744558280
