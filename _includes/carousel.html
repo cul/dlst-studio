@@ -10,7 +10,7 @@
         <img src="{{ imgsrc }}" alt="{{ slide.img.alt }}">
         <div class="carousel-caption" style="background: rgba(0,0,0,.5);">
           <h5>{{ slide.head }}</h5>
-          <p>Some subtext</p>
+          {{ slide.subtext | markdownify }}
         </div>
       </div>
     {% endfor %}
