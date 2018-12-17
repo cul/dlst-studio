@@ -1,0 +1,18 @@
+- head: PR Mapathon
+  img: 
+    src: "/assets/imgs/03mapathon1-jumbo.jpg"
+    alt: "PR Mapathon photo from nyt."
+- head: Headline 1
+  img: 
+    src: "/assets/imgs/coaching-coders-coding-7374.jpg"
+    alt: "Coders coaching. https://www.pexels.com/photo/working-woman-technology-computer-7374/"
+- head: Headline 2
+  img:
+    src: "/assets/imgs/beautiful-connection-education-1181233.jpg"
+    alt: "Three women. https://www.pexels.com/photo/three-woman-in-front-of-laptop-computer-1181233/"
+- head: Headline 3
+  img:
+    src: "/assets/imgs/activity-art-art-class-730807.jpg"
+    alt: "Art project. https://www.pexels.com/photo/woman-pouring-down-a-brown-paint-730807/"
+
+
