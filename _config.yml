@@ -39,3 +39,10 @@ collections:
 fb:
   admins: elotroalex
   app_id: 589495744558280
+defaults:
+- scope:
+    path: ""
+    type: pages
+  values:
+    layout: page
+

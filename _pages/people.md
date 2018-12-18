@@ -1,10 +1,7 @@
 ---
-layout: default
 title: People
 permalink: people
 ---
-
-## CUL Studio People
 
 <div class="card-columns">
 {% for person in site.data.people %}
