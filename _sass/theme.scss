@@ -6,9 +6,6 @@ $font-family-monospace: "Source Code Pro", Monaco, monospace;
 
 
 // Our variables
-$base-font-size:   16px;
-$base-font-weight: 400;
-$small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
 
 $spacing-unit:     30px;
@@ -45,6 +42,8 @@ $theme-colors: (
     }
 }
 
+$font-size-base:              1rem;
+$h1-font-size:                $font-size-base * 3.5;
 $card-columns-count: 4;
 
 @import "./vendor/bootstrap/scss/functions";
