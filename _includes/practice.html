@@ -1,13 +1,28 @@
 <div class="card">
-  <div class="card-header">
-    <h2 class="mb-0">Practice</h2>
+  <div class="card-header d-flex">
+    <h2 class="mr-auto mb-0">Practice</h2>
+    <ul class="nav justify-content-end nav-pills card-header-pills" id="practice-tabs" role="tablist">
+      <li class="nav-item">
+        <a class="nav-link active" href="#principles" id="principles-tab" data-toggle="pill" role="tab" aria-controls="principles-tab" aria-selected="true">Principles</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#learning" id="learning-tab" data-toggle="pill" role="tab" aria-controls="learning-tab" aria-selected="true">Learning</a>
+      </li>
   </div>
   <div class="card-body">
-    <p class="lead">CUL Studio enables ethical, sustainable, collaborative and FAIR digital, data-driven research and pedagogy.</p>
-    <ul>
-      <li>Ethical: Technology is never neutral</li>
-      <li>Sustainable: Scholarship is not merely for now</li>
-      <li>Collaborative: Be friends</li>
-      <li>FAIR: Work at CUL Studio should be FAIR</li>
+    <div class="tab-content" id="practice-tab-content">
+      <div class="tab-pane active" id="principles" role="tabpanel" aria-labelledby="principles-tab">
+        <p class="lead">CUL Studio enables ethical, sustainable, collaborative and FAIR digital, data-driven research and pedagogy.</p>
+        <ul>
+          <li>Ethical: Technology is never neutral</li>
+          <li>Sustainable: Scholarship is not merely for now</li>
+          <li>Collaborative: Be friends</li>
+          <li>FAIR: Work at CUL Studio should be FAIR</li>
+        </ul>
+      </div>
+      <div class="tab-pane" id="learning" role="tabpanel" aria-labelledby="learning-tab">
+        <p class="lead">Learning at CUL Studio</p>
+      </div>
+    </div>
   </div>
 </div>
