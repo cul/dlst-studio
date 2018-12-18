@@ -1,0 +1,15 @@
+<h2>Upcoming Events</h2>
+
+Venerable Bede Works.
+
+<h2>Recent News</h2>
+
+<ul>
+{% for i in (0..2) %}
+  {% assign post = site.posts[i] %}
+<li><a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+</ul>
+
+
+<h2>On the Net</h2>
