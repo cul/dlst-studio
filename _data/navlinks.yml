@@ -1,0 +1,11 @@
+- text: About
+  url: /about
+- text: Code of Conduct
+  url: /code-of-conduct
+- text: Privacy Statement
+  url: /privacy-statement
+- text: People
+  url: /people
+- text: Contact
+  url: /contact
+
