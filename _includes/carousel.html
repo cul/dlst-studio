@@ -7,7 +7,7 @@
         {% capture imgsrc %}{{ slide.img.src | prepend: site.baseurl }}{%endcapture %}
       {% endif %}
       <div class="carousel-item">
-        <img src="{{ imgsrc }}" alt="{{ slide.img.alt }}">
+        <img class="d-block w-100" src="{{ imgsrc }}" alt="{{ slide.img.alt }}">
         <div class="carousel-caption" style="background: rgba(0,0,0,.5);">
           <h5>{{ slide.head }}</h5>
           {{ slide.subtext | markdownify }}
