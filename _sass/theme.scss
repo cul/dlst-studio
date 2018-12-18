@@ -1,8 +1,8 @@
 @charset "utf-8";
 
 $title-font: "Trajan Pro", "Cinzel", serif;
-$body-font: "Adobe Garamond", "EB Garamond", "Garamond", serif;
-$code-font: "Source Code Pro", Monaco, monospace;
+$font-family-base: "Adobe Garamond", "EB Garamond", "Garamond", serif;
+$font-family-monospace: "Source Code Pro", Monaco, monospace;
 
 
 // Our variables
@@ -28,7 +28,7 @@ $on-palm:          600px;
 $on-laptop:        800px;
 
 $theme-colors: (
-  "primary": #88A988,
+  "primary": $brand-color,
   "danger": #356E81
 );
 
@@ -44,6 +44,22 @@ $theme-colors: (
         @content;
     }
 }
+
+$card-columns-count: 4;
+
+@import "./vendor/bootstrap/scss/functions";
+@import "./vendor/bootstrap/scss/variables";
+@import "./vendor/bootstrap/scss/mixins";
+@import "./vendor/bootstrap/scss/reboot";
+@import "./vendor/bootstrap/scss/type";
+@import "./vendor/bootstrap/scss/images";
+@import "./vendor/bootstrap/scss/code";
+@import "./vendor/bootstrap/scss/grid";
+@import "./vendor/bootstrap/scss/carousel";
+@import "./vendor/bootstrap/scss/card";
+@import "./vendor/bootstrap/scss/nav";
+@import "./vendor/bootstrap/scss/media";
+@import "./vendor/bootstrap/scss/utilities";
 
 
 // Import partials from `sass_dir` (defaults to `_sass`)
