@@ -3,13 +3,11 @@ title: People
 permalink: people
 ---
 
-<div class="card-columns">
-{% for person in site.data.people %}
-<div class="card">
-<img class="card-img-top" src="{{ site.baseurl }}/assets/imgs/people/{{ person.img.src }}" alt="{{ person.name }}">
-<div class="card-body">
-<h3 class="card-title">{{ person.name }}</h3>
-</div>
-</div>
-{% endfor %}
+{% capture people %}
+	{% for person in site.data.people %}
+		{'name': '{{ person.name }}', 'img_src': '{{ site.baseurl }}/assets/imgs/people/{{ person.img.src }}'},
+	{% endfor %}
+{% endcapture %}
+
+<div id="people-columns" class="card-columns" data-people="[{{ people }}]">
 </div>
