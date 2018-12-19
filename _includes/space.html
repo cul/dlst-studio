@@ -26,7 +26,25 @@
         {% endif %}
         <div class="tab-pane {{ active }}" id="{{ space.tag }}" role="tabpanel" aria-labelledby="{{ space.tag }}-tab">
           <h5 class="card-title">CUL Studio {{ space.name }}</h5>
-          {{ space.text | markdownify }}
+          <div class="row">
+            <div class="col-xl-6 order-12 order-xl-1">
+              {{ space.text | markdownify }}
+            </div>
+            <div class="col-xl-6 order-1 order-xl-12">
+              <img class="img-fluid" src="{{ space.img.src | prepend: site.baseurl }}" alt="{{ space.img.alt }}" />
+              <ul class="nav nav-justified">
+                <li class="nav-item">
+                  <a class="nav-link" href="{{ space.tag }}-location"><i class="fas fa-map-marked-alt"></i><span class="sr-only">Location</span></a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="{{ space.tag }}-calendar"><i class="far fa-calendar-alt"></i><span class="sr-only">Calendar</span></a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="{{ space.tag }}-archive"><i class="fas fa-archive"></i><span class="sr-only">Archive</span></a>
+                </li>
+              </ul>
+            </div>
+          </div>
         </div>
       {% endfor %}
     </div>
