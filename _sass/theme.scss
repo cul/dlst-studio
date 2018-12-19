@@ -27,7 +27,7 @@ $on-laptop:        800px;
 
 $theme-colors: (
   "primary": $brand-color,
-  "danger": #356E81
+  "secondary": #356E81
 );
 
 // Use media queries like this:
@@ -47,6 +47,10 @@ $font-size-base:              1rem;
 $h1-font-size:                $font-size-base * 3.5;
 $card-columns-count: 4;
 
+.map {
+  height: 300px;
+}
+
 @import "./vendor/bootstrap/scss/functions";
 @import "./vendor/bootstrap/scss/variables";
 @import "./vendor/bootstrap/scss/mixins";
@@ -60,6 +64,8 @@ $card-columns-count: 4;
 @import "./vendor/bootstrap/scss/nav";
 @import "./vendor/bootstrap/scss/media";
 @import "./vendor/bootstrap/scss/utilities";
+@import "./vendor/bootstrap/scss/buttons";
+@import "./vendor/bootstrap/scss/transitions";
 
 
 // Import partials from `sass_dir` (defaults to `_sass`)

@@ -32,22 +32,25 @@
             </div>
             <div class="col-xl-6 order-1 order-xl-12">
               <img class="img-fluid" src="{{ space.img.src | prepend: site.baseurl }}" alt="{{ space.img.alt }}" />
-              <ul class="nav nav-justified">
-                <li class="nav-item">
-                  <a class="nav-link" href="{{ space.tag }}-location"><i class="fas fa-map-marked-alt"></i><span class="sr-only">Location</span></a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link" href="{{ space.tag }}-calendar"><i class="far fa-calendar-alt"></i><span class="sr-only">Calendar</span></a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link" href="{{ space.tag }}-archive"><i class="fas fa-archive"></i><span class="sr-only">Archive</span></a>
-                </li>
-              </ul>
             </div>
+          </div>
+          <ul class="nav nav-justified">
+            <li class="nav-item">
+              <a class="nav-link" href="#{{ space.tag }}-location" data-toggle="collapse" role="button" aria-expanded="false" aria-controls="{{ space.tag }}-location"><i class="fas fa-map-marked-alt"></i><span class="sr-only">Location</span></a>
+              <!-- <a class="nav-link" href="#{{ space.tag }}-location" data-toggle="collapse" role="button" aria-expanded="false" aria-controls="{{ space.tag }}-location" onClick="initMap(['{{ space.tag }}-map', {{ space.lat }}, {{ space.lng }}])"><i class="fas fa-map-marked-alt"></i><span class="sr-only">Location</span></a> -->
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="{{ space.tag }}-calendar"><i class="far fa-calendar-alt"></i><span class="sr-only">Calendar</span></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="{{ space.tag }}-archive"><i class="fas fa-archive"></i><span class="sr-only">Archive</span></a>
+            </li>
+          </ul>
+          <div class="location collapse" data-lat="{{ space.lat }}" data-lng="{{ space.lng }}" id="{{ space.tag }}-location">
+            {% include location.html %}
           </div>
         </div>
       {% endfor %}
     </div>
   </div>
 </div>
-
