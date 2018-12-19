@@ -13,3 +13,10 @@ Venerable Bede Works.
 
 
 <h2>On the Net</h2>
+
+<h2>Affiliates</h2>
+<ul>
+  {% for affiliate in site.data.affiliates %}
+    <li><a href="{{ affiliate.url }}">{{ affiliate.name }}</a></li>
+  {% endfor %}
+</ul>
