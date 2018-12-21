@@ -8,10 +8,13 @@ email: studio@libraries.cul.columbia.edu
 baseurl: '/dlst-studio'
 image: "https://studio.cul.columbia.edu/assets/og-moth.jpg"
 
+paginate: 10
+paginate_path: "/news/page:num/"
 markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-paginate
 exclude:
   - Gemfile
   - Gemfile.lock
