@@ -1,3 +1,9 @@
+- head: research.txt
+  img: 
+    src: "https://i.imgur.com/BPNaV5B.png"
+    src1: "/assets/imgs/03mapathon1-jumbo.jpg"
+    alt: "research.txt"
+  subtext: This is the teaser for research.txt
 - head: PR Mapathon
   img: 
     src: "https://i.imgur.com/vm4377F.jpg"
