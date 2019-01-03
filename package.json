@@ -1,0 +1,24 @@
+{
+  "name": "dlst-studio",
+  "version": "1.0.0",
+  "description": "Jekyll site for the Digital Humanities @Columbia",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muziejus/dlst-studio.git"
+  },
+  "keywords": [],
+  "author": "Moacir P. de Sá Pereira <moacir.p@columbia.edu> (http://moacir.com)",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/muziejus/dlst-studio/issues"
+  },
+  "homepage": "https://github.com/muziejus/dlst-studio#readme",
+  "devDependencies": {
+    "webpack": "^4.28.3",
+    "webpack-cli": "^3.2.0"
+  }
+}
