@@ -1,7 +1,7 @@
 ---
 layout: event
 title: "\"Just Digitization: Opportunities for Image Processing in Digital Humanities\" with Melissa Terras"
-location: Butler Studio, 208b
+location: butler
 tags: 
 type: talk
 prompt: "Most Digital Humanities activity revolves around text and textual processing, although there are more and more opportunities to use 2D and 3D  imaging approaches applied to primary historical sources to enable their analysis. In this talk, Terras will talk about the research relationship between the computational and engineering sciences and the cultural heritage community, and provide an overview of various projects which have seen the adoption and adaption of digitisation techniques which require data processing and analysis."

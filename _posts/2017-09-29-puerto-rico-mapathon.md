@@ -1,7 +1,7 @@
 ---
 layout: event
 title: "Puerto Rico Mapathon for Hurricane Relief"
-location: "Butler Studio (208b)"
+location: butler
 type: mapathon
 prompt: "Following the recent hurricane, people around the world are using the [OpenStreetMap](http://tasks.hotosm.org) platform to give their time to hurricane relief efforts. The Red Cross in Puerto Rico has requested two tasks we can help with for their relief efforts. During the mapathon, we will teach people how to help with these efforts through mapping, and we will map together."
 categories:

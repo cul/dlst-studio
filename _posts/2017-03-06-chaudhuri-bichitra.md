@@ -1,7 +1,7 @@
 ---
 layout: event
 title: "The Various Tagore: The Making Of A Database"
-location: "Butler Studio, 208b"
+location: butler
 type: lecture
 prompt: "In this lecture, Prof. Sukanta Chaudhuri will present Bichitra, the Online
 Variorum of the works of Rabindranath Tagore. Tagore’s works in Bengali and

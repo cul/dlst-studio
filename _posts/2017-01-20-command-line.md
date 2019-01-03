@@ -1,7 +1,7 @@
 ---
 layout: event
 title: "Command Line Interfaces for Textual Criticism w/ Dennis Tenen and Pamela Smith"
-location: "Butler Studio (208b)"
+location: butler
 type: workshop
 prompt: "Command line interfaces are an essential building block of all
 computer-mediated research and design activity. It is also a good way to \"dip

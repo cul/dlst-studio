@@ -1,7 +1,7 @@
 ---
 layout: event
-title: "\"Cabinet Logics: An Intellectual History of Book Furniture\" with Shannon Mattern"
-location: Butler Library, Room 535
+title: "“Cabinet Logics: An Intellectual History of Book Furniture” with Shannon Mattern"
+location: Butler Library 523
 tags: 
 type: talk
 prompt: "While the physical properties of our reading materials, and our material engagements with them, have evolved over the millennia – and particularly within the past decade – we still rely on physical supports, furnishings, to scaffold our interactions with them."

@@ -1,7 +1,7 @@
 ---
 layout: event
 title: "Leigh Hunt, Textual Studies, and Digital Humanities"
-location: "Butler Studio, 208b"
+location: butler
 type: lecture
 prompt: "This lecture by Prof. Michael E. Sinatra, Université de Montréal, will
 investigate the complex politics of authorial revisions and reception history

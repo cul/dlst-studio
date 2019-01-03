@@ -1,7 +1,7 @@
 ---
 layout: event
 title: "In the Same Boats: Toward an Intellectual Cartography of the Afro-Atlantic"
-location: "Butler Studio (208b), Columbia University"
+location: butler
 type: workshop
 prompt: "This work of multimodal scholarship consists of a series of
 interactive maps that trace the movement of seminal intellectuals of Africa,

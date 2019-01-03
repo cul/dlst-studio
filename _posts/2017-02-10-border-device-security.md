@@ -1,7 +1,7 @@
 ---
 layout: event
 title: "Electronic Device Security at the Border"
-location: "Butler Studio (208b)"
+location: butler
 type: teach-in
 prompt: "As part of our ongoing, \"Technologies of Dissent\" series (in
 partnership with the Electronic Frontiers Alliance), this teach-in will

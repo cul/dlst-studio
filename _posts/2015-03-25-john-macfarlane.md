@@ -1,7 +1,7 @@
 ---
 layout: event
 title: "John MacFarlane"
-location: "Butler Studio, 208b"
+location: butler
 participants:
 type: encounter
 prompt: "Workshop on pandoc, a tool for authoring academic documents using plain text, by its author John MacFarlane, chair of philosophy at University of California, Berkeley"

@@ -1,7 +1,7 @@
 ---
 layout: event
 title: "Introduction to Minimal Computing in the Humanities: Building an Exhibit of Primary Sources Using Wax"
-location: "Butler Studio"
+location: butler
 type: workshop series
 prompt: "Alex Gil, Digital Scholarship Librarian at Columbia University Libraries, leads a workshop series on minimal computing techniques for building digital archives and exhibits of cultural artifacts."
 categories:

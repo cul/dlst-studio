@@ -1,7 +1,7 @@
 ---
 layout: event
 title: "Indo-Ghuria: Continuities and Ruptures in 12th-13th-Century South and Central Asia"
-location: Butler 208B
+location: butler
 participants:
 - Manan Ahmed
 - Viola Allegranzi

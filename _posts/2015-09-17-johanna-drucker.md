@@ -1,7 +1,7 @@
 ---
 layout: event
 title: "Johanna Drucker"
-location: "Butler Studio, 208b"
+location: butler
 participants:
 type: encounter
 prompt: "How can we model temporal relations and chronologies without a standard Cartesian grid as the ground?"

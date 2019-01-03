@@ -1,7 +1,7 @@
 ---
 layout: event
 title: "A Digital Critical Edition for the Making and Knowing Project"
-location: "Butler Studio"
+location: butler
 tags:
 - Pamela Smith
 participants:

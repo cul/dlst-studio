@@ -1,7 +1,7 @@
 ---
 layout: event
 title: "Nepal Mapathon for Earthquake Relief"
-location: "Studio@Butler, Butler Library 208b"
+location: butler
 tags: 
 type: mapathon
 prompt: "Come help with relief efforts on the ground in Nepal by contributing your time to open-source mapping."

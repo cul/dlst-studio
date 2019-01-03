@@ -1,7 +1,7 @@
 ---
 layout: event
 title: "Literary Modeling and Visualization Lab"
-location: Butler Studio, 208b
+location: butler
 participants:
 type: reading circle
 prompt: "The Literary Modeling and Visualization Lab meets weekly to discuss recent scholarship in the field."

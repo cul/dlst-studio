@@ -1,7 +1,7 @@
 ---
 layout: event
 title: "Eben Moglen"
-location: "Butler Studio, 208b"
+location: butler
 participants:
 type: encounter
 prompt: " Universities were the freest places in human society to compute—and therefore

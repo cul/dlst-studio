@@ -1,7 +1,7 @@
 ---
 layout: event
 title: "Version Control for Textual Criticism w/ Dennis Tenen and Pamela Smith"
-location: "Butler Studio (208b)"
+location: butler
 type: workshop
 prompt: "Join us for our regular \"Version Control for Textual Criticism\" workshop
 tomorrow (Friday, Jan 27th) from 2-4pm at Butler Studio (Butler 208b). We'll

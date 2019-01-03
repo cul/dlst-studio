@@ -2,7 +2,7 @@
 layout: event
 title: "Digital Amati: Structure and Interpretation of Classical String
 Instruments"
-location: "Butler Studio (208b)"
+location: butler
 type: lecture
 prompt: "Harry Mairson, professor of computer science, Brandeis University,
 and amateur violoncello maker, has conducted research on type systems in
