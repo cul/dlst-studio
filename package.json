@@ -18,7 +18,40 @@
   },
   "homepage": "https://github.com/muziejus/dlst-studio#readme",
   "devDependencies": {
+    "acorn": "^6.0.5",
+    "prettier": "^1.15.3",
     "webpack": "^4.28.3",
-    "webpack-cli": "^3.2.0"
+    "webpack-cli": "^3.2.0",
+    "xo": "^0.23.0"
+  },
+  "xo": {
+    "envs": [
+      "amd"
+    ],
+    "globals": [
+      "it",
+      "describe"
+    ],
+    "prettier": true,
+    "space": true,
+    "rules": {
+      "require-await": 0,
+      "quotes": [
+        "error",
+        "double"
+      ]
+    },
+    "overrides": [
+      {
+        "files": "features/**/*.js",
+        "rules": {
+          "new-cap": 0
+        }
+      }
+    ]
+  },
+  "prettier": {
+    "singleQuote": false,
+    "bracketSpacing": true
   }
 }
