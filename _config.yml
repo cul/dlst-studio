@@ -19,6 +19,11 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
+  - node_modules
+  - src
+  - webpack.config.js
+  - package.json
+  - package-lock.json
 kramdown:
   input: GFM
   footnote_backlink: '&#x21A9;&#xFE0E;'
