@@ -10,7 +10,7 @@
     {% endif %}
   {% endcapture %}
   {% capture description %}{{ raw_description | strip }}{% endcapture %}
-  {% capture image %}{%if page.image %}{{ page.image }}{% else %}{{ site.image }}{% endif %}{% endcapture %}
+  {% capture image %}{%if page.image %}{{ page.image.url }}{% else %}{{ site.image.url }}{% endif %}{% endcapture %}
   {% capture url %}{{ page.url | absolute_url }}{% endcapture %}
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
