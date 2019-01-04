@@ -1,5 +1,4 @@
 ---
-
 title: "Introduction to Minimal Computing in the Humanities: Building an Exhibit of Primary Sources Using Wax"
 location: butler
 type: workshop series

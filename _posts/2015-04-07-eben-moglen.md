@@ -1,5 +1,4 @@
 ---
-
 title: "Eben Moglen"
 location: butler
 participants:

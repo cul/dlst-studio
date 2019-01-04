@@ -1,5 +1,4 @@
 ---
-
 title: "Johanna Drucker"
 location: butler
 participants:

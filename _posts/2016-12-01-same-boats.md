@@ -1,5 +1,4 @@
 ---
-
 title: "In the Same Boats: Toward an Intellectual Cartography of the Afro-Atlantic"
 location: butler
 type: workshop

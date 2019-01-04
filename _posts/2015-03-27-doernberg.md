@@ -1,5 +1,4 @@
 ---
-
 title: "Bitcoin Basics w/ Ben Doernberg"
 location: butler
 participants:

@@ -1,5 +1,4 @@
 ---
-
 title: "Electronic Device Security at the Border"
 location: butler
 type: teach-in

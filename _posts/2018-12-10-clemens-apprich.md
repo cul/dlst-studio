@@ -1,5 +1,4 @@
 ---
-
 title: "Media and Paranoia w/ Clemens Apprich (Leuphana University)"
 location: butler
 type: talk

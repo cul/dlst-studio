@@ -1,5 +1,4 @@
 ---
-
 title: "An Introduction to Topological Data Analysis for the Digital Humanities" 
 location: butler
 type: lecture

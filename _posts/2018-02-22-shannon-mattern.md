@@ -1,5 +1,4 @@
 ---
-
 title: "“Cabinet Logics: An Intellectual History of Book Furniture” with Shannon Mattern"
 location: Butler Library 523
 tags: 

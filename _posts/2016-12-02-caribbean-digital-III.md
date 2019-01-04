@@ -1,5 +1,4 @@
 ---
-
 title: "the caribbean digital III"
 location: "Maison Française, Columbia University"
 type: conference

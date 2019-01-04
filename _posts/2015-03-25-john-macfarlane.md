@@ -1,5 +1,4 @@
 ---
-
 title: "John MacFarlane"
 location: butler
 participants:

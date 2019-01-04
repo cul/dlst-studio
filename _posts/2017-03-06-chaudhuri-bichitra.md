@@ -1,5 +1,4 @@
 ---
-
 title: "The Various Tagore: The Making Of A Database"
 location: butler
 type: lecture

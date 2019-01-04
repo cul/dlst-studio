@@ -1,5 +1,4 @@
 ---
-
 title: "Christiane Frey"
 location: "Heyman Center for the Humanities, Second Floor Common Room"
 tags: 

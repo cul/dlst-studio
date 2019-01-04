@@ -1,5 +1,4 @@
 ---
-
 title: "Version Control for Textual Criticism w/ Dennis Tenen and Pamela Smith"
 location: butler
 type: workshop

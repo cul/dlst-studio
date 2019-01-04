@@ -1,5 +1,4 @@
 ---
-
 title: "Literary Modeling and Visualization Lab"
 location: butler
 participants:

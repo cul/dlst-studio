@@ -1,5 +1,4 @@
 ---
-
 title: "Digital Amati: Structure and Interpretation of Classical String
 Instruments"
 location: butler
