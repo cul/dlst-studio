@@ -1,0 +1,17 @@
+<div class="card w-50 float-right">
+  <div class="card-header">
+    Associated Events
+  </div>
+  <div class="card-body">
+    <ul>
+    {% for event in page.events %}
+      <li><strong>{{ event.title }}</strong><br />
+        {{ event.start }} – {{ event.end }}<br />
+        {{ event.location }} <br />
+        {{ event.guid }} <br />
+      </li>
+    {% endfor %}
+    </ul>
+  </div>
+</div>
+
