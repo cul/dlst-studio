@@ -1,13 +1,7 @@
-/**
- * Reset some basic elements
- */
 #bwOutput {
     display: none;
 }
 
-/**
- * Basic styling
- */
 body {
     color: $text-color;
     background-color: $background-color;
@@ -22,18 +16,6 @@ body {
 h1 {
   font-family: $title-font;
 }
-
-
-/**
- * Set `margin-bottom` to maintain vertical rhythm
- */
-h1, h2, h3, h4, h5, h6,
-p, blockquote, pre,
-ul, ol, dl, figure,
-%vertical-rhythm {
-    margin-bottom: $spacing-unit / 2;
-}
-
 
 
 /**
@@ -52,19 +34,3 @@ blockquote {
     }
 }
 
-/**
- * Icons
- */
-.icon {
-
-    > svg {
-        display: inline-block;
-        width: 16px;
-        height: 16px;
-        vertical-align: middle;
-
-        path {
-            fill: $grey-color;
-        }
-    }
-}
