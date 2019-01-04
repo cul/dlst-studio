@@ -6,6 +6,10 @@ layout: default
   <header class="post-header">
     {% if page.image.url %}
       <img class="img-thumbnail img-fluid" src="{{ page.image.url }}" alt="{{ page.image.alt }}" />
+    {% elsif page.location == "butler" %}
+      <a href="{{ site.data.images.butler.orig-url }}">
+        <img class="img-thumbnail img-fluid" src="{{ site.data.images.butler.url }}" alt="{{ site.data.images.butler.alt }} by {{ site.data.images.butler.photographer }}" />
+      </a>
     {% endif %}
     <h2 class="post-title" itemprop="name headline">{{ page.title }}</h2>
     <p class="post-meta">Published: <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
