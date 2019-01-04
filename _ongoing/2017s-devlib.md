@@ -1,5 +1,4 @@
 ---
-layout: event
 title: "Developing Librarian Program"
 time-slot: "Every other Tuesday at 9:30 AM"
 active: False

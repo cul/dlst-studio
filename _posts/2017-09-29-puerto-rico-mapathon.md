@@ -1,5 +1,5 @@
 ---
-layout: event
+
 title: "Puerto Rico Mapathon for Hurricane Relief"
 location: butler
 type: mapathon

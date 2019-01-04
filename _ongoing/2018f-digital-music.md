@@ -1,5 +1,4 @@
 ---
-layout: event
 title: "Techniques and Tools for the Critique of Digital Music"
 time-slot: "MW 10:10 AM - 11:25 AM"
 active: True

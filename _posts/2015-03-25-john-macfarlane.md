@@ -1,5 +1,5 @@
 ---
-layout: event
+
 title: "John MacFarlane"
 location: butler
 participants:

@@ -1,5 +1,5 @@
 ---
-layout: event
+
 title: "Public Library/Memory of the World with Marcell Mars"
 location: butler
 type: talk

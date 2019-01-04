@@ -1,5 +1,5 @@
 ---
-layout: event
+
 title: "Nadia Altschul"
 location: "Heyman Center for the Humanities, Second Floor Common Room"
 tags: 

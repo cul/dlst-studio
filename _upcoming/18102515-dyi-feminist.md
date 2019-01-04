@@ -1,5 +1,4 @@
 ---
-layout: event
 title: "DYI Feminist Cybersecurity: A Primer"
 pid: 18102515
 time-slot: "October 25, 3:00 PM - 3:45 PM"

@@ -1,5 +1,5 @@
 ---
-layout: event
+
 title: "\"Just Digitization: Opportunities for Image Processing in Digital Humanities\" with Melissa Terras"
 location: butler
 tags: 

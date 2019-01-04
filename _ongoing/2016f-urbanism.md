@@ -1,5 +1,4 @@
 ---
-layout: event
 title: "Mapping for Architecture Urbanism and the Humanities"
 time-slot: "Fridays 11:00 PM - 1:00 PM"
 active: False

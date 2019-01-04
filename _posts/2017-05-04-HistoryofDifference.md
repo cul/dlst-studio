@@ -1,5 +1,5 @@
 ---
-layout: event
+
 title: "A History of Difference: Piety and Space in Early Modern West Asia"
 location: Sulzberger Parlor, Barnard Hall
 participants:

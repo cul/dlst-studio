@@ -1,5 +1,4 @@
 ---
-layout: event
 title: "Data Visualization for Architecture Urbanism and the Humanities"
 time-slot: "Fridays 9:00 AM - 11:00 AM"
 active: False

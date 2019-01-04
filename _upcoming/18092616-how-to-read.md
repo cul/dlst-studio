@@ -1,5 +1,4 @@
 ---
-layout: event
 title: "How To Read"
 pid: 18092616
 time-slot: "September 26, 4:00 PM - 5:00 PM"

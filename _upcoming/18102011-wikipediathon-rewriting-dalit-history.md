@@ -1,5 +1,4 @@
 ---
-layout: event
 title: "Wikipediathon: Rewriting Dalit History"
 pid: 18102011
 time-slot: "October 20, 11:00 AM - 3:00 PM"

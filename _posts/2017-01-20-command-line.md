@@ -1,5 +1,5 @@
 ---
-layout: event
+
 title: "Command Line Interfaces for Textual Criticism w/ Dennis Tenen and Pamela Smith"
 location: butler
 type: workshop

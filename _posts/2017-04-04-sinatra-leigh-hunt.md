@@ -1,5 +1,5 @@
 ---
-layout: event
+
 title: "Leigh Hunt, Textual Studies, and Digital Humanities"
 location: butler
 type: lecture

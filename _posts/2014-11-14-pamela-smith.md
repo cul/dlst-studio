@@ -1,5 +1,5 @@
 ---
-layout: event
+
 title: "A Digital Critical Edition for the Making and Knowing Project"
 location: butler
 tags:

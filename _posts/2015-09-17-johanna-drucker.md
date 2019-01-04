@@ -1,5 +1,5 @@
 ---
-layout: event
+
 title: "Johanna Drucker"
 location: butler
 participants:

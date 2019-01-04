@@ -1,5 +1,4 @@
 ---
-layout: event
 title: "Conflict Urbanism: InfraPolitics"
 time-slot: "Fridays 11:00 AM - 1:00 PM"
 active: False

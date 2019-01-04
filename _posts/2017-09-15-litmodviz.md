@@ -1,5 +1,5 @@
 ---
-layout: event
+
 title: "Literary Modeling and Visualization Lab"
 location: butler
 participants:

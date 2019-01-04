@@ -1,5 +1,5 @@
 ---
-layout: event
+
 title: "Indo-Ghuria: Continuities and Ruptures in 12th-13th-Century South and Central Asia"
 location: butler
 participants:

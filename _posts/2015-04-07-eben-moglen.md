@@ -1,5 +1,5 @@
 ---
-layout: event
+
 title: "Eben Moglen"
 location: butler
 participants:

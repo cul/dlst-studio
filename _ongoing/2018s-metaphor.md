@@ -1,5 +1,4 @@
 ---
-layout: event
 title: "Metaphor and Media Lab"
 time-slot: "Wednesday 2:40PM - 4:00 PM"
 active: False

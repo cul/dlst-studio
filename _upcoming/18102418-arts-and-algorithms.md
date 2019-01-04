@@ -1,5 +1,4 @@
 ---
-layout: event
 title: "Arts and Algorithms"
 pid: 18102418
 time-slot: "October 24, 6:30 PM - 9:00 PM"
