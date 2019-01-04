@@ -1,16 +1,26 @@
 <div id="carousel" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
-    {% for slide in site.data.carousel %}
-      {% if slide.img.src contains "http" %}
-        {% assign imgsrc = slide.img.src %}
-      {% else %}
-        {% capture imgsrc %}{{ slide.img.src | prepend: site.baseurl }}{%endcapture %}
+    {% for carousel-item in site.data.carousel %}
+      {% if carousel-item.slug %}
+        {% for post in site.posts %}
+          {% if carousel-item.slug == post.slug %}
+            {% if post.image %}
+              {% assign url = post.image.url %}
+              {% assign alt = post.image.alt %}
+            {% else %}
+              {% assign url = site.data.images[post.location].url %}
+              {% assign alt = site.data.images[post.location].alt %}
+            {% endif %}
+              {% assign title = post.title %}
+              {% assign prompt = post.prompt %}
+          {% endif %}
+        {% endfor %}
       {% endif %}
       <div class="carousel-item">
-        <img class="d-block w-100" src="{{ imgsrc }}" alt="{{ slide.img.alt }}">
+        <img class="img-thumbnail d-block w-100" src="{{ url }}" alt="{{ alt }}">
         <div class="carousel-caption" style="background: rgba(0,0,0,.5);">
-          <h5>{{ slide.head }}</h5>
-          {{ slide.subtext | markdownify }}
+          <h5>{{ title }}</h5>
+          {{ prompt | markdownify }}
         </div>
       </div>
     {% endfor %}
