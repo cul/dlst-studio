@@ -5,23 +5,26 @@
         {% for post in site.posts %}
           {% if carousel-item.slug == post.slug %}
             {% if post.image %}
-              {% assign url = post.image.url %}
+              {% assign src = post.image.url %}
               {% assign alt = post.image.alt %}
             {% else %}
-              {% assign url = site.data.images[post.location].url %}
+              {% assign src = site.data.images[post.location].url %}
               {% assign alt = site.data.images[post.location].alt %}
             {% endif %}
               {% assign title = post.title %}
               {% assign prompt = post.prompt %}
+              {% assign url = post.url %}
           {% endif %}
         {% endfor %}
       {% endif %}
       <div class="carousel-item">
-        <img class="img-thumbnail d-block w-100" src="{{ url }}" alt="{{ alt }}">
-        <div class="carousel-caption" style="background: rgba(0,0,0,.5);">
-          <h5>{{ title }}</h5>
-          {{ prompt | markdownify }}
-        </div>
+        <a href="{{ url | prepend: site.baseurl }}">
+          <img class="img-thumbnail d-block w-100" src="{{ src }}" alt="{{ alt }}">
+          <div class="carousel-caption" style="background: rgba(0,0,0,.5);">
+            <h5>{{ title }}</h5>
+            {{ prompt | markdownify }}
+          </div>
+        </a>
       </div>
     {% endfor %}
   </div>
