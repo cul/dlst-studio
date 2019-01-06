@@ -2,8 +2,8 @@
 title: CUL Studio
 description: >- # this means to ignore newlines until "baseurl:"
   The Columbia University Libraries Studio is both a space and a practice that
-  enables ethical, sustainable, FAIR, and collaborative, digitally-driven
-  research and pedagogy.
+  enables and promotes ethical, sustainable, FAIR, and collaborative, digital
+  and data-driven research and pedagogy.
 email: studio@libraries.cul.columbia.edu
 baseurl: '/dlst-studio'
 paginate: 10
