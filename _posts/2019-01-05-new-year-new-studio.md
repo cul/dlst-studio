@@ -75,8 +75,7 @@ practice, we will grow our library of tuition, creating workshops and
 tutorials as well as sharing others we encounter. We find that scholars with
 principles similar to ours are often left adrift by typical digital,
 data-driven tuition, which can be narrowly tool- and results-oriented.
-Instead, we foreground enabling scholars to learn to achieve their goals for
-ethical, sustainable, and collaborative digital, data-driven research and
-pedagogy.
+Instead, we foreground ethical, sustainable, and collaborative digital,
+data-driven research and pedagogy.
 
 The new year 2019 promises great things, and we hope you’ll join us for them.
