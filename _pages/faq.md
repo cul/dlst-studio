@@ -80,8 +80,7 @@ Humanities Center.
 
 Our Calendar provides more detailed information.
 
-### I am looking for a good place to study (individually or with a group). Can
-I use CUL Studio for that?
+### I am looking for a good place to study (individually or with a group). Can I use CUL Studio for that?
 
 CUL Studio is a space for active collaboration, training, presentation, and
 consultation. We welcome your ideas for group activities in CUL Studio
@@ -89,8 +88,7 @@ pertaining to this focus. To book a traditional group study or presentation
 practice space, please visit the [Libraries’s Room Reservation
 system](https://roomreservations.cul.columbia.edu/).
 
-### I am looking for a space to convene a meeting in Butler Library. Is 
-CUL Studio Butler available for that?
+### I am looking for a space to convene a meeting in Butler Library. Is CUL Studio Butler available for that?
 
 If your meeting pertains to ethical, sustainable, collaborative and FAIR
 digital, data-driven research or pedagogy, we are happy to work with you to
@@ -102,8 +100,7 @@ Yes, you can, but you have to let us know first. Usually you will be working
 with a library coordinator to plan your event. Make sure you let them know so
 that they can inform the Library Information Office.
 
-### I am teaching at Columbia, and my class includes a digital component. May
-I hold it in CUL Studio?
+### I am teaching at Columbia, and my class includes a digital component. May I hold it in CUL Studio?
 
 The libraries do not provide classroom space at Columbia. However, the CUL
 Studio may be booked for digital lab components of Columbia classes, as well
