@@ -2,7 +2,10 @@ import $ from "jquery";
 import L from "leaflet";
 
 $("#people-columns").html(function() {
-  const people = JSON.parse($( this ).data("people").replace(/'/g, '"').replace(/,\s*\]$/, "]"));
+  const people = JSON.parse($( this )
+    .data("people")
+    .replace(/'/g, '"')
+    .replace(/,\s*\]$/, "]"));
   return shuffle(people).map( person => {
     return `<div class="card">
 <img class="card-img-top" src="${ person.img_src }" alt="${ person.name }">
@@ -11,8 +14,7 @@ $("#people-columns").html(function() {
 </div>
 </div>
 `;
-}).join("\n");
-
+  }).join("\n");
 });
 
 function shuffle(a) {
@@ -37,5 +39,14 @@ $(".location").on("shown.bs.collapse", function() {
   setTimeout(() => {
     initMap([$( this ).attr("id").replace("location", "map"), $( this ).data("lat"), $( this ).data("lng")]);
   }, 500);
+});
+
+$(window).ready( () => {
+    $("#loader").hide();
+    $("#bwOutput").show();
+    $(".carousel-item").first().addClass("active");
+    // $(".carousel").carousel({
+    //   interval: 8000 // default: 5000
+    // });
 });
 
