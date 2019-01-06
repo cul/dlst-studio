@@ -44,11 +44,15 @@ $theme-colors: (
 }
 
 $font-size-base:              1rem;
-$h1-font-size:                $font-size-base * 3.5;
+$h1-font-size:                4.5rem;
 $card-columns-count: 4;
 
 .map {
   height: 300px;
+}
+
+#logo {
+  height: $h1-font-size;
 }
 
 @import "./vendor/bootstrap/scss/functions";
@@ -74,5 +78,6 @@ $card-columns-count: 4;
         "base",
         "cultnbw",
         "sidebar",
+        "carousel",
         "fonts";
 

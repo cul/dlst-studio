@@ -6,7 +6,7 @@ image:
   alt: "CUL Studio Lion with names of CUL Studios"
 prompt: >-
   2019 brings exciting new changes to the CUL Studio and digital, data-driven
-  research and pedagogy at Columbia University Libraries
+  research and pedagogy at Columbia University Libraries.
 categories:
 - article
 ---
