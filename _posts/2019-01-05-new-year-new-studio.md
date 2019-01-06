@@ -26,6 +26,7 @@ Center](http://teachingcenter.wikischolars.columbia.edu/), established
 “Studio@Butler,” which they described as a space “[designed to support emerging
 practices in pedagogy and digital
 scholarship](https://library.columbia.edu/news/libraries/2013/2013-9-11_Studio_Butler_Opens.html).” 
+{: .lead}
 
 A lot has changed in five years, with the continued growth of digital,
 data-driven research across disciplines as one exponent of that change. The
