@@ -16,7 +16,7 @@ layout: default
   </header>
 
   <div class="post-content" itemprop="articleBody">
-    <p class="sr-only">{{ page.prompt | markdownify }}</p>
+    <div class="sr-only">{{ page.prompt | markdownify }}</div>
     {% if page.events %}
       {% include events-sidebar.html %}
     {% endif %}
