@@ -4,10 +4,10 @@
   url: /people
 - text: Code of Conduct
   url: /code-of-conduct
-- text: Privacy Statement
-  url: /privacy-statement
-- text: News
-  url: /news
-- text: Contact
-  url: /contact
+# - text: Privacy Statement
+#   url: /privacy-statement
+# - text: News
+#   url: /news
+# - text: Contact
+#   url: /contact
 
