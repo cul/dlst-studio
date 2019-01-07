@@ -1,6 +1,6 @@
 <div class="card mb-3">
   <div class="card-header d-flex">
-    <div class="mr-auto"><h2 class="mb-0">Space</h2></div>
+    <div class="mr-auto"><h3 class="mb-0">Space</h3></div>
     <ul class="nav justify-content-end nav-pills card-header-pills" id="space-tabs" role="tablist">
       {% for space in site.spaces %}
         {% if space == site.spaces.first %}
@@ -25,7 +25,9 @@
           {% assign active = "" %}
         {% endif %}
         <div class="tab-pane {{ active }}" id="{{ space.tag }}" role="tabpanel" aria-labelledby="{{ space.tag }}-tab">
-          <h5 class="card-title">{{ space.title }}</h5>
+          <a href="{{ site.baseurl }}/spaces/{{ space.tag }}">
+            <h5 class="card-title">{{ space.title }}</h5>
+          </a>
           <div class="row">
             <div class="col-xl-6 order-12 order-xl-1">
               {{ space.text | markdownify }}
