@@ -1,5 +1,6 @@
 ---
 title: CUL Studio Butler
+layout: space
 tag: butler
 name: Butler
 text: The original CUL Studio, Butler hosts talks and the famous Friday Open Lab that has helped spawn and nurture some awesome projects.

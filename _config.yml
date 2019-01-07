@@ -53,9 +53,3 @@ defaults:
     type: pages
   values:
     layout: page
-- scope:
-    path: "/spaces"
-    type: spaces
-  values:
-    layout: page
-

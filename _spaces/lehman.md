@@ -1,5 +1,6 @@
 ---
 title: CUL Studio Lehman
+layout: space
 tag: lehman
 name: Lehman
 text: The workhorse CUL Studio, Lehman offers Open Labs for four hours, four days a week.
