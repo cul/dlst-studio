@@ -78,7 +78,9 @@ support hours hosted by Foundations for Research Computing. CUL Studio Butler
 additionally hosts events managed by the GSAS Teaching Center and the Digital
 Humanities Center. 
 
-Our Calendar provides more detailed information.
+[Our
+calendar](https://library.columbia.edu/services/research-data-services/events.html)
+provides more detailed information.
 
 ### I am looking for a good place to study (individually or with a group). Can I use CUL Studio for that?
 
