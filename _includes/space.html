@@ -1,4 +1,4 @@
-<div class="card">
+<div class="card mb-3">
   <div class="card-header d-flex">
     <div class="mr-auto"><h2 class="mb-0">Space</h2></div>
     <ul class="nav justify-content-end nav-pills card-header-pills" id="space-tabs" role="tablist">
@@ -31,7 +31,7 @@
               {{ space.text | markdownify }}
             </div>
             <div class="col-xl-6 order-1 order-xl-12">
-              <img class="img-fluid" src="{{ site.data.images[space.tag].src }}" alt="{{ site.data.images[space.tag].alt }}" />
+              <img class="rounded img-fluid" src="{{ site.data.images[space.tag].src }}" alt="{{ site.data.images[space.tag].alt }}" />
             </div>
           </div>
           <ul class="nav nav-justified">
