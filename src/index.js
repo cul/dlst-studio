@@ -28,7 +28,6 @@ function shuffle(a) {
 $(".map").each( function() {
   const mapDiv = $( this ).attr("id");
   const [lat, lng] = $( this ).data("latlng").split(",");
-  console.log(mapDiv, lat, lng);
   const map = L.map(mapDiv).setView([lat, lng], 17);
   L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
       maxZoom: 19,
