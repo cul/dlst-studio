@@ -1,11 +1,11 @@
-<div class="card w-50 float-right events-sidebar">
+<div class="ml-2 card w-50 float-right events-sidebar">
   <div class="card-header">
     Associated Events
   </div>
   <div class="card-body">
-    <ul class="event-list list-group list-group-flush">
+    <div class="event-list list-group list-group-flush">
     {% for event in page.events %}
-      <li class="list-group-item">
+      <div class="list-group-item">
         <h5>{{ event.title }}</h5>
           {% capture start_day %}{{ event.start | date: "%a, %b %d" }}{% endcapture %}
           {% capture end_day %}{{ event.start | date: "%a, %b %d" }}{% endcapture %}
@@ -19,9 +19,9 @@
           {% if event.guid %}
             (<a href="https://events.columbia.edu/cal/event/eventView.do?b=de&calPath=%2Fpublic%2Fcals%2FMainCal&guid={{ event.guid }}" target="_blank">RSVP <i class="far fa-calendar-alt"></i></a>)
           {% endif %}
-      </li>
+      </div>
     {% endfor %}
-    </ul>
+    </div>
   </div>
 </div>
 
