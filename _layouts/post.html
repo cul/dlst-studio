@@ -4,11 +4,11 @@ layout: default
 
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
   <header class="post-header">
-    {% if page.image.url %}
-      <img class="img-thumbnail img-fluid" src="{{ page.image.url }}" alt="{{ page.image.alt }}" />
+    {% if page.image.src %}
+      <img class="img-thumbnail img-fluid" src="{{ page.image.src }}" alt="{{ page.image.alt }}" />
     {% elsif page.location == "butler" %}
       <a href="{{ site.data.images.butler.orig-url }}">
-        <img class="img-thumbnail img-fluid" src="{{ site.data.images.butler.url }}" alt="{{ site.data.images.butler.alt }} by {{ site.data.images.butler.photographer }}" />
+        <img class="img-thumbnail img-fluid" src="{{ site.data.images.butler.src }}" alt="{{ site.data.images.butler.alt }} by {{ site.data.images.butler.photographer }}" />
       </a>
     {% endif %}
     <h2 class="post-title" itemprop="name headline">{{ page.title }}</h2>
