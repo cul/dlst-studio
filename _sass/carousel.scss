@@ -1,6 +1,6 @@
 .carousel-caption {
   text-align: left;
-  padding: 20px;
+  padding: 0.5rem;
   bottom: 0;
   left: 0;
   width: calc(100% - .8rem);
@@ -8,6 +8,24 @@
   background: rgba(0, 0, 0, .7);
 
   h5 {
-    font-size: 1.75rem;
+    font-weight: bold;
+    font-size: 1.25rem;
+  }
+
+  p {
+    margin: 0;
   }
 }
+
+@media (min-width: 768px) { 
+  .carousel-caption {
+    padding: 1rem;
+
+    h5 {
+      font-weight: normal;
+      font-size: 1.75rem;
+    }
+
+  }
+}
+
