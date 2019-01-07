@@ -1,46 +1,15 @@
 @charset "utf-8";
 
-$title-font: "Trajan Pro", "Cinzel", serif;
-$font-family-base: "Adobe Garamond", "EB Garamond", "Garamond", serif;
-$font-family-monospace: "Source Code Pro", Monaco, monospace;
-$text-color:       #333;
-$background-color: #fdfdfd;
-$brand-color:      #88A9B8;
-$grey-color:       #828282;
-$grey-color-light: lighten($grey-color, 40%);
-$grey-color-dark:  darken($grey-color, 25%);
-$theme-colors: (
-  "primary": $brand-color,
-  "secondary": #356E81
-);
-$font-size-base: 1rem;
-$card-columns-count: 4;
-
-@import "./vendor/bootstrap/scss/functions";
-@import "./vendor/bootstrap/scss/variables";
-@import "./vendor/bootstrap/scss/mixins";
-@import "./vendor/bootstrap/scss/reboot";
-@import "./vendor/bootstrap/scss/type";
-@import "./vendor/bootstrap/scss/images";
-@import "./vendor/bootstrap/scss/code";
-@import "./vendor/bootstrap/scss/grid";
-@import "./vendor/bootstrap/scss/carousel";
-@import "./vendor/bootstrap/scss/card";
-@import "./vendor/bootstrap/scss/nav";
-@import "./vendor/bootstrap/scss/media";
-@import "./vendor/bootstrap/scss/utilities";
-@import "./vendor/bootstrap/scss/buttons";
-@import "./vendor/bootstrap/scss/transitions";
-@import "./vendor/bootstrap/scss/pagination";
-@import "./vendor/bootstrap/scss/list-group";
+// fire up bootstrap and our changed variables first.
+@import "bootstrap";
 
 @import
-        "base",
         "index",
         "map",
         "cultnbw",
         "sidebar",
         "carousel",
         "events-sidebar",
+        "blockquote",
         "fonts";
 

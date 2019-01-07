@@ -1,0 +1,11 @@
+blockquote {
+    color: $gray-600;
+    border-left: 4px solid $gray-300;
+    padding-left: 2rem;
+    padding-right: 1rem;
+    font-style: italic;
+
+    > :last-child {
+        margin-bottom: 0;
+    }
+}
