@@ -12,5 +12,6 @@ butler:
   photographer: elotroalex
   url: https://twitter.com/elotroalex/status/906256208964800514
 lehman:
-  src: /dlst-studio/assets/imgs/conference-room.jpg
-  alt: Open Lab at CUL Studio Lehman
+  src: https://i.imgur.com/X5g07Jm.jpg
+  alt: Empty CUL Studio Lehman
+  photographer: muziejus
