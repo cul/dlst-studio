@@ -83,18 +83,19 @@ Comparative Literature).
 
 <a href="{{ site.data.images.lion.url }}" target="_blank">
 <img src="{{ site.data.images.lion.src }}" alt="{{ site.data.images.lion.alt
-}}" class="p-3 w-25 img-thumbnail float-right">
+}}" class="ml-3 p-3 w-25 img-thumbnail float-right">
 </a>
 
 Our logo, our lion, was provided by Associate Professor Manan Ahmed. It is
-taken from page 384 of Władysław Łoziński’s text _Patrycyat i mieszczaństwo
-lwowskie w XVI i XVII wieku_ (Lviv: Gubrynowicz i Schmidt, 1892), and it is a
-drawing, by J. Makarewicz, of a Lion from the sacristy of the Lviv Cathedral.
-The original caption reads: 
+taken from page 384 of Władysław Łoziński’s text [_Patrycyat i mieszczaństwo
+lwowskie w XVI i XVII
+wieku_](http://primocat.bl.uk/F?func=direct&local_base=ITEMV&doc_number=002273904&con_lng=eng)
+(Lviv: Gubrynowicz i Schmidt, 1892), and it is a drawing, by J. Makarewicz, of
+a Lion from the sacristy of the Lviv Cathedral.  The original caption reads: 
 
 > Lewek, rzeźba z ołtarza wotywnego mieszczańskiego, znajdującego się dziś w
-zakrystyi kościoła katedralnego we Lwowie. Rysował z oryginału J. M a k a r e
-w i c z
+zakrystyi kościoła katedralnego we Lwowie. Rysował z oryginału J. <span
+style="letter-spacing: 0.5em;">Makarewicz</span>
 
 ### Reserving and Using CUL Studio Butler and CUL Studio Lehman
 
