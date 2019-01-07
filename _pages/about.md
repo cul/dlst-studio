@@ -81,8 +81,8 @@ Comparative Literature).
 
 ### The Lion
 
-<a href="{{ site.data.images.lion.orig-url }}" target="_blank">
-<img src="{{ site.data.images.lion.url }}" alt="{{ site.data.images.lion.alt
+<a href="{{ site.data.images.lion.url }}" target="_blank">
+<img src="{{ site.data.images.lion.src }}" alt="{{ site.data.images.lion.alt
 }}" class="p-3 w-25 img-thumbnail float-right">
 </a>
 
