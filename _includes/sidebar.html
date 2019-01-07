@@ -2,7 +2,7 @@
 
 <!-- Venerable Bede Works. -->
 
-<h2>Recent News</h2>
+<h3>Recent News</h3>
 
 <ul>
 {% for i in (0..2) %}
@@ -14,9 +14,16 @@
 
 <!-- <h2>On the Net</h2> -->
 
-<h2>Affiliates</h2>
+<h3>Affiliates</h3>
 <ul>
   {% for affiliate in site.data.affiliates %}
     <li><a href="{{ affiliate.url }}">{{ affiliate.name }}</a></li>
+  {% endfor %}
+</ul>
+
+<h3>Library Links</h3>
+<ul>
+  {% for link in site.data.library-links %}
+    <li><a href="{{ link.url }}">{{ link.name }}</a></li>
   {% endfor %}
 </ul>
