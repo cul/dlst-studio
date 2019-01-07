@@ -15,7 +15,7 @@
   name: Atom
   url: http://atom.io
   download: http://atom.io
-  description: A hackable text editor for the 21st Century
+  description: A hackable text editor for the 21st Century.
 - tag: git
   lehman: true
   name: Git
@@ -27,7 +27,7 @@
   name: Pandoc
   url: http://pandoc.org
   download: https://pandoc.org/installing.html
-  description: A universal document converter
+  description: A universal document converter.
 - tag: rstudio
   lehman: true
   name: RStudio

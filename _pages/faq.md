@@ -17,42 +17,15 @@ scholarship project, CUL Studio is the right venue to host a learning session
 around digital technologies, and we will be happy to match you with someone
 who can help you.
 
-### How is CUL Studio set up?
+### How is CUL Studio set up and how many people can it accommodate?
 
-CUL Studio Butler may be configured for a variety of small or larger group
-activities. It features tables and white boards on wheels, a large screen with
-speakers, a digital projector, a video camera with tripod, and wireless
-microphones. The room may be divided up into sections or opened up for larger
-groups. See pictures on the CTL website of [various setups of the
-Studio](http://ctl.columbia.edu/support/workshop-planning/208b-butler-library/).
-
-CUL Studio Lehman is a bit more rigid, with six fixed desktop PCs on one side
-of the room.
-
-### How many people can CUL Studio accommodate?
-
-CUL Studio Butler is located in a tall, rectangular room on the south side of
-Butler Library that can set up in various ways. Up to ten tables can be set up
-for use by individual persons or by pairs; the tables can be grouped to form
-larger, seminar-style tables; they can be set up along the room’s perimeter
-for displays; or they can be folded up and rolled away to maximize open floor
-space.  The three white boards measure 4×6 feet and can be used to divide up
-the room into segments, or rolled off to the side of the room.
-
-Activities in the Studio incorporating tables can accommodate up to 25 or so
-persons. If tables are rolled away and chairs arranged into rows, the Studio
-can hold up to 40 persons.
-
-CUL Studio Lehman is located in a subbasement within Lehman Social Sciences
-Library in the School of International and Public Affairs Building. It has 6
-PCs, in three banks of 2, facing a screen that has a projector. Additionally,
-there are tables and chairs for up to about 25 people in the space.
+Please see the links to [CUL Studio Butler]({{ site.baseurl }}/spaces/butler) and [CUL Studio Lehman]({{ site.baseurl }}/spaces/lehman) for more information about the structure of these spaces.
 
 ### What technology is in CUL Studio?
 
-CUL Studio is a bring-your-own-technology space. There are no computers
-installed in CUL Studio Butler, but we are ready to plug your laptop in for
-presentations or capture events with projectors, a video camera, and
+CUL Studio is typically bring-your-own-technology space. There are no
+computers installed in CUL Studio Butler, but we are ready to plug your laptop
+in for presentations or capture events with projectors, a video camera, and
 microphones. Wireless connectivity has been upgraded to the fastest available
 in the library.
 
