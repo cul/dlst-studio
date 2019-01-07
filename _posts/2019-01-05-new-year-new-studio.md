@@ -2,7 +2,7 @@
 title: New Year, New Studio
 slug: new-year-new-studio-2019-01
 image:
-  url: "https://i.imgur.com/0i3hZJH.png"
+  src: "https://i.imgur.com/0i3hZJH.png"
   alt: "CUL Studio Lion with names of CUL Studios"
 prompt: >-
   2019 brings exciting new changes to the CUL Studio and digital, data-driven

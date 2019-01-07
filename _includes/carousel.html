@@ -5,10 +5,10 @@
         {% for post in site.posts %}
           {% if carousel-item.slug == post.slug %}
             {% if post.image %}
-              {% assign src = post.image.url %}
+              {% assign src = post.image.src %}
               {% assign alt = post.image.alt %}
             {% else %}
-              {% assign src = site.data.images[post.location].url %}
+              {% assign src = site.data.images[post.location].src %}
               {% assign alt = site.data.images[post.location].alt %}
             {% endif %}
               {% assign title = post.title %}
