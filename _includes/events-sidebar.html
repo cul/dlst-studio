@@ -3,19 +3,22 @@
     Associated Events
   </div>
   <div class="card-body">
-    <ul class="event-list">
+    <ul class="event-list list-group list-group-flush">
     {% for event in page.events %}
-      <li><strong>{{ event.title }}</strong><br />
-        {% capture start_day %}{{ event.start | date: "%a, %b %d" }}{% endcapture %}
-        {% capture end_day %}{{ event.start | date: "%a, %b %d" }}{% endcapture %}
-        {% if start_day == end_day %}
-          {{ event.start | date: "%a, %b %d %H:%M" }} – {{ event.end | date: "%H:%M" }}<br />
-        {% else %}
-          {{ event.start | date: "%a, %b %d %H:%M" }} – {{ event.end | date: "%a, %b %d %H:%M" }}<br />
-        {% endif %}
-        {% assign location = site.spaces | where:"tag",event.location | first %}
-        <a href="{{ site.baseurl }}/spaces/{{ location.tag }}">{{ location.title }}</a><br />
-        {{ event.guid }} <br />
+      <li class="list-group-item">
+        <h5>{{ event.title }}</h5>
+          {% capture start_day %}{{ event.start | date: "%a, %b %d" }}{% endcapture %}
+          {% capture end_day %}{{ event.start | date: "%a, %b %d" }}{% endcapture %}
+          {% if start_day == end_day %}
+            {{ event.start | date: "%a, %b %d %H:%M" }} – {{ event.end | date: "%H:%M" }}<br />
+          {% else %}
+            {{ event.start | date: "%a, %b %d %H:%M" }} – {{ event.end | date: "%a, %b %d %H:%M" }}<br />
+          {% endif %}
+          {% assign location = site.spaces | where:"tag",event.location | first %}
+          <a href="{{ site.baseurl }}/spaces/{{ location.tag }}">{{ location.title }}</a>
+          {% if event.guid %}
+            (<a href="https://events.columbia.edu/cal/event/eventView.do?b=de&calPath=%2Fpublic%2Fcals%2FMainCal&guid={{ event.guid }}" target="_blank">RSVP <i class="far fa-calendar-alt"></i></a>)
+          {% endif %}
       </li>
     {% endfor %}
     </ul>
