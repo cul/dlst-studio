@@ -36,6 +36,8 @@ kramdown:
 permalink: pretty
 # Collections for happenings
 collections:
+  spaces:
+    output: true
   ongoing:
     output: true
   pages:
@@ -49,6 +51,11 @@ defaults:
 - scope:
     path: ""
     type: pages
+  values:
+    layout: page
+- scope:
+    path: "/spaces"
+    type: spaces
   values:
     layout: page
 

@@ -1,26 +1,3 @@
-- tag: butler
-  name: Butler
-  text: The original CUL Studio, Butler hosts talks and the famous Friday Open Lab that has helped spawn and nurture some awesome projects.
-  directions: >-
-    1. First, you go to the store.
-
-    1. Next, you eat a chicken.
-  img:
-    src: /assets/imgs/brainstorming.jpg
-    alt: "Brainstorming"
-  lat: 40.806205
-  lng: -73.963308
-- tag: lehman
-  name: Lehman
-  text: The workhorse CUL Studio, Lehman offers Open Labs for four hours, four days a week.
-  directions: >-
-    1. First, you go to the store.
-    1. Next, you eat a chicken.
-  img:
-    src: /assets/imgs/conference-room.jpg
-    alt: "A Conference Room"
-  lat: 40.807587
-  lng: -73.959412
 # - tag: sel
 #   name: SEL
 #   text: Located in the Science and Engineering Library, CUL Studio SEL is the baby of the bunch.
