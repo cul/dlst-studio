@@ -25,20 +25,22 @@ function shuffle(a) {
   return a;
 }
 
-function initMap(mapInfo) {
-  const [mapDiv, lat, lng] = mapInfo;
+$(".map").each( function() {
+  const mapDiv = $( this ).attr("id");
+  const [lat, lng] = $( this ).data("latlng").split(",");
+  console.log(mapDiv, lat, lng);
   const map = L.map(mapDiv).setView([lat, lng], 17);
   L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
       maxZoom: 19,
       attribution: "&copy; <a href='http://www.openstreetmap.org/copyright'>OpenStreetMap</a>"
   }).addTo(map);
   L.marker([lat, lng]).addTo(map);
-}
+});
 
 $(".location").on("shown.bs.collapse", function() {
-  setTimeout(() => {
-    initMap([$( this ).attr("id").replace("location", "map"), $( this ).data("lat"), $( this ).data("lng")]);
-  }, 500);
+  // setTimeout(() => {
+  //   initMap([$( this ).attr("id").replace("location", "map"), $( this ).data("lat"), $( this ).data("lng")]);
+  // }, 500);
 });
 
 $(window).ready( () => {

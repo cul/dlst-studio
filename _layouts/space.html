@@ -3,9 +3,20 @@ layout: default
 ---
 
 <header class="post-header">
-  <img class="img-thumbnail img-fluid" src="{{ site.data.images[page.tag].src }}"
-                                       alt="{{ site.data.images[page.tag].alt }}" />
   <h2>{{ page.title }}</h2>
 </header>
+
+<div class="row">
+  <div class="col-md-6">
+    <img class="img-thumbnail img-fluid" src="{{ site.data.images[page.tag].src }}"
+                                       alt="{{ site.data.images[page.tag].alt }}" />
+
+    {{ page.long-description | markdownify }}
+  </div>
+  <div class="col-md-6">
+    {% include big-map.html %}
+  </div>
+</div>
+
 
 {{ content }}
