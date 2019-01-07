@@ -1,0 +1,48 @@
+- tag: qgis
+  lehman: true
+  name: QGIS
+  url: http://qgis.org
+  download: https://qgis.org/en/site/forusers/download.html
+  description: Create, edit, visualize, analyze and publish geospatial information on Windows, Mac, and Linux with QGIS.
+- tag: anaconda
+  lehman: true
+  name: Anaconda
+  url: http://anaconda.com
+  download: https://anaconda.com/downloads
+  description: Anaconda is the fastest and easiest way to do Python and R data science and machine learning on Linux, Windows, and Mac OS X.
+- tag: atom
+  lehman: true
+  name: Atom
+  url: http://atom.io
+  download: http://atom.io
+  description: A hackable text editor for the 21st Century
+- tag: git
+  lehman: true
+  name: Git
+  url: http://git-scm.com
+  download: http://git-scm.com/downloads
+  description: Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
+- tag: pandoc
+  lehman: true
+  name: Pandoc
+  url: http://pandoc.org
+  download: https://pandoc.org/installing.html
+  description: A universal document converter
+- tag: rstudio
+  lehman: true
+  name: RStudio
+  url: http://rstudio.com
+  download: https://www.rstudio.com/products/rstudio/
+  description: RStudio is an integrated development environment (IDE) for R.
+- tag: miktex
+  lehman: true
+  name: MiKTeX
+  url: https://miktex.org
+  download: https://miktex.org/download
+  description: MiKTeX is an up-to-date implementation of TeX/LaTeX, a typesetting system intended for the creation of beautiful books.
+- tag: zotero
+  lehman: true
+  name: Zotero
+  url: http://zotero.org
+  description: Zotero is a free, easy-to-use tool to help you collect, organize, cite, and share research.
+  download: https://www.zotero.org/download/

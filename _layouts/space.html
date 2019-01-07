@@ -11,7 +11,8 @@ layout: default
     <img class="img-thumbnail img-fluid" src="{{ site.data.images[page.tag].src }}"
                                        alt="{{ site.data.images[page.tag].alt }}" />
 
-    {{ page.long-description | markdownify }}
+    {{ content }}
+
   </div>
   <div class="col-md-6">
     {% include big-map.html %}
@@ -19,4 +20,3 @@ layout: default
 </div>
 
 
-{{ content }}

@@ -1,0 +1,6 @@
+<div class="rounded map mb-3" id="{{ page.tag }}-map" data-latlng="{{ page.lat }},{{ page.lng }}"></div>
+
+<h3>Getting to {{ page.title }}</h3>
+
+  {{ page.directions | markdownify }}
+
