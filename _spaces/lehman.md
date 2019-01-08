@@ -5,7 +5,7 @@ tag: lehman
 name: Lehman
 text: CUL Studio Lehman offers Open Labs for four hours, four days a week as well as other programming.
 directions: >-
-  1. Take the [❶](http://web.mta.info/nyct/service/oneline.htm) to 116th St. Columbia University
+  1. Take the [❶](http://web.mta.info/nyct/service/oneline.htm) to 116th St.  Columbia University.
 
   1. Cut across campus to Amsterdam Ave.
 
@@ -23,6 +23,11 @@ directions: >-
   1. CUL Studio Lehman is at the bottom of the stairs, room 215.
 lat: 40.807587
 lng: -73.959412
+open-lab:
+  days: Mondays–Thursdays
+  # pretend date needed for parsing.
+  start-time: 2019-01-01 12:00
+  end-time: 2019-01-01 16:00
 ---
 
 CUL Studio Lehman offers space for about 25 participants in a room within
