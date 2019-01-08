@@ -10,9 +10,9 @@
           {% capture start_day %}{{ event.start | date: "%a, %b %d" }}{% endcapture %}
           {% capture end_day %}{{ event.start | date: "%a, %b %d" }}{% endcapture %}
           {% if start_day == end_day %}
-            {{ event.start | date: "%a, %b %d %H:%M" }} – {{ event.end | date: "%H:%M" }}<br />
+            {{ event.start | date: "%a, %b %e %l:%M %P" }} – {{ event.end | date: "%l:%M %P" }}<br />
           {% else %}
-            {{ event.start | date: "%a, %b %d %H:%M" }} – {{ event.end | date: "%a, %b %d %H:%M" }}<br />
+            {{ event.start | date: "%a, %b %e %l:%M %P" }} – {{ event.end | date: "%a, %b %e %l:%M %P" }}<br />
           {% endif %}
           {% assign location = site.spaces | where:"tag",event.location | first %}
           <a href="{{ site.baseurl }}/spaces/{{ location.tag }}">{{ location.title }}</a>
