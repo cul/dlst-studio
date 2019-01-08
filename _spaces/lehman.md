@@ -24,7 +24,7 @@ directions: >-
 lat: 40.807587
 lng: -73.959412
 open-lab:
-  days: Mondays–Thursdays
+  days: Mondays – Thursdays
   # pretend date needed for parsing.
   start-time: 2019-01-01 12:00
   end-time: 2019-01-01 16:00
