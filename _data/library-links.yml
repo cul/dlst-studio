@@ -1,6 +1,8 @@
+- name: Digital Centers Intership Program Blog
+  url: https://blogs.cul.columbia.edu/dcip/
 - name: Digital Scholarship
   url: https://library.columbia.edu/services/digital-scholarship/
 - name: Research Data Services
   url: https://library.columbia.edu/services/research-data-services.html
-- name: Digital Centers Intership Program Blog
-  url: https://blogs.cul.columbia.edu/dcip/
+- name: Foundations for Research Computing
+  url: http://rcfoundations.research.columbia.edu
