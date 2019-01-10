@@ -11,9 +11,12 @@ permalink: software
   our collaborators—especially beginners—install and use the following
   applications on their computers.</p>
 
+<div class="mb-2 d-flex align-items-end">
+  <button class="btn btn-primary ml-auto disabled" id="show-all-software">Show All Software</button>
+</div>
 <div class="software-list list-group mb-3">
   {% for app in site.software %}
-    <div class="list-group-item {{ app.tags | join: " " }}">
+    <div class="software-item list-group-item {{ app.tags | join: " " }}">
     {% capture name %}{{ app.path | replace: "_software/", "" | replace: ".md", "" }}{% endcapture %}
       <div class="row">
         <div class="col-md-1 col-2">
@@ -23,12 +26,13 @@ permalink: software
         </div>
         <div class="col-md-11 col-10">
           <h4>{{ app.full-name }}</h4>
-          <!-- <div class=" d-flex justify-content-between align-items-center"> -->
-          <!--   {% for tag in app.tags %} -->
-          <!--   <span class="badge badge-secondary badge-pill badge-{{tag}}">{{ tag }}</span> -->
-          <!--   {% endfor %} -->
-          <!-- </div> -->
           <h5>{{ app.description }}</h5>
+          <div class=" d-flex justify-content-end align-items-end">
+            {% for tag in app.tags %}
+              <span class="ml-2 badge badge-secondary badge-pill {{tag}}">{{ tag }}</span>
+            {% endfor %}
+          </div>
+
           <div class="nav nav-justified">
             <a class="nav-item nav-link" href="{{ app.url }}" target="_blank">
               <i class="fas fa-home" title="{{ app.full-name }} home page"></i>

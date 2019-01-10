@@ -49,5 +49,30 @@ $(window).ready( () => {
     // $(".carousel").carousel({
     //   interval: 8000 // default: 5000
     // });
+
+  $(".badge")
+    .css("cursor", "pointer")
+    .click( function(){
+    filterSoftware($( this ).text());
+  });
+
+  $("#show-all-software").click( (e) => {
+    e.preventDefault();
+    window.location.hash = "";
+    $(".software-item").show();
+    $("#show-all-software").addClass("disabled");
+  });
+
+  if( /\/software\//.test(window.location.pathname) && 
+    window.location.hash !== "" ){
+    filterSoftware(window.location.hash.replace("#", ""));
+  }
 });
+
+function filterSoftware(tag) {
+  window.location.hash = tag;
+  $(".software-item").hide();
+  $(`.software-item.${tag}`).show();
+  $("#show-all-software").removeClass("disabled");
+}
 
