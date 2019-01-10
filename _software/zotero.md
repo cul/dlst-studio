@@ -12,6 +12,5 @@ latest:
 description: Zotero is a free, easy-to-use tool to help you collect, organize, cite, and share research.
 tags:
 - lehman
-- simple-cv
 - simple-paper
 ---
