@@ -1,4 +1,4 @@
-article, #sidebar, #open-lab-card, .tab-pane {
+article, #sidebar, #open-lab-card, .card-body, .tab-pane {
   ul {
     list-style: none;
     padding: 0;
@@ -7,11 +7,21 @@ article, #sidebar, #open-lab-card, .tab-pane {
 
     li {
       padding-left: 1rem;
+
+      p {
+        margin-bottom: 0;
+      }
+
+      p:first-child {
+        display: inline;
+      }
+
     }
 
     li:before {
       content: "»";
       padding-right: .5rem;
+      // float: left;
     }
   }
 }
