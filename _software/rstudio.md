@@ -12,6 +12,4 @@ latest:
 description: RStudio is an integrated development environment (IDE) for R.
 tags:
   - lehman
-  - simple-cv
-  - simple-paper
 ---
