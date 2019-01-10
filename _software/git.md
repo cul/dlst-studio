@@ -1,5 +1,6 @@
 ---
 full-name: Git
+icon: git
 url: http://git-scm.com
 documentation:
   main: https://git-scm.com/doc

@@ -1,5 +1,6 @@
 ---
 full-name: Atom
+icon: atom
 url: http://atom.io
 documentation: 
   main: https://atom.io/docs

@@ -1,5 +1,6 @@
 ---
 full-name: TeX Live
+icon: tex
 url: https://www.tug.org/texlive/
 documentation:
   main: https://www.tug.org/texlive/doc.html

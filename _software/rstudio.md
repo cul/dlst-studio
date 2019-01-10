@@ -1,5 +1,6 @@
 ---
 full-name: RStudio Desktop
+icon: rstudio
 url: http://rstudio.com
 documentation:
   main: https://support.rstudio.com/hc/en-us/categories/200035113-Documentation

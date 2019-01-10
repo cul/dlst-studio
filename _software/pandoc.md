@@ -1,6 +1,5 @@
 ---
 full-name: Pandoc
-no-icon: true
 url: http://pandoc.org
 documentation:
   main: https://pandoc.org/MANUAL.html
@@ -16,4 +15,7 @@ tags:
   - simple-cv
   - simple-paper
   - text
+tutorials:
+  external:
+  - "“[Sustainable Authorship in Plain Text using Pandoc and Markdown](https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)” by [Dennis Tenen](https://english.columbia.edu/people/profile/453) and [Grant Wythoff](https://wythoff.net/)"
 ---

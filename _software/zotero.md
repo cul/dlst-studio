@@ -1,5 +1,6 @@
 ---
 full-name: Zotero
+icon: zotero
 url: http://zotero.org
 documentation:
   main: "https://www.zotero.org/support/"
