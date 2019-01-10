@@ -12,4 +12,5 @@ latest:
 description: Create, edit, visualize, analyze and publish geospatial information on Windows, Mac, and Linux with QGIS.
 tags:
   - lehman
+  - mapping
 ---

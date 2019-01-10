@@ -13,4 +13,7 @@ latest:
 description: Anaconda is the fastest and easiest way to do Python and R data science and machine learning on Linux, Windows, and Mac OS X.
 tags:
   - lehman
+  - programming
+  - statistics
+  - mapping
 ---

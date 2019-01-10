@@ -12,4 +12,6 @@ latest:
 description: RStudio is an integrated development environment (IDE) for R.
 tags:
   - lehman
+  - statistics
+  - mapping
 ---

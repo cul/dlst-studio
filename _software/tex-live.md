@@ -12,4 +12,5 @@ description: TeX Live is an easy way to get up and running with the TeX document
 tags:
   - simple-cv
   - simple-paper
+  - text
 ---

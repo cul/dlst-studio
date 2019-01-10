@@ -15,4 +15,5 @@ tags:
   - lehman
   - simple-cv
   - simple-paper
+  - text
 ---

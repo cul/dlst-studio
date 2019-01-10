@@ -13,4 +13,5 @@ description: Zotero is a free, easy-to-use tool to help you collect, organize, c
 tags:
 - lehman
 - simple-paper
+- text
 ---

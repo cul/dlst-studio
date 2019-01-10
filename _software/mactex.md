@@ -11,4 +11,5 @@ description: MacTeX (based on TeX Live) is an easy way to get up and running wit
 tags:
   - simple-cv
   - simple-paper
+  - text
 ---
