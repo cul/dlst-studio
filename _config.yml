@@ -55,3 +55,8 @@ defaults:
     type: pages
   values:
     layout: page
+- scope:
+    path: ""
+    type: software
+  values:
+    layout: software
