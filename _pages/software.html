@@ -17,15 +17,14 @@ permalink: software
 <div class="software-list list-group mb-3">
   {% for app in site.software %}
     <div class="software-item list-group-item {{ app.tags | join: " " }}">
-    {% capture name %}{{ app.path | replace: "_software/", "" | replace: ".md", "" }}{% endcapture %}
       <div class="row">
         <div class="col-md-2 col-3">
-          {% unless app.no-icon %}
-            <img class=" img-fluid" src="{{ site.baseurl }}/assets/imgs/icons/{{ name }}.png" alt="{{ app.full-name }} icon">
-          {% endunless %}
+          {% if app.icon %}
+            <img class="img-fluid" src="{{ site.baseurl }}/assets/imgs/icons/{{ app.icon }}.png" alt="{{ app.full-name }} icon">
+          {% endif %}
         </div>
         <div class="col-md-10 col-9">
-          <h4>{{ app.full-name }}</h4>
+          <h4><a href="{{ app.url | prepend: site.baseurl }}">{{ app.full-name }}</a></h4>
           <h5>{{ app.description }}</h5>
           <div class=" d-flex justify-content-end align-items-end">
             {% for tag in app.tags %}
