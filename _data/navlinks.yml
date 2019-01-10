@@ -2,6 +2,8 @@
   url: /about
 - text: People
   url: /people
+- text: Software
+  url: /software
 - text: Code of Conduct
   url: /code-of-conduct
 # - text: Privacy Statement

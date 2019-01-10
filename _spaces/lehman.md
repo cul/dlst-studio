@@ -49,11 +49,13 @@ of RAM and 30-inch (2560x1600) monitors running Windows 10. The machines are
 outfitted with a wide array of CUL Studio–supported software, including:
 
 <div class="list-group mb-3">
-{% assign apps = site.data.software | where: "lehman","true" %} 
-{% for app in apps %}
+{% for app in site.software %}
+{% capture tags %}{{ app.tags | join: " " }}{% endcapture %}
+{% if tags contains "lehman" %}
 <div class="list-group-item">
-<p class="m-0"><a href="{{ app.url }}" target="_blank">{{ app.name }}</a>. {{ app.description }}</p>
+<p class="m-0"><a href="{{ app.url }}" target="_blank">{{ app.full-name }}</a>. {{ app.description }}</p>
 </div>
+{% endif %}
 {% endfor %}
 </div>
 

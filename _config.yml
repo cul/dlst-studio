@@ -38,6 +38,8 @@ permalink: pretty
 collections:
   spaces:
     output: true
+  software:
+    output: true
   ongoing:
     output: true
   pages:
