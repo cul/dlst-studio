@@ -4,12 +4,8 @@ layout: default
 
 {% include carousel.html %}
 
-<div class="my-3 row">
-  <div class="col-md-6">
-    {% include space-card.html %}
-  </div>
-  <div class="col-md-6">
-    {% include practice-card.html %}
-  </div>
+<div class="my-3 card-deck">
+  {% include space-card.html %}
+  {% include practice-card.html %}
 </div>
 
