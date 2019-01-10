@@ -63,7 +63,7 @@ $(window).ready( () => {
     $("#show-all-software").addClass("disabled");
   });
 
-  if( /\/software\//.test(window.location.pathname) && 
+  if( /\/software/.test(window.location.pathname) && 
     window.location.hash !== "" ){
     filterSoftware(window.location.hash.replace("#", ""));
   }
