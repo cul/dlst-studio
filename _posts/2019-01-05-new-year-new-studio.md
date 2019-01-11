@@ -30,8 +30,9 @@ scholarship](https://library.columbia.edu/news/libraries/2013/2013-9-11_Studio_B
 
 A lot has changed in five years, with the continued growth of digital,
 data-driven research across disciplines as one exponent of that change. The
-Studio has grown and changed as well. Programming has included the 2017
-[Puerto Rico
+Studio has grown and changed as well, as it fell under the purview of [Digital
+Scholarship](https://library.columbia.edu/services/digital-scholarship/).
+Programming has included the 2017 [Puerto Rico
 Mapathon](https://www.nytimes.com/2017/10/02/nyregion/maps-puerto-rico-hurricane-maria.html),
 where the Studio was too small to hold the 25 librarians helping over 60
 volunteers to improve maps of Puerto Rico in the aftermath of Hurricane Maria.
@@ -58,7 +59,8 @@ now growing with its first sibling Studio, the space maintained by [Research
 Data
 Services](https://library.columbia.edu/services/research-data-services.html),
 which has been running its own Open Labs four times a week with nearly
-identical commitments.
+identical commitments. As such CUL Studio now spans two CUL divisions, Digital
+Scholarship and the Science, Engineering, and Social Sciences Libraries.
 
 CUL Studio, then, is both a space and a practice. A space for innovative
 scholarly work done within a practice of inclusion. But just as the practice
@@ -68,8 +70,8 @@ principles, and this very webpage.
 
 With this webpage, we hope that it grows alongside CUL Studio. In addition to
 the information about programming included in the earlier version of the site,
-this new one will also include programming at CUL Studio
-Lehman alongside programming of note outside of the Studio.
+this new one will also include programming at CUL Studio Lehman alongside
+programming of note outside of the Studio.
 
 Furthermore, as CUL Studio is not just a space for programming but also a
 practice, we will grow our library of tuition, creating workshops and
