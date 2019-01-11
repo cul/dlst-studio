@@ -64,7 +64,8 @@ CUL Studio is a flat organization, managed by full-time librarians in both the
 [Digital
 Schoalrship](https://library.columbia.edu/services/digital-scholarship)
 division and in [Research Data
-Services](https://library.columbia.edu/services/research-data-services.html).
+Services](https://library.columbia.edu/services/research-data-services.html),
+a part of the Science, Engineering, and Social Sciences Libraries.
 Concretely, this means that Alex Gil (DS) works with Jeremiah
 Trinidad-Christensen (RDS) to align programming between sites, ensuring a
 similar commitment to ethical, sustainable, collaborative, and FAIR research
