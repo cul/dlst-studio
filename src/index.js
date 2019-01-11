@@ -12,7 +12,7 @@ $("#people-columns").html(function() {
     return `<div class="card">
 <img class="card-img-top" src="${ person.img_src }" alt="${ person.name }">
 <div class="card-body">
-<h3 class="card-title">${ person.name }</h3>
+<h3 class="mb-0 card-title">${ person.name }</h3>
 </div>
 </div>
 `;
