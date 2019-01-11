@@ -22,3 +22,4 @@ maintain. It is battle-tested by a team of developers around the world,
 meaning every year’s edition is reliable and stable. Though it is available
 for Windows and Mac, we recommend using [MiKTeX](./miktex) on Windows
 computers and [MacTeX](./mactex) on Macs.
+{: .lead}

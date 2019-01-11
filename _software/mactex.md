@@ -21,3 +21,4 @@ The enormous installer (over 3gb) creates an environment for creating
 scholarly documents that run the gamut of typographical diversity, from
 linguistics and paleography to mathematics, formal logic, and the sciences.
 All for free.
+{: .lead}

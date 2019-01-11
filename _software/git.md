@@ -28,3 +28,4 @@ with a web-hosting service like GitHub, Git can become a backup system and a
 system, Git is not only a time machine, but a time machine for various
 timelines, as the Git history can be branched and merged as you try different
 ideas with your work.
+{: .lead}

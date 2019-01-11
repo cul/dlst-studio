@@ -25,3 +25,4 @@ for beginners and experts alike, no matter what kind of text they are
 producing. Its integrated Markdown support makes writing prose
 straightforward, and its infinitely extendable syntax checkers and linters
 make it a tool for programming in any language.
+{: .lead}

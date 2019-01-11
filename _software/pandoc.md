@@ -25,3 +25,4 @@ other document type, like a Markdown document to a Microsoft Word document. It
 is an especially useful bridge between the flexible comfort of drafting a
 document in Markdown but producing a handsome pdf via TeX with appropriate
 formatting, citation management, footnotes, and so on.
+{: .lead}

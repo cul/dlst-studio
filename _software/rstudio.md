@@ -17,7 +17,8 @@ tags:
   - mapping
 ---
 
-Rstudio provides a complete environment for R programming, including a
+RStudio Desktop provides a complete environment for R programming, including a
 console, dedicated editor, and other windows for keeping track of vectors,
 files, and plots. With [Pandoc](./pandoc), it can make for an entire scholarly
 environment for a quantitatively minded social scientist.
+{: .lead}

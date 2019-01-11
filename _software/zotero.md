@@ -26,3 +26,4 @@ integrating with traditional word processing software programs like Microsoft
 Word, Zotero can also produce auto-updating BibTeX documents that can be used
 with [Pandoc](./pandoc) to create properly cited scholarly articles and
 manuscripts.
+{: .lead}
