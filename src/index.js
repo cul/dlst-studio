@@ -1,5 +1,7 @@
 import $ from "jquery";
 import L from "leaflet";
+import formatArticle from "./format-article";
+import addExternalLinks from "./external-links";
 
 $("#people-columns").html(function() {
   const people = JSON.parse($( this )
@@ -43,6 +45,8 @@ $(".location").on("shown.bs.collapse", function() {
 });
 
 $(window).ready( () => {
+  formatArticle();
+  addExternalLinks();
     $("#loader").hide();
     $("#bwOutput").show();
     $(".carousel-item").first().addClass("active");

@@ -12,4 +12,3 @@ categories:
 A new year brings a new semester, which also means new events at CUL Studio.
 Over in Butler, we’ll be continuing with our Open Lab every Friday, 3–5pm.
 Furthermore, we hope to announce some new workshops and guest speakers soon.
-{: .lead}
