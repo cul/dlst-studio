@@ -15,3 +15,8 @@ tags:
   - lehman
   - mapping
 ---
+
+QGIS is a powerful application for building and working with geographic
+information systems (GIS). Like its commercial competitor, ArcGIS, QGIS has a
+suite of plugins and a Python backend to make effectively limitless the
+possibilities for geospatial analysis. 

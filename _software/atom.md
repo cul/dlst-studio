@@ -18,3 +18,10 @@ tags:
   - text
   - utility
 ---
+
+Atom is a text editor provided by the people at GitHub. Extensively
+customisable and with Git and GitHub support built-in, Atom is a great tool
+for beginners and experts alike, no matter what kind of text they are
+producing. Its integrated Markdown support makes writing prose
+straightforward, and its infinitely extendable syntax checkers and linters
+make it a tool for programming in any language.

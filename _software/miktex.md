@@ -17,3 +17,11 @@ tags:
   - simple-paper
   - text
 ---
+
+MiKTeX, like [TeX Live](./tex-live), combines the various bits and pieces of
+the TeX document preparation system into one, large distribution that is
+easier to maintain. Unlike TeX Live, which is updated once a year, MiKTeX is
+updated on a rolling basis, as it is maintained by one person, instead of by a
+team of testers. Furthermore, its initial installation footprint is
+considerably smaller than TeX Live’s. We recommend using MiKTeX in Windows
+environments.

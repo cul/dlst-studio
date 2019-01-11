@@ -18,3 +18,14 @@ tags:
   - statistics
   - mapping
 ---
+
+Anaconda is an all-in-one solution for managing projects in Python or R. It
+installs an application, called “Navigator,” that lets the user launch a
+number of applications that can sometimes have more complex installation (and
+launching) procedures. Most notably, Anaconda lets users launch a [Jupyter
+Notebook](https://jupyter-notebook.readthedocs.io/en/stable/) with just one
+click. Furthermore Anaconda comes with common Python libraries like
+[numpy](http://numpy.scipy.org/) and [pandas](http://pandas.pydata.org/),
+[tensorflow](http://tensorflow.org/), [nltk](http://nltk.org/), and
+[scikit-learn](http://scikit-learn.org/) preinstalled.
+{: .lead}

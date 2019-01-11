@@ -18,3 +18,13 @@ tags:
   - utility
 ---
 
+Unlike the rest of the software listed here, Git is a utility that produces,
+on its own, very little. Nevertheless it is a cornerstone of sustainable,
+reproducible, and collaborative work. Git turns a folder into a _project_ or a
+_repository_ and then tracks the changes on all the files inside that folder,
+providing a record of your and your team’s progress. Furthermore, integrated
+with a web-hosting service like GitHub, Git can become a backup system and a
+“single source of truth” among your collaborators. Finally, as a backup
+system, Git is not only a time machine, but a time machine for various
+timelines, as the Git history can be branched and merged as you try different
+ideas with your work.

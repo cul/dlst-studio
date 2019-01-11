@@ -14,3 +14,10 @@ tags:
   - simple-paper
   - text
 ---
+
+MacTeX is a MacOS-specific implementation of [TeX Live](./tex-live), a
+single-stop distribution that provides the TeX document preparation system.
+The enormous installer (over 3gb) creates an environment for creating
+scholarly documents that run the gamut of typographical diversity, from
+linguistics and paleography to mathematics, formal logic, and the sciences.
+All for free.
