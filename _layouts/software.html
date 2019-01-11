@@ -13,6 +13,8 @@ layout: default
     <h3>{{ page.description }}</h3>
   </div>
 </div>
+{% assign app = page %}
+{% include software-nav.html %}
 
 <article>
   {{ content }}
