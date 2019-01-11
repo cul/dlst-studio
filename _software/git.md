@@ -16,6 +16,9 @@ tags:
   - simple-cv
   - simple-paper
   - utility
+tutorials:
+  external:
+  - "“[Oh shit, git!](http://ohshitgit.com)” by [Katie Sylor-Miller](https://sylormiller.com)"
 ---
 
 Unlike the rest of the software listed here, Git is a utility that produces,
