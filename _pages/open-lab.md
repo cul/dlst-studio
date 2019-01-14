@@ -1,9 +1,9 @@
 ---
-title: Open Lab
+title: CUL Studio Open Lab
 permalink: open-lab
 ---
 
-![{{ site.data.images.butler.alt }}]({{ site.data.images.butler.src }})
+<img alt="{{ site.data.images.butler.alt }}" src="{{ site.data.images.butler.src }}" class="img-fluid img-thumbnail" />
 
 Since the CUL Studio’s founding in 2013, its primary vehicle for engaging in
 its mission has been the “Open Lab.” This continues to this day, as, between
