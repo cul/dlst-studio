@@ -30,7 +30,8 @@ microphones. Wireless connectivity has been upgraded to the fastest available
 in the library.
 
 CUL Studio Lehman has six desktop PCs with running Windows 10 with additional
-software maintained by Research Data Services.
+software maintained by [Research Data
+Services](https://library.columbia.edu/services/research-data-services.html).
 
 If you need advanced software or scanning technology for your research, that
 is available in the Digital Humanities Center (305 Butler); software and
@@ -40,14 +41,17 @@ computers for teaching support are available in the CTL’s Learning Commons
 ### When is CUL Studio open?
 
 CUL Studio programming is typically open to the Columbia community and beyond,
-though many events may require an RSVP. Informal, Open Labs typically occur
+though many events may require an RSVP. Informal, [Open Labs]({{ site.baseurl
+}}/open-lab) typically occur
 every week-day in the afternoon, with CUL Studio Lehman hosting an Open Lab
 Mondays through Thursdays, and CUL Studio Butler hosting an Open Lab Friday
 afternoons.
 
-CUL Studio also hosts more focused labs such as Research Data Services’s
-Python and R Open Labs, taught by Digital Centers Interns, and Python and R
-support hours hosted by Foundations for Research Computing. CUL Studio Butler
+CUL Studio also hosts more focused events such as [Research Data
+Services](https://library.columbia.edu/services/research-data-services.html)’s
+labs proctored by Digital Centers Interns at CUL Studio Lehman, and Python and R
+support hours hosted by [Foundations for Research
+Computing](http://rcfoundations.research.columbia.edu). CUL Studio Butler
 additionally hosts events managed by the GSAS Teaching Center and the Digital
 Humanities Center. 
 

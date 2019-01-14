@@ -23,7 +23,7 @@ open-lab:
 
 CUL Studio Butler offers space for between 25 and 40 participants in room 208B
 of [Butler Library](https://library.columbia.edu/locations/butler.html). During
-Open Labs, the space makes use of wheeled tables and whiteboards to create
+[Open Labs]({{ site.baseurl }}/open-lab), the space makes use of wheeled tables and whiteboards to create
 small islands of collaborative activity. The room, with a tall vaulted ceiling, has ten separate tables that can be easily reconfigured.
 {: .lead}
 

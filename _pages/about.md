@@ -35,7 +35,7 @@ for the CTL.
 
 Since its inception, the Studio has worked with faculty both on a one-on-one
 basis as well as by collaborating with research collectives. For example, the
-Studio has facilitated an Open Lab environment for the 
+Studio has facilitated an [Open Lab]({{ site.baseurl }}/open-lab) environment for the 
 [Group for Experimental Methods in Humanistic Research at Columbia
 University](http://xpmethod.plaintext.in), which made use of connections
 forged at the studio in some of its most high-profile work, such as [_Torn
