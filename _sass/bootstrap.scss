@@ -1,14 +1,16 @@
 $font-family-base: "Adobe Garamond", "EB Garamond", "Garamond", serif;
 $font-family-monospace: "Source Code Pro", Monaco, monospace;
+
 $body-color:       #333;
 $body-bg: #fdfdfd;
-$theme-colors: (
-  "primary": #88A9B8, // washed out teal.
-  "secondary": #356E81
-);
+
+$primary: #88A9B8 !default; // washed out teal.
+$secondary: #356E81 !default; // darker teal.
+
 $font-size-base: 1rem;
-$card-columns-count: 4;
 $h2-font-size: 3rem;
+
+$card-columns-count: 4;
 
 @import "./vendor/bootstrap/scss/functions";
 @import "./vendor/bootstrap/scss/variables";
@@ -29,5 +31,6 @@ $h2-font-size: 3rem;
 @import "./vendor/bootstrap/scss/list-group";
 @import "./vendor/bootstrap/scss/tooltip";
 @import "./vendor/bootstrap/scss/badge";
+@import "./vendor/bootstrap/scss/alert";
 
 

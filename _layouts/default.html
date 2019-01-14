@@ -8,6 +8,34 @@
 
     {% include header.html %}
 
+    {% if site.alert %}
+      {% assign alert = site.alert %}
+    {% endif %}
+    {% comment %}
+      Overwrite site-wide alert with page alert
+    {% endcomment %}
+    {% if page.alert %}
+      {% assign alert = page.alert %}
+    {% endif %}
+    {% if alert %}
+      {% if alert.class %}
+        {% assign class = alert.class %}
+      {% else %}
+        {% assign class = "primary" %}
+      {% endif %}
+      <div class="d-flex align-items-center  alert alert-{{ class }} alert-dismissable fade show" role="alert">
+        <div class="mr-3">
+          <img class="alert-img" src="{{ site.data.images.lion-blue-72px.src }}" alt="{{ site.data.images.lion-blue-72px.alt }}" />
+        </div>
+        <div>
+          {% if alert.heading %}
+            <h4 class="alert-heading">{{ alert.heading }}</h4>
+          {% endif %}
+          {{ alert.body | markdownify }}
+        </div>
+      </div>
+    {% endif %}
+
     <div class="row">
       <div class="col-md-8">
         {{ content }}
