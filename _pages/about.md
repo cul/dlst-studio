@@ -68,8 +68,11 @@ Services](https://library.columbia.edu/services/research-data-services.html),
 a part of the Science, Engineering, and Social Sciences Libraries.
 Concretely, this means that Alex Gil (DS) works with Jeremiah
 Trinidad-Christensen (RDS) to align programming between sites, ensuring a
-similar commitment to ethical, sustainable, collaborative, and FAIR research
-and pedagogy.
+similar commitment to ethical, sustainable, collaborative, and <abbr
+title="Findable, Accessible, Interoperable, Reusable" class="initialism">FAIR</abbr> research
+and pedagogy. For more on FAIR research and pedagogy, please [consult the CUL
+scholarly communications
+page](https://scholcomm.columbia.edu/research-data.html#FAIRdata)
 
 CUL Studio does not currently have a faculty advisory committee, but in the
 past it has been helped greatly by [Associate Professor Manan

@@ -16,7 +16,7 @@ Open Lab in the form of a FAQ.
 ### Can I come to an Open Lab just because?
 
 Of course! Open Labs are sites for ethical, sustainable, collaborative, and
-FAIR digital, data-driven research and pedagogy. They are not courses or
+<abbr title="Findable, Accessible, Interoperable, Reusable" class="initialism">FAIR</abbr> digital, data-driven research and pedagogy. They are not courses or
 workshops requiring pre-registration, though sometimes courses or workshops
 happen during them. They are not opportunities to get support on a specific
 software platform, though that happens as well. 

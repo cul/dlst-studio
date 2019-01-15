@@ -6,7 +6,8 @@ permalink: code-of-conduct
 (Adapted from XPMethod’s [Lab Culture
 Manifesto](http://xpmethod.plaintext.in/lab-culture.html))
 
-Working on ethical, sustainable, collaborative, and FAIR digital, data-driven
+Working on ethical, sustainable, collaborative, and <abbr title="Findable,
+Accessible, Interoperable, Reusable" class="initialism">FAIR</abbr> digital, data-driven
 research and pedagogy requires work. And so, we believe in presence. Regular
 [Open Labs]({{ site.baseurl }}/open-lab) are a key way to get involved and to stay in touch. Use the
 time to work on your projects, learn new skills, share expertise, or just

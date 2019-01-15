@@ -6,7 +6,8 @@ permalink: faqs
 
 ### What kinds of events does CUL Studio usually host?
 
-CUL Studio is designed for ethical, sustainable, collaborative, FAIR digital
+CUL Studio is designed for ethical, sustainable, collaborative, <abbr
+title="Findable, Accessible, Interoperable, Reusable" class="initialism">FAIR</abbr> digital
 and data-driven research and pedagogy.  We host conferences, seminars, talks
 and workshops related to these concerns in addition to newer forms of
 programming: hackathons, researchathons, tech meet-ups, and more. The spaces
@@ -69,7 +70,8 @@ system](https://roomreservations.cul.columbia.edu/).
 
 ### I am looking for a space to convene a meeting in Butler Library. Is CUL Studio Butler available for that?
 
-If your meeting pertains to ethical, sustainable, collaborative and FAIR
+If your meeting pertains to ethical, sustainable, collaborative and <abbr
+title="Findable, Accessible, Interoperable, Reusable" class="initialism">FAIR</abbr>
 digital, data-driven research or pedagogy, we are happy to work with you to
 schedule it. Send us a description of the event.
 
