@@ -4,6 +4,10 @@ title: Frequently Asked Questions
 permalink: faqs
 ---
 
+Below are a few questions we often receive about the Columbia University
+Libraries Studio.
+{: .lead}
+
 ### What kinds of events does CUL Studio usually host?
 
 CUL Studio is designed for ethical, sustainable, collaborative, <abbr

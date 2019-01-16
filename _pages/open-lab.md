@@ -1,17 +1,16 @@
 ---
-title: CUL Studio Open Lab
+title: Columbia University Libraries Studio Open Lab
 permalink: open-lab
 ---
 
 <img alt="{{ site.data.images.butler.alt }}" src="{{ site.data.images.butler.src }}" class="img-fluid img-thumbnail" />
 
-Since the CUL Studio’s founding in 2013, its primary vehicle for engaging in
-its mission has been the “Open Lab.” This continues to this day, as, between
-CUL Studio Butler and CUL Studio Lehman, Open Labs constitute up to 18 hours
-of programming a week. Nevertheless, the concept can be opaque and can
-discourage new members from attending. What follows is a description of an
-Open Lab in the form of a FAQ.
-{: .lead}
+Since the Columbia University Libraries Studio’s founding in 2013, its primary
+vehicle for engaging in its mission has been the “Open Lab.” This continues to
+this day, as, between CUL Studio Butler and CUL Studio Lehman, Open Labs
+constitute up to 18 hours of programming a week. Nevertheless, the concept can
+be opaque and can discourage new members from attending. What follows is a
+description of an Open Lab in the form of a FAQ.  {: .lead}
 
 ### Can I come to an Open Lab just because?
 

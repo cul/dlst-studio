@@ -4,6 +4,10 @@ slug: spring-at-butler-2019-01
 location: butler
 prompt: >-
   Things to look out for at Butler
+image:
+  src: "https://i.imgur.com/45y41dw.jpg"
+  alt: "Empty patio chairs around a table."
+  url: "https://pxhere.com/en/photo/686194"
 categories:
 - workshop
 - open lab
