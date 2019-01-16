@@ -17,7 +17,7 @@ directions: >-
   entering IAB to the third floor. Enter [Lehman Social Sciences Library](https://library.columbia.edu/locations/lehman.html) on the third floor.  
   
   1. After entering through the turnstile cut back across the front desk and
-  follow the signs that read “DSSC” to a stairway among the DSCC computers.
+  follow the signs that read “DSSC” to a stairway among the DSSC computers.
   Alternatively, ask at the front desk for elevator access to the second floor.
 
   1. CUL Studio Lehman is at the bottom of the stairs, room 215.
