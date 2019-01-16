@@ -8,6 +8,7 @@ image:
   src: "https://i.imgur.com/45y41dw.jpg"
   alt: "Empty patio chairs around a table."
   url: "https://pxhere.com/en/photo/686194"
+  photographer: pxhere
 categories:
 - workshop
 - open lab

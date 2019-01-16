@@ -5,11 +5,9 @@ layout: default
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
   <header class="post-header">
     {% if page.image.src %}
-      <img class="img-thumbnail img-fluid" src="{{ page.image.src }}" alt="{{ page.image.alt }}" />
+      {% include image-box.html image=page.image %}
     {% elsif page.location == "butler" %}
-      <a href="{{ site.data.images.butler.orig-url }}">
-        <img class="img-thumbnail img-fluid" src="{{ site.data.images.butler.src }}" alt="{{ site.data.images.butler.alt }} by {{ site.data.images.butler.photographer }}" />
-      </a>
+      {% include image-box.html image=site.data.images.butler %}
     {% endif %}
     <h2 class="post-title" itemprop="name headline">{{ page.title }}</h2>
     <div class="post-meta">Published: <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</div>

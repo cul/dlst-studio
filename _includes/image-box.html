@@ -1,0 +1,18 @@
+<div class="img-thumbnail">
+  <img class="img-fluid" src="{{ include.image.src }}" alt="{{ include.image.alt }}" />
+  {% if include.image.photographer or include.image.url %}
+    <div class="credit d-flex justify-content-end">
+      <div class="photographer">
+        {% if include.image.photographer %}
+          {{ include.image.photographer | prepend: "Image by: " | markdownify }}
+        {% endif %}
+      </div>
+      <div class="ml-1 url">
+        {% if include.image.url %}
+          [<a href="{{ include.image.url }}">original</a>]
+        {% endif %}
+      </div>
+    </div>
+  {% endif %}
+</div>
+

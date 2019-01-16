@@ -8,9 +8,10 @@ layout: default
 
 <div class="row">
   <div class="col-md-6">
-    <img class="mb-3 img-thumbnail img-fluid" src="{{ site.data.images[page.tag].src }}"
-                                       alt="{{ site.data.images[page.tag].alt }}" />
-
+    <div class="mb-3">
+      {% assign header-image = site.data.images[page.tag] %}
+      {% include image-box.html image=header-image %}
+    </div>
     <div class="card mb-3" id="open-lab-card">
       <div class="card-body">
         <h5 class="card-title">{{ site.data.open-labs.meta.semester }} <a href="{{ site.baseurl }}/open-lab">Open Labs</a>
