@@ -1,9 +1,9 @@
 ---
-title: CUL Studio Butler
+title: Studio Butler
 layout: space
 tag: butler
 name: Butler
-text: The original CUL Studio, Butler hosts talks and the famous Friday Open Lab.
+text: The original Studio, Butler hosts talks and the famous Friday Open Lab.
 directions: >-
   1. Take the [❶](http://web.mta.info/nyct/service/oneline.htm) to 116th St.  Columbia University.
 
@@ -21,13 +21,13 @@ open-lab:
   end-time: 2019-01-01 17:00
 ---
 
-CUL Studio Butler offers space for between 25 and 40 participants in room 208B
+Studio Butler offers space for between 25 and 40 participants in room 208B
 of [Butler Library](https://library.columbia.edu/locations/butler.html). During
 [Open Labs]({{ site.baseurl }}/open-lab), the space makes use of wheeled tables and whiteboards to create
 small islands of collaborative activity. The room, with a tall vaulted ceiling, has ten separate tables that can be easily reconfigured.
 {: .lead}
 
-CUL Studio Butler has no computers onsite, but it does have a large television
+Studio Butler has no computers onsite, but it does have a large television
 to which users can connect their laptops via HDMI. 
 
 

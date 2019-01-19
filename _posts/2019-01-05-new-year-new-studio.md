@@ -2,10 +2,10 @@
 title: New Year, New Studio
 slug: new-year-new-studio-2019-01
 image:
-  src: "https://i.imgur.com/0i3hZJH.png"
-  alt: "CUL Studio Lion with names of CUL Studios"
+  src: "https://i.imgur.com/CLguz29.png"
+  alt: "Studio Lion with names of Studios"
 prompt: >-
-  2019 brings exciting new changes to the CUL Studio and digital, data-driven
+  2019 brings exciting new changes to the Studio and digital, data-driven
   research and pedagogy.
 categories:
 - article
@@ -41,7 +41,7 @@ invited talks and general welcoming ethos, the Studio has welcomed researchers
 from universities around the world to discuss their work. 
 
 In 2018, it became increasingly clear that the Studio was not just an
-experimental space but a space central to CUL’s core [strategic
+experimental space but a space central to Columbia University Libraries’ core [strategic
 directions](https://strategicdirections.library.columbia.edu/). The
 ahierarchical structure of the Open Lab aims to foster inclusion as a founding
 principle, making use of that inclusion to inspire inquiry, catalyze
@@ -49,28 +49,28 @@ discovery, and advance knowledge. Through its work looking outward to the
 world beyond Columbia’s walls, the Studio has empowered staff and helped shape
 discourse around pressing issues.
 
-This alignment of values implied that others within CUL were doing similar
+This alignment of values implied that others within the Libraries were doing similar
 work in fostering digital, data-driven research and pedagogy that was
 simultaneously ethical, sustainable, and collaborative. And so, the Studio is
 now growing with its first sibling Studio, the space maintained by [Research
 Data
 Services](https://library.columbia.edu/services/research-data-services.html),
 which has been running its own Open Labs four times a week with nearly
-identical commitments. As such CUL Studio now spans two CUL divisions, Digital
+identical commitments. As such the Studio now spans two Libraries divisions, Digital
 Scholarship and the Science, Engineering, and Social Sciences Libraries.
 
-CUL Studio, then, is both a space and a practice. A space for innovative
+The Studio, then, is both a space and a practice. A space for innovative
 scholarly work done within a practice of inclusion. But just as the practice
 is built from several core principles, the space is also built from more than
-one site. CUL Studio Lehman now joins CUL Studio Butler, sharing programming,
+one site. Studio Lehman now joins Studio Butler, sharing programming,
 principles, and this very webpage.
 
-With this webpage, we hope that it grows alongside CUL Studio. In addition to
+With this webpage, we hope that it grows alongside the Studio. In addition to
 the information about programming included in the earlier version of the site,
-this new one will also include programming at CUL Studio Lehman alongside
+this new one will also include programming at Studio Lehman alongside
 programming of note outside of the Studio.
 
-Furthermore, as CUL Studio is not just a space for programming but also a
+Furthermore, as the Studio is not just a space for programming but also a
 practice, we will grow our library of tuition, creating workshops and
 tutorials as well as sharing others we encounter. We find that scholars with
 principles similar to ours are often left adrift by typical digital,

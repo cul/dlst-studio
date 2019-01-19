@@ -43,7 +43,7 @@ Apart/Separados_](http://xpmethod.plaintext.in/torn-apart/), a set of
 visualizations looking at immigration in the US in 2018.
 
 Similarly, the Studio has featured programming in collaboration with other
-units within CUL. In 2017, for example, 25 librarians helped over 60
+units within the Columbia University Libraries. In 2017, for example, 25 librarians helped over 60
 volunteers during the [Puerto Rico
 Mapathon](https://www.nytimes.com/2017/10/02/nyregion/maps-puerto-rico-hurricane-maria.html),
 in which we all worked together to improve maps of Puerto Rico in the
@@ -53,14 +53,14 @@ In 2018, it became clear that Studio@Butler has been pursuing a vision similar
 to that of [Research Data
 Services](https://library.columbia.edu/services/research-data-services.html),
 a part of the Science, Engineering, and Social Sciences Library Division.
-Beginning in 2019, then, Studio@Butler has been renamed to CUL Studio Butler,
+Beginning in 2019, then, Studio@Butler has been renamed to the Columbia University Libraries Studio Butler,
 and will be working in partnership with RDS’s space in the Lehman Social
-Sciences Library, now called CUL Studio Lehman. In the future, we hope to
+Sciences Library, now called the Columbia University Libraries Studio Lehman. In the future, we hope to
 expand further.
 
 ### Organization
 
-CUL Studio is a flat organization, managed by full-time librarians in both the
+The Studio is a flat organization, managed by full-time librarians in both the
 [Digital
 Schoalrship](https://library.columbia.edu/services/digital-scholarship)
 division and in [Research Data
@@ -70,11 +70,10 @@ Concretely, this means that Alex Gil (DS) works with Jeremiah
 Trinidad-Christensen (RDS) to align programming between sites, ensuring a
 similar commitment to ethical, sustainable, collaborative, and <abbr
 title="Findable, Accessible, Interoperable, Reusable" class="initialism">FAIR</abbr> research
-and pedagogy. For more on FAIR research and pedagogy, please [consult the CUL
-scholarly communications
+and pedagogy. For more on FAIR research and pedagogy, please [consult the Libraries’ scholarly communications
 page](https://scholcomm.columbia.edu/research-data.html#FAIRdata).
 
-CUL Studio does not currently have a faculty advisory committee, but in the
+The Studio does not currently have a faculty advisory committee, but in the
 past it has been helped greatly by [Associate Professor Manan
 Ahmed](https://history.columbia.edu/faculty/manan-ahmed/) (History), [Jacob H.
 Schiff Foundations Professor Emeritus of Psychology & Education Herbert
@@ -101,7 +100,7 @@ a Lion from the sacristy of the Lviv Cathedral.  The original caption reads:
 zakrystyi kościoła katedralnego we Lwowie. Rysował z oryginału J. <span
 style="letter-spacing: 0.5em;">Makarewicz</span>
 
-### Reserving and Using CUL Studio Butler and CUL Studio Lehman
+### Reserving and Using Studio Butler and Studio Lehman
 
 Either space can be reserved for appropriate activity by emailing
 studio@libraries.cul.columbia.edu. We encourage looking at our [reservation

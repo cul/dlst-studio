@@ -1,0 +1,40 @@
+$small-header-height: 2.75rem;
+$large-header-height: 4.5rem;
+
+header {
+  h1 {
+    font-family: "Trajan Pro", "Cinzel", serif;
+    font-size: $small-header-height;
+  }
+
+  .crown {
+    height: $small-header-height / 3;
+  }
+
+  #libraries-header {
+    font-family: "Trajan Pro", "Cinzel", serif;
+    height: $small-header-height;
+    line-height: 1.2;
+    font-size: $small-header-height / 3;
+  }
+
+  #logo {
+    height: $small-header-height;
+  }
+
+  @media (min-width: 768px) { 
+    h1 {
+      font-size: $large-header-height;
+    }
+
+    #logo, #libraries-header {
+      font-size: $large-header-height / 4;
+      height: $large-header-height;
+    }
+
+    .crown {
+      height: $large-header-height / 4;
+    }
+
+  }
+}
