@@ -7,7 +7,7 @@
 <h3>Recent News</h3>
 
 <ul>
-{% for i in (0..2) %}
+{% for i in (0..3) %}
   {% assign post = site.posts[i] %}
 <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
 {% endfor %}
