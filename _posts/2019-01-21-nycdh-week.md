@@ -21,6 +21,11 @@ events:
   start: "2019-02-05 15:00 -500"
   end: "2019-02-05 17:00 -500"
   location: lehman
+- guid: "CAL-00bb9e25-6874d36b-0168-76777746-00000cadevents%40columbia.edu"
+  title: "Working with Open Data: Intro to APIs"
+  start: "2019-02-05 18:00 -500"
+  end: "2019-02-05 20:00 -500"
+  location: butler
 - guid: "CAL-00bb9e25-686facc0-0168-72679746-0000165devents%40columbia.edu"
   title: Advanced Topics in Word Embeddings
   start: "2019-02-06 10:00 -500"
@@ -67,6 +72,13 @@ Pereira will lead an introduction to JavaScript by also showing how to use the
 web-mapping library [Leaflet](http://leafletjs.com). At the end of the
 workshop, users will be able to embed maps in webpages using data they
 provide.
+
+**[Working with Open Data: Intro to
+APIs](http://dhweek.nycdh.org/event/working-with-open-data-intro-to-apis-2/):**
+There is so much data out on the web that knowing how to use APIs will let you
+explore and collect that data in a reliable and efficient way. This workshop
+will be taught by Amir Imani, a student at the Data Science Institute and a
+grantee at the Brown Institute for Media Innovation.
 
 **[Advanced Topics in Word
 Embeddings](http://dhweek.nycdh.org/event/advanced-topics-in-word-embeddings/):**
