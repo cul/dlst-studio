@@ -9,7 +9,7 @@ $large-header-height: 4.5rem;
     font-size: $small-header-height;
   }
 
-  #logo {
+  #lion-header-logo {
     height: $small-header-height;
   }
 
@@ -24,8 +24,9 @@ $large-header-height: 4.5rem;
       height: $large-header-height * 0.833;
     }
 
-    #logo {
+    #lion-header-logo {
       height: $large-header-height;
+      margin-top: $large-header-height * -0.667;
     }
   }
 }
