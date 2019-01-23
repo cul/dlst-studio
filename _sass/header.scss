@@ -2,7 +2,7 @@ $small-header-height: 2.75rem;
 $large-header-height: 4.5rem;
 
 #studio-header {
-  height: $small-header-height;
+  // height: $small-header-height;
 
   #studio-h1 {
     font-family: "Trajan Pro", "Cinzel", serif;
@@ -14,7 +14,7 @@ $large-header-height: 4.5rem;
   }
 
   @media (min-width: 768px) {
-    height: $large-header-height;
+    // height: $large-header-height;
 
     #studio-h1 {
       font-size: $large-header-height;
