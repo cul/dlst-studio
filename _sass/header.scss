@@ -11,6 +11,7 @@ $large-header-height: 4.5rem;
 
   #lion-header-logo {
     height: $small-header-height;
+    margin-top: $small-header-height * -0.5;
   }
 
   @media (min-width: 768px) {
