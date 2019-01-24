@@ -58,8 +58,8 @@ laptop to the workshops if possible.
 
 **Introduction to Jekyll:** Digital Scholarship Librarian and Studio founder
 Alex Gil will be leading the first of two workshops Tuesday morning during
-NYCDH Week. In this case, it’s an introduction to the static website generator
-[Jekyll](http://jekyllrb.com). Use Jekyll to make fast loading webpages....
+NYCDH Week. In this workshop he will offer an introduction to the static website generator
+[Jekyll](http://jekyllrb.com). Jekyll is used to make fast, durable, loading webpages or projects. Jekyll has been used for many genres of academic work: digital editions, academic journals, digital archives of images and more. If you ever wanted to create a website that you control and design, this is the workshop for you.
 
 **[Make a Simple Webmap with
 Leaflet](http://dhweek.nycdh.org/event/make-a-simple-webmap-with-leaflet/):** Research Data Librarian Moacir P. de Sá
@@ -97,7 +97,9 @@ series, so the first workshop, on making an online and print CV from the same
 plain text file, has been rolled into the NYCDH Week festivities. Moacir will
 be leading this workshop.
 
-**Introduction to GitHub:** Alex returns to teach GitHub
+**Introduction to GitHub:** 
+
+In this workshop, Patrick Smyth will introduce Git and GitHub. Git, a distributed version control system, and GitHub, a service for storing code in the cloud, are frequently used together to preserve data, collaborate in teams, and discover tools and code written by others. This workshop will introduce you to Git's primary functionality, including tracking, altering, and sharing the history of a project, and will also discuss use cases for Git and GitHub that include managing CVs, notes, and course syllabuses.
 
 **[Git and Atom](http://dhweek.nycdh.org/event/git-and-atom/):** Moacir closes
 the Columbia NYCDH Week workshops with an introduction to
