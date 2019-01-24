@@ -1,40 +1,33 @@
 $small-header-height: 2.75rem;
 $large-header-height: 4.5rem;
 
-header {
-  h1 {
+#studio-header {
+  // height: $small-header-height;
+
+  #studio-h1 {
     font-family: "Trajan Pro", "Cinzel", serif;
     font-size: $small-header-height;
   }
 
-  .crown {
-    height: $small-header-height / 3;
-  }
-
-  #libraries-header {
-    font-family: "Trajan Pro", "Cinzel", serif;
+  #lion-header-logo {
     height: $small-header-height;
-    line-height: 1.2;
-    font-size: $small-header-height / 3;
+    margin-top: $small-header-height * -0.5;
   }
 
-  #logo {
-    height: $small-header-height;
-  }
+  @media (min-width: 768px) {
+    // height: $large-header-height;
 
-  @media (min-width: 768px) { 
-    h1 {
+    #studio-h1 {
       font-size: $large-header-height;
     }
 
-    #logo, #libraries-header {
-      font-size: $large-header-height / 4;
+    #libraries-stacked-header-logo {
+      height: $large-header-height * 0.833;
+    }
+
+    #lion-header-logo {
       height: $large-header-height;
+      margin-top: $large-header-height * -0.667;
     }
-
-    .crown {
-      height: $large-header-height / 4;
-    }
-
   }
 }
