@@ -29,7 +29,7 @@ Similarly, initially Studio@Butler housed the GSAS Teaching Center, a
 professional development resource for graduate students that merged into
 Columbia’s new Center for Teaching and Learning (CTL) in 2015. CTL holds
 workshops for graduate students in Studio@Butler as well as a range of
-presentations, course labs, and informal gatherings.  Director of Graduate
+presentations, course labs, and informal gatherings. Director of Graduate
 Student Programs and Initiatives Mark Phillipson has programmed Studio events
 for the CTL.
 
@@ -42,9 +42,12 @@ forged at the studio in some of its most high-profile work, such as [_Torn
 Apart/Separados_](http://xpmethod.plaintext.in/torn-apart/), a set of
 visualizations looking at immigration in the US in 2018.
 
+Faculty have also made use of the Studio in pedagogy aligned with the Studio’s
+mode of practice. 
+
 Similarly, the Studio has featured programming in collaboration with other
-units within the Columbia University Libraries. In 2017, for example, 25 librarians helped over 60
-volunteers during the [Puerto Rico
+units within the Columbia University Libraries. In 2017, for example, 25
+librarians helped over 60 volunteers during the [Puerto Rico
 Mapathon](https://www.nytimes.com/2017/10/02/nyregion/maps-puerto-rico-hurricane-maria.html),
 in which we all worked together to improve maps of Puerto Rico in the
 aftermath of Hurricane Maria.
@@ -53,9 +56,10 @@ In 2018, it became clear that Studio@Butler has been pursuing a vision similar
 to that of [Research Data
 Services](https://library.columbia.edu/services/research-data-services.html),
 a part of the Science, Engineering, and Social Sciences Library Division.
-Beginning in 2019, then, Studio@Butler has been renamed to the Columbia University Libraries Studio Butler,
-and will be working in partnership with RDS’s space in the Lehman Social
-Sciences Library, now called the Columbia University Libraries Studio Lehman. In the future, we hope to
+Beginning in 2019, then, Studio@Butler has been renamed to the Columbia
+University Libraries Studio at Butler, and the Studio will be working in
+partnership with RDS’s space in the Lehman Social Sciences Library, now called
+the Columbia University Libraries Studio at Lehman. In the future, we hope to
 expand further.
 
 ### Organization
@@ -69,8 +73,9 @@ a part of the Science, Engineering, and Social Sciences Libraries.
 Concretely, this means that Alex Gil (DS) works with Jeremiah
 Trinidad-Christensen (RDS) to align programming between sites, ensuring a
 similar commitment to ethical, sustainable, collaborative, and <abbr
-title="Findable, Accessible, Interoperable, Reusable" class="initialism">FAIR</abbr> research
-and pedagogy. For more on FAIR research and pedagogy, please [consult the Libraries’ scholarly communications
+title="Findable, Accessible, Interoperable, Reusable"
+class="initialism">FAIR</abbr> research and pedagogy. For more on FAIR
+research and pedagogy, please [consult the Libraries’ scholarly communications
 page](https://scholcomm.columbia.edu/research-data.html#FAIRdata).
 
 The Studio does not currently have a faculty advisory committee, but in the
@@ -100,7 +105,7 @@ a Lion from the sacristy of the Lviv Cathedral.  The original caption reads:
 zakrystyi kościoła katedralnego we Lwowie. Rysował z oryginału J. <span
 style="letter-spacing: 0.5em;">Makarewicz</span>
 
-### Reserving and Using Studio Butler and Studio Lehman
+### Reserving and Using Studio at Butler and Studio at Lehman
 
 Either space can be reserved for appropriate activity by emailing
 studio@libraries.cul.columbia.edu. We encourage looking at our [reservation

@@ -24,17 +24,19 @@ who can help you.
 
 ### How is the Studio set up and how many people can it accommodate?
 
-Please see the links to [Studio Butler]({{ site.baseurl }}/spaces/butler) and [Studio Lehman]({{ site.baseurl }}/spaces/lehman) for more information about the structure of these spaces.
+Please see the links to [Studio at Butler]({{ site.baseurl }}/spaces/butler)
+and [Studio at Lehman]({{ site.baseurl }}/spaces/lehman) for more information
+about the structure of these spaces.
 
 ### What technology is in the Studio?
 
 The Studio is typically bring-your-own-technology space. There are no
-computers installed in Studio Butler, but we are ready to plug your laptop
+computers installed in Studio at Butler, but we are ready to plug your laptop
 in for presentations or capture events with projectors, a video camera, and
 microphones. Wireless connectivity has been upgraded to the fastest available
 in the library.
 
-Studio Lehman has six desktop PCs with running Windows 10 with additional
+Studio at Lehman has six desktop PCs with running Windows 10 with additional
 software maintained by [Research Data
 Services](https://library.columbia.edu/services/research-data-services.html).
 
@@ -47,18 +49,15 @@ computers for teaching support are available in the CTL’s Learning Commons
 
 Studio programming is typically open to the Columbia community and beyond,
 though many events may require an RSVP. Informal, [Open Labs]({{ site.baseurl
-}}/open-lab) typically occur
-every week-day in the afternoon, with Studio Lehman hosting an Open Lab
-Mondays through Thursdays, and Studio Butler hosting an Open Lab Friday
-afternoons.
+}}/open-lab) typically occur every week-day in the afternoon, with Studio at
+Lehman hosting an Open Lab Mondays through Thursdays, and Studio at Butler
+hosting an Open Lab Monday and Friday afternoons.
 
 The Studio also hosts more focused events such as [Research Data
 Services](https://library.columbia.edu/services/research-data-services.html)’s
-labs proctored by Digital Centers Interns at Studio Lehman, and Python and R
-support hours hosted by [Foundations for Research
-Computing](http://rcfoundations.research.columbia.edu). Studio Butler
-additionally hosts events managed by the GSAS Teaching Center and the Digital
-Humanities Center. 
+labs proctored by Digital Centers Interns at Studio at Lehman. Studio at
+Butler additionally hosts events managed by the GSAS Teaching Center and the
+Digital Humanities Center. 
 
 [Our
 calendar](https://library.columbia.edu/services/research-data-services/events.html)
@@ -72,7 +71,7 @@ pertaining to this focus. To book a traditional group study or presentation
 practice space, please visit the [Libraries’s Room Reservation
 system](https://roomreservations.cul.columbia.edu/).
 
-### I am looking for a space to convene a meeting in Butler Library. Is Studio Butler available for that?
+### I am looking for a space to convene a meeting in Butler Library. Is Studio at Butler available for that?
 
 If your meeting pertains to ethical, sustainable, collaborative and <abbr
 title="Findable, Accessible, Interoperable, Reusable" class="initialism">FAIR</abbr>
