@@ -10,7 +10,8 @@ vehicle for engaging in its mission has been the “Open Lab.” This continues 
 this day, as, between Studio at Butler and Studio at Lehman, Open Labs
 constitute up to 18 hours of programming a week. Nevertheless, the concept can
 be opaque and can discourage new members from attending. What follows is a
-description of an Open Lab in the form of a FAQ.  {: .lead}
+description of an Open Lab in the form of a FAQ.
+{: .lead}
 
 ### Can I come to an Open Lab just because?
 

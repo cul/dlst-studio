@@ -30,8 +30,8 @@ the geographical representation of bibliographical data. Stay tuned for a more
 in-depth description of the four sessions in the upcoming weeks.
 
 Studio at Butler will also continue its tradition of being a digital
-laboratory attached to a seminar or as a collaborative space for regular,
-scheduled use. This semester, the space will be used by Professor [Pamela
+laboratory attached to a seminar or a collaborative space for regular,
+scheduled use. This semester, Studio at Butler will be used by Professor [Pamela
 Smith](https://history.columbia.edu/faculty/smith-pamela-h/), Associate
 Professor [Dennis Tenen](https://english.columbia.edu/people/profile/453), the
 [Center for Spatial Research](http://c4sr.columbia.edu), and the
