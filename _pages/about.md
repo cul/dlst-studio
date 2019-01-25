@@ -45,7 +45,7 @@ visualizations looking at immigration in the US in 2018.
 Faculty have also made use of the Studio in pedagogy aligned with the Studio’s
 mode of practice. In 2018, for example, Alex Gil and Professor [Anne
 Higonnet](http://www.columbia.edu/cu/arthistory/faculty/Higonnet.html) co-taught
-the seminar/lab “Style Revolution,” producing a _[Style Revolution 1797 –
+the seminar/lab “Style Revolution,” producing _[Style Revolution 1797 –
 1804](https://stylerevolution.github.io/)_, a digital exhibit of the 18th
 century journal *Le Journal des dames et des modes*, also known as the first
 fashion magazine in Europe.
