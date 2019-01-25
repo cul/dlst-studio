@@ -29,14 +29,3 @@ small islands of collaborative activity. The room, with a tall vaulted ceiling, 
 
 Studio at Butler has no computers onsite, but it does have a large television
 to which users can connect their laptops via HDMI. 
-
-In addition to Studio programming, the room in Butler Library is also used as
-a digital laboratory attached to a seminar or as a collaborative space for
-regular, scheduled use. In Spring 2019, the space will be used by Professor
-[Pamela Smith](https://history.columbia.edu/faculty/smith-pamela-h/),
-Associate Professor [Dennis
-Tenen](https://english.columbia.edu/people/profile/453), the [Center for
-Spatial Research](http://c4sr.columbia.edu), and the [FAB-Musiconis
-project](https://edblogs.columbia.edu/musiconis/) under
-the direction of Professor [Susan
-Boynton](https://music.columbia.edu/bios/susan-boynton).
