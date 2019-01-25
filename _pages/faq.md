@@ -4,8 +4,7 @@ title: Frequently Asked Questions
 permalink: faqs
 ---
 
-Below are a few questions we often receive about the Columbia University
-Libraries Studio.
+Below are a few questions we often receive about the Columbia University Libraries Studio.
 {: .lead}
 
 ### What kinds of events does the Studio usually host?
