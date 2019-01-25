@@ -1,9 +1,9 @@
 ---
-title: Studio Lehman
+title: Studio at Lehman
 layout: space
 tag: lehman
 name: Lehman
-text: Studio Lehman offers Open Labs for four hours, four days a week as well as other programming.
+text: Studio at Lehman offers Open Labs for four hours, four days a week as well as other programming.
 directions: >-
   1. Take the [❶](http://web.mta.info/nyct/service/oneline.htm) to 116th St.  Columbia University.
 
@@ -20,7 +20,7 @@ directions: >-
   follow the signs that read “DSSC” to a stairway among the DSSC computers.
   Alternatively, ask at the front desk for elevator access to the second floor.
 
-  1. Studio Lehman is at the bottom of the stairs, room 215.
+  1. Studio at Lehman is at the bottom of the stairs, room 215.
 lat: 40.807587
 lng: -73.959412
 open-lab:
@@ -30,12 +30,12 @@ open-lab:
   end-time: 2019-01-01 16:00
 ---
 
-Studio Lehman offers space for about 25 participants in a room within
+Studio at Lehman offers space for about 25 participants in a room within
 [Lehman Social Sciences
 Library](https://library.columbia.edu/locations/lehman.html) in the
 [International Affairs
 Building](https://facilities.columbia.edu/building-information/721). During
-[Open Labs]({{ site.baseurl }}/open-lab), Studio Lehman also hosts walk-in consultations with members of
+[Open Labs]({{ site.baseurl }}/open-lab), Studio at Lehman also hosts walk-in consultations with members of
 the [Research Data
 Services](https://library.columbia.edu/services/research-data-services.html)
 staff as well as Digital Center Interns. RDS maintains a
@@ -44,7 +44,7 @@ for walk-ins and provides guidance with geographic information systems, numerica
 {: .lead}
 
 
-Additionally, Studio Lehman has six Dell Precision Tower 5810 PCs with 32GB
+Additionally, Studio at Lehman has six Dell Precision Tower 5810 PCs with 32GB
 of RAM and 30-inch (2560x1600) monitors running Windows 10. The machines are
 outfitted with a wide array of Studio–supported software, including:
 

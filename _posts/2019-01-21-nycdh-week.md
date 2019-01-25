@@ -52,7 +52,7 @@ As it has for every year since [NYCDH Week](http://dhweek.nycdh.org) began,
 the Studio is hosting workshops among the myriad opportunities to learn more
 about digital humanities around New York.
 
-This year, we’re taking advantage of the new Studio, Studio Lehman, to push
+This year, we’re taking advantage of the new Studio, Studio at Lehman, to push
 our number of workshops to the limit. The Studio will be hosting all seven
 Columbia-related workshops, and we invite you to come participate in as many
 as you like. Specific information and RSVP links are available in the sidebar,

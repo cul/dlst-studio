@@ -62,12 +62,12 @@ Scholarship and the Science, Engineering, and Social Sciences Libraries.
 The Studio, then, is both a space and a practice. A space for innovative
 scholarly work done within a practice of inclusion. But just as the practice
 is built from several core principles, the space is also built from more than
-one site. Studio Lehman now joins Studio Butler, sharing programming,
+one site. Studio at Lehman now joins Studio at Butler, sharing programming,
 principles, and this very webpage.
 
 With this webpage, we hope that it grows alongside the Studio. In addition to
 the information about programming included in the earlier version of the site,
-this new one will also include programming at Studio Lehman alongside
+this new one will also include programming at Studio at Lehman alongside
 programming of note outside of the Studio.
 
 Furthermore, as the Studio is not just a space for programming but also a
