@@ -5,7 +5,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   enables and promotes ethical, sustainable, FAIR, and collaborative, digital
   and data-driven research and pedagogy.
 email: studio@libraries.cul.columbia.edu
-baseurl: '/dlst-studio'
+baseurl: ''
+# baseurl: '/dlst-studio'
 paginate: 10
 paginate_path: "/news/page:num/"
 markdown: kramdown
@@ -14,6 +15,7 @@ plugins:
   - jekyll-redirect-from
   - jekyll-paginate
 exclude:
+  - vendor
   - Gemfile
   - Gemfile.lock
   - README.md
@@ -22,6 +24,8 @@ exclude:
   - webpack.config.js
   - package.json
   - package-lock.json
+  - Guardfile
+  - Rakefile
 kramdown:
   input: GFM
   footnote_backlink: '&#x21A9;&#xFE0E;'

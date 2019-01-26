@@ -73,5 +73,5 @@ We are happy to reimburse your air or train transportation to the workshop. Your
 
 ## Event Photos:
 
-![IndoGhuria1](/public/images/IndoGhuria1.jpg)
-![IndoGhuria1](/public/images/IndoGhuria2.jpg)
+![IndoGhuria1](/assets/imgs/post-images/IndoGhuria1.jpg)
+![IndoGhuria1](/assets/imgs/post-images/IndoGhuria2.jpg)
