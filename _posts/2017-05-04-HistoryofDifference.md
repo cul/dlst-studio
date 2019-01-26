@@ -83,7 +83,7 @@ categories:
 
 ## Event Photos
 
-![HoD1](/public/images/HistoryofDiff1.jpg)
+![HoD1](/assets/imgs/post-images/HistoryofDiff1.jpg)
 
-![HoD2](/public/images/HistoryofDiff2.jpg)
+![HoD2](/assets/imgs/post-images/HistoryofDiff2.jpg)
 

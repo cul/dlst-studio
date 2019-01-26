@@ -5,6 +5,7 @@ include FileUtils
 desc 'run htmlproofer, rspec if exists'
 task :test do
   opts = {
+    assume_extension: true,
     :check_external_hash => true,
     :allow_hash_href => true,
     :disable_external => true,
