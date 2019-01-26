@@ -5,7 +5,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   enables and promotes ethical, sustainable, FAIR, and collaborative, digital
   and data-driven research and pedagogy.
 email: studio@libraries.cul.columbia.edu
-baseurl: '/dlst-studio'
+baseurl: '/'
 paginate: 10
 paginate_path: "/news/page:num/"
 markdown: kramdown
