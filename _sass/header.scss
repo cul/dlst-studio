@@ -1,0 +1,33 @@
+$small-header-height: 2.75rem;
+$large-header-height: 4.5rem;
+
+#studio-header {
+  // height: $small-header-height;
+
+  #studio-h1 {
+    font-family: "Trajan Pro", "Cinzel", serif;
+    font-size: $small-header-height;
+  }
+
+  #lion-header-logo {
+    height: $small-header-height;
+    margin-top: $small-header-height * -0.5;
+  }
+
+  @media (min-width: 768px) {
+    // height: $large-header-height;
+
+    #studio-h1 {
+      font-size: $large-header-height;
+    }
+
+    #libraries-stacked-header-logo {
+      height: $large-header-height * 0.833;
+    }
+
+    #lion-header-logo {
+      height: $large-header-height;
+      margin-top: $large-header-height * -0.667;
+    }
+  }
+}

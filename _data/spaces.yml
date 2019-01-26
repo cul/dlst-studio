@@ -1,0 +1,11 @@
+# - tag: sel
+#   name: SEL
+#   text: Located in the Science and Engineering Library, CUL Studio SEL is the baby of the bunch.
+#   directions: >-
+#     1. First, you go to the store.
+#     1. Next, you eat a chicken.
+#   img:
+#     src: /assets/imgs/books-chair.jpg
+#     alt: "books and a chair"
+#   lat: 40.809839
+#   lng: -73.962048

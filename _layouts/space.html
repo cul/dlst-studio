@@ -1,0 +1,38 @@
+---
+layout: default
+---
+
+<header class="post-header">
+  <h2>{{ page.title }}</h2>
+</header>
+
+<div class="row">
+  <div class="col-md-6">
+    <div class="mb-3">
+      {% assign header-image = site.data.images[page.tag] %}
+      {% include image-box.html image=header-image %}
+    </div>
+    <div class="card mb-3" id="open-lab-card">
+      <div class="card-body">
+        <h5 class="card-title">{{ site.data.open-labs.meta.semester }} <a href="{{ site.baseurl }}/open-lab">Open Labs</a>
+          <small>({{ site.data.open-labs.meta.semester-start | date: "%b %e" }} – {{ site.data.open-labs.meta.semester-end | date: "%b %e" }})</small>
+        </h5>
+          <ul class="mb-0">
+            <li>
+              {{ page.open-lab.days }}, 
+              {{ page.open-lab.start-time | date: "%l:%M %P"}} –
+              {{ page.open-lab.end-time | date: "%l:%M %P"}}
+            </li>
+          </ul>
+        </h5>
+      </div>
+    </div>
+    {{ content }}
+
+  </div>
+  <div class="col-md-6">
+    {% include big-map.html %}
+  </div>
+</div>
+
+

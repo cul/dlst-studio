@@ -1,0 +1,31 @@
+<!-- <h2>Upcoming Events</h2> -->
+
+<!-- Venerable Bede Works. -->
+
+{% include sidebar-calendars.html %}
+
+<h3>Recent News</h3>
+
+<ul>
+{% for i in (0..3) %}
+  {% assign post = site.posts[i] %}
+<li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+{% endfor %}
+</ul>
+
+
+<!-- <h2>On the Net</h2> -->
+
+<h3>Affiliates</h3>
+<ul>
+  {% for affiliate in site.data.affiliates %}
+    <li><a href="{{ affiliate.url }}">{{ affiliate.name }}</a></li>
+  {% endfor %}
+</ul>
+
+<h3>Library Links</h3>
+<ul>
+  {% for link in site.data.library-links %}
+    <li><a href="{{ link.url }}">{{ link.name }}</a></li>
+  {% endfor %}
+</ul>

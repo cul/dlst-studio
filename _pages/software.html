@@ -1,0 +1,41 @@
+---
+title: Studio Recommended Software
+permalink: software
+---
+
+<p class="lead">While the Columbia University Libraries Studio practice does not pursue a strictly
+  tool-oriented approach to digital, data-driven research and pedagogy, we find
+  that our goals of ethical, sustainable, collaborative, and <abbr title="Findable, Accessible, Interoperable, Reusable" class="initialism">FAIR</abbr> work align
+  best with software that is free and/or open source as well as with file
+  formats that are open and as flat as possible. To that end, we recommend that
+  our collaborators—especially beginners—install and use the following
+  applications on their computers.</p>
+
+<div class="mb-2 d-flex align-items-end">
+  <button class="btn btn-primary ml-auto disabled" id="show-all-software">Show All Software</button>
+</div>
+<div class="software-list list-group mb-3">
+  {% for app in site.software %}
+    <div class="software-item list-group-item {{ app.tags | join: " " }}">
+      <div class="row">
+        <div class="col-md-2 col-3">
+          {% if app.icon %}
+            <img class="img-fluid" src="{{ site.baseurl }}/assets/imgs/icons/{{ app.icon }}.png" alt="{{ app.full-name }} icon">
+          {% endif %}
+        </div>
+        <div class="col-md-10 col-9">
+          <h4><a href="{{ app.url | prepend: site.baseurl }}">{{ app.full-name }}</a></h4>
+          <h5>{{ app.description }}</h5>
+          <div class=" d-flex justify-content-end align-items-end">
+            {% for tag in app.tags %}
+              <span class="ml-2 badge badge-primary badge-pill {{tag}}">{{ tag }}</span>
+            {% endfor %}
+          </div>
+        </div>
+      </div>
+
+      {% include software-nav.html %}
+
+    </div>
+  {% endfor %}
+</div>

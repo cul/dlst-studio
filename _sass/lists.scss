@@ -1,0 +1,39 @@
+article, #sidebar, #open-lab-card, .card-body, .tab-pane {
+  ul {
+    list-style: none;
+    padding: 0;
+    // margin: 0;
+    text-indent: -1rem;
+
+    li {
+      padding-left: 1rem;
+
+      p {
+        margin-bottom: 0;
+      }
+
+      p:first-child {
+        display: inline;
+      }
+
+    }
+
+    li:before {
+      content: "»";
+      padding-right: .5rem;
+      // float: left;
+    }
+  }
+}
+
+#event-list {
+  .list-group-item {
+    padding: 0.75rem 0rem;
+  }
+
+  @media (min-width: 768px) { 
+    .list-group-item {
+      padding: 0.75rem 1.25rem;
+    }
+  }
+}

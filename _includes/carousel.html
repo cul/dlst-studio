@@ -1,0 +1,31 @@
+<div id="carousel" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+    {% for carousel-item in site.data.carousel %}
+      {% if carousel-item.slug %}
+        {% for post in site.posts %}
+          {% if carousel-item.slug == post.slug %}
+            {% if post.image %}
+              {% assign src = post.image.src %}
+              {% assign alt = post.image.alt %}
+            {% else %}
+              {% assign src = site.data.images[post.location].src %}
+              {% assign alt = site.data.images[post.location].alt %}
+            {% endif %}
+              {% assign title = post.title %}
+              {% assign prompt = post.prompt %}
+              {% assign url = post.url %}
+          {% endif %}
+        {% endfor %}
+      {% endif %}
+      <div class="carousel-item">
+        <a href="{{ url | prepend: site.baseurl }}">
+          <img class="img-thumbnail d-block w-100" src="{{ src }}" alt="{{ alt }}">
+          <div class="carousel-caption">
+            <h5>{{ title }}</h5>
+            {{ prompt | markdownify }}
+          </div>
+        </a>
+      </div>
+    {% endfor %}
+  </div>
+</div>

@@ -1,0 +1,20 @@
+.card {
+
+  .card-header {
+
+    .nav {
+      font-size: .8rem;
+    }
+
+    @media (min-width: 1200px) { 
+
+      .nav {
+        font-size: 1rem;
+      }
+
+    }
+
+  }
+
+}
+

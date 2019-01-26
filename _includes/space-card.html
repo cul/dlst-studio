@@ -1,0 +1,57 @@
+<div class="card mb-3">
+  <div class="card-header d-flex">
+    <div class="mr-auto"><h3 class="mb-0">Space</h3></div>
+    <ul class="nav justify-content-end nav-pills card-header-pills" id="space-tabs" role="tablist">
+      {% for space in site.spaces %}
+        {% if space == site.spaces.first %}
+          {% assign active = "active" %}
+          {% assign selected = "true" %}
+        {% else %}
+          {% assign active = "" %}
+          {% assign selected = "false" %}
+        {% endif %}
+        <li class="nav-item">
+          <a class="space-tab nav-link {{ active }}" href="#{{ space.tag }}" id="{{ space.tag }}-tab" data-toggle="pill" role="tab" aria-controls="{{ space.tag }}" aria-selected="{{ selected }}">{{ space.name }}</a>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+  <div class="card-body">
+    <div class="tab-content" id="space-tab-content">
+      {% for space in site.spaces %}
+        {% if space == site.spaces.first %}
+          {% assign active = "active" %}
+        {% else %}
+          {% assign active = "" %}
+        {% endif %}
+        <div class="tab-pane {{ active }}" id="{{ space.tag }}" role="tabpanel" aria-labelledby="{{ space.tag }}-tab">
+          <a href="{{ site.baseurl }}/spaces/{{ space.tag }}">
+            <h5 class="card-title">{{ space.title }}</h5>
+          </a>
+          <div class="row">
+            <div class="col-xl-6 order-12 order-xl-1">
+              {{ space.text | markdownify }}
+            </div>
+            <div class="col-xl-6 order-1 order-xl-12">
+              <img class="rounded img-fluid" src="{{ site.data.images[space.tag].src }}" alt="{{ site.data.images[space.tag].alt }}" />
+            </div>
+          </div>
+          <!-- <div class="nav nav-justified"> -->
+          <!--   <div class="nav-item"> -->
+          <!--     <a class="nav-link" href="#{{ space.tag }}-location" data-toggle="collapse" role="button" aria-expanded="false" aria-controls="{{ space.tag }}-location"><i class="fas fa-map-marked-alt"></i><span class="sr-only">Location</span></a> -->
+          <!--   </div> -->
+          <!--   <1!-- <div class="nav-item"> --1> -->
+          <!--   <1!--   <a class="nav-link" href="{{ space.tag }}-calendar"><i class="far fa-calendar-alt"></i><span class="sr-only">Calendar</span></a> --1> -->
+          <!--   <1!-- </div> --1> -->
+          <!--   <1!-- <div class="nav-item"> --1> -->
+          <!--   <1!--   <a class="nav-link" href="{{ space.tag }}-archive"><i class="fas fa-archive"></i><span class="sr-only">Archive</span></a> --1> -->
+          <!--   <1!-- </div> --1> -->
+          <!-- </div> -->
+          <!-- <div class="location collapse" data-lat="{{ space.lat }}" data-lng="{{ space.lng }}" id="{{ space.tag }}-location"> -->
+          <!--   {% include location-card.html %} -->
+          <!-- </div> -->
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>

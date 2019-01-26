@@ -1,0 +1,37 @@
+---
+layout: default
+---
+
+<div class="row">
+  <div class="col-3 d-flex flex-wrap align-items-center">
+    {% if page.icon %}
+      <img class=" img-fluid" src="{{ site.baseurl }}/assets/imgs/icons/{{ page.icon }}.png" alt="{{ page.full-name }} icon">
+    {% endif %}
+  </div>
+  <div class="col-9">
+    <h2>{{ page.full-name }}</h2>
+    <h3>{{ page.description }}</h3>
+  </div>
+</div>
+{% assign app = page %}
+{% include software-nav.html %}
+
+<article>
+  {{ content }}
+</article>
+
+{% if page.tutorials.external %}
+	<div class="card">
+		<div class="card-header">
+			External Tutorials
+		</div>
+		<div class="card-body">
+			<ul class="mb-0">
+				{% for tutorial in page.tutorials.external %}
+					<li>{{ tutorial | markdownify }}</li>
+				{% endfor %}
+			</ul>
+		</div>
+	</div>
+{% endif %}
+

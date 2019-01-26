@@ -1,0 +1,41 @@
+<div class="mt-2 nav nav-justified">
+  <a class="no-ext nav-item nav-link" href="{{ app.url }}" target="_blank">
+    <i class="fas fa-home" title="{{ app.full-name }} home page"></i>
+    <span class="sr-only">{{ app.full-name }} home page</span>
+  </a>
+  <a class="no-ext nav-item nav-link" href="{{ app.documentation.main }}" target="_blank">
+    <i class="fas fa-question-circle" title="{{ app.full-name }} main documentation"></i>
+    <span class="sr-only">{{ app.full-name }} main documentation</span>
+  </a>
+  {% if app.latest.installers.mac %}
+    <a class="no-ext nav-item nav-link" href="{{ app.latest.installers.mac }}" target="_blank">
+      <i class="fab fa-apple" title="{{ app.full-name }} MacOS installer"></i>
+      <span class="sr-only">{{ app.full-name }} MacOS installer</span>
+    </a>
+  {% else %}
+    <a class="no-ext disabled nav-item nav-link">
+      <i class="fab fa-apple" title="No {{ app.full-name }} MacOS installer"></i>
+    </a>
+  {% endif %}
+  {% if app.latest.installers.windows %}
+    <a class="no-ext nav-item nav-link" href="{{ app.latest.installers.windows }}" target="_blank">
+      <i class="fab fa-windows" title="{{ app.full-name }} Windows installer"></i>
+      <span class="sr-only">{{ app.full-name }} Windows installer</span>
+    </a>
+  {% else %}
+    <a class="no-ext nav-item nav-link disabled">
+      <i class="fab fa-windows" title="No {{ app.full-name }} Windows installer"></i>
+    </a>
+  {% endif %}
+  {% if app.latest.installers.linux %}
+    <a class="no-ext nav-item nav-link" href="{{ app.latest.installers.linux }}" target="_blank">
+      <i class="fab fa-linux" title="{{ app.full-name }} Linux installer"></i>
+      <span class="sr-only">{{ app.full-name }} Linux installer</span>
+    </a>
+  {% else %}
+    <a class="no-ext disabled nav-item nav-link">
+      <i class="fab fa-linux" title="No {{ app.full-name }} Linux installer"></i>
+    </a>
+  {% endif %}
+</div>
+

@@ -1,0 +1,17 @@
+- text: About
+  url: /about
+- text: People
+  url: /people
+- text: Open Lab
+  url: /open-lab
+- text: Software
+  url: /software
+- text: Code of Conduct
+  url: /code-of-conduct
+# - text: Privacy Statement
+#   url: /privacy-statement
+# - text: News
+#   url: /news
+# - text: Contact
+#   url: /contact
+

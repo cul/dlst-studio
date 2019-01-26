@@ -1,0 +1,12 @@
+<div class="card event-card mb-3 w-100">
+  <div class="card-body">
+    <h3>{{ article.title | markdownify }}</h3>
+
+    {{ article.prompt | markdownify }}
+
+  </div>
+  <div class="card-footer">
+    {{ article.date | date: "%a, %b %d, %Y" }} | {{ article.hour }} | {{ article.location }}
+  </div>
+</div>
+

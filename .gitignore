@@ -1,4 +1,7 @@
+node_modules
 _site
 .sass-cache
 .jekyll-metadata
+.DS*
 cron.sh
+*.log
