@@ -1,13 +1,13 @@
 - text: About
-  url: /about
+  url: /about.html
 - text: People
-  url: /people
+  url: /people.html
 - text: Open Lab
-  url: /open-lab
+  url: /open-lab.html
 - text: Software
   url: /software.html
 - text: Code of Conduct
-  url: /code-of-conduct
+  url: /code-of-conduct.html
 # - text: Privacy Statement
 #   url: /privacy-statement
 # - text: News

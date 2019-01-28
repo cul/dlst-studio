@@ -1,6 +1,6 @@
 ---
 title: People
-permalink: people
+permalink: people.html
 ---
 
 {% capture people %}

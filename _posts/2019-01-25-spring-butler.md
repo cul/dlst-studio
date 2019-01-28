@@ -16,7 +16,7 @@ categories:
 
 A new year brings a new semester, which also means new events at [Studio at
 Butler]({{ site.baseurl }}/spaces/butler). This semester, we will continue to
-offer an [Open Lab]({{ site.baseurl }}/open-lab) every Friday, 3–5pm.
+offer an [Open Lab]({{ site.baseurl }}/open-lab.html) every Friday, 3–5pm.
 
 Additionally, Studio at Butler is introducing Open Labs on Mondays, as well,
 beginning February 4. Facilitated by Digital Publishing Librarian Michelle

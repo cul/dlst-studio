@@ -35,7 +35,7 @@ Studio at Lehman offers space for about 25 participants in a room within
 Library](https://library.columbia.edu/locations/lehman.html) in the
 [International Affairs
 Building](https://facilities.columbia.edu/building-information/721). During
-[Open Labs]({{ site.baseurl }}/open-lab), Studio at Lehman also hosts walk-in consultations with members of
+[Open Labs]({{ site.baseurl }}/open-lab.html), Studio at Lehman also hosts walk-in consultations with members of
 the [Research Data
 Services](https://library.columbia.edu/services/research-data-services.html)
 staff as well as Digital Center Interns. RDS maintains a

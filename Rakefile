@@ -5,7 +5,6 @@ include FileUtils
 desc 'run htmlproofer, rspec if exists'
 task :test do
   opts = {
-    assume_extension: true,
     :check_external_hash => true,
     :allow_hash_href => true,
     :disable_external => true,
@@ -13,6 +12,7 @@ task :test do
     :only_4xx => true,
     :verbose => true
   }
+  sh 'bundle exec jekyll b'
   HTMLProofer.check_directory('./_site', opts).run
   sh 'bundle exec rspec' if File.exist?('.rspec')
 end
