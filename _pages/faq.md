@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Frequently Asked Questions
-permalink: faqs
+permalink: faqs.html
 ---
 
 Below are a few questions we often receive about the Columbia University Libraries Studio.
@@ -48,7 +48,7 @@ computers for teaching support are available in the CTL’s Learning Commons
 
 Studio programming is typically open to the Columbia community and beyond,
 though many events may require an RSVP. Informal, [Open Labs]({{ site.baseurl
-}}/open-lab) typically occur every week-day in the afternoon, with Studio at
+}}/open-lab.html) typically occur every week-day in the afternoon, with Studio at
 Lehman hosting an Open Lab Mondays through Thursdays, and Studio at Butler
 hosting an Open Lab Monday and Friday afternoons.
 

@@ -1,6 +1,6 @@
 ---
 title: Columbia University Libraries Studio Open Lab
-permalink: open-lab
+permalink: open-lab.html
 ---
 
 <img alt="{{ site.data.images.butler.alt }}" src="{{ site.data.images.butler.src }}" class="img-fluid img-thumbnail" />
@@ -72,4 +72,4 @@ Computing](http://rcfoundations.research.columbia.edu).
 ### Anything else?
 
 For now, please also read our Open Lab [Code of Conduct]({{ site.baseurl
-}}/code-of-conduct).
+}}/code-of-conduct.html).
