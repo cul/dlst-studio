@@ -1,7 +1,7 @@
 ---
 full-name: Zotero
 icon: zotero
-url: http://zotero.org
+appurl: http://zotero.org
 documentation:
   main: "https://www.zotero.org/support/"
 latest:

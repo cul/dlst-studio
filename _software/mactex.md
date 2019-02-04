@@ -1,7 +1,7 @@
 ---
 full-name: MacTeX
 icon: tex
-url: https://www.tug.org/mactex/
+appurl: https://www.tug.org/mactex/
 documentation:
   main: https://www.tug.org/mactex/gettinghelp.html
 latest:

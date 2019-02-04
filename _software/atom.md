@@ -1,7 +1,7 @@
 ---
 full-name: Atom
 icon: atom
-url: http://atom.io
+appurl: http://atom.io
 documentation: 
   main: https://atom.io/docs
 latest:

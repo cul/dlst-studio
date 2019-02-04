@@ -1,6 +1,6 @@
 ---
 full-name: Pandoc
-url: http://pandoc.org
+appurl: http://pandoc.org
 documentation:
   main: https://pandoc.org/MANUAL.html
 latest:
