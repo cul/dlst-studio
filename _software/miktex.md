@@ -1,7 +1,7 @@
 ---
 full-name: MiKTeX
 icon: miktex
-url: https://miktex.org
+appurl: https://miktex.org
 documentation:
   main: https://docs.miktex.org/2.9/manual/
 latest:
