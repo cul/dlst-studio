@@ -15,7 +15,7 @@ tags:
   - text
 ---
 
-MacTeX is a MacOS-specific implementation of [TeX Live]({{ site.baseurl }}/software/tex-live/), a
+MacTeX is a MacOS-specific implementation of [TeX Live]({{ "/software/tex-live/" | relative_url }}), a
 single-stop distribution that provides the TeX document preparation system.
 The enormous installer (over 3gb) creates an environment for creating
 scholarly documents that run the gamut of typographical diversity, from

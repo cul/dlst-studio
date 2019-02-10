@@ -3,7 +3,7 @@
     <ul class="nav">
       {% for nav in site.data.navlinks %}
         <li class="nav-item">
-          <a class="nav-link" href="{{ nav.url | prepend: site.baseurl }}">
+          <a class="nav-link" href="{{ nav.url | relative_url }}">
             {{ nav.text }}
           </a>
         </li>

@@ -23,8 +23,8 @@ who can help you.
 
 ### How is the Studio set up and how many people can it accommodate?
 
-Please see the links to [Studio at Butler]({{ site.baseurl }}/spaces/butler)
-and [Studio at Lehman]({{ site.baseurl }}/spaces/lehman) for more information
+Please see the links to [Studio at Butler]({{ "/spaces/butler" | relative_url }})
+and [Studio at Lehman]({{ "/spaces/lehman" | relative_url }}) for more information
 about the structure of these spaces.
 
 ### What technology is in the Studio?
@@ -47,8 +47,7 @@ computers for teaching support are available in the CTL’s Learning Commons
 ### When is the Studio open?
 
 Studio programming is typically open to the Columbia community and beyond,
-though many events may require an RSVP. Informal, [Open Labs]({{ site.baseurl
-}}/open-lab.html) typically occur every week-day in the afternoon, with Studio at
+though many events may require an RSVP. Informal, [Open Labs]({{ "/open-lab.html" | relative_url }}) typically occur every week-day in the afternoon, with Studio at
 Lehman hosting an Open Lab Mondays through Thursdays, and Studio at Butler
 hosting an Open Lab Monday and Friday afternoons.
 
