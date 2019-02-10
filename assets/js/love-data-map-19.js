@@ -1,9 +1,9 @@
 $(document).ready(() => {
-  ["html", "body", "#map"].forEach(node => {
-    $(node)
-      .css("height", "100%")
-      .css("width", "100%");
-  });
+  // ["html", "body", "#map"].forEach(node => {
+  //   $(node)
+  //     .css("height", "100%")
+  //     .css("width", "100%");
+  // });
 
   const maxZoom = 5;
   const stamenWatercolor = L.tileLayer(
@@ -17,7 +17,7 @@ $(document).ready(() => {
       ext: "jpg"
     }
   );
-  const map = L.map("map", {
+  const map = L.map("love-data-map-19", {
     center: [30, 0],
     zoom: 2,
     maxZoom
@@ -56,7 +56,7 @@ $(document).ready(() => {
         Math.max(...Object.keys(states).map(state => states[state]))
       ]
     );
-    $.getJSON("./assets/data/world.geo.json", data => {
+    $.getJSON("/assets/data/world.geo.json", data => {
       const countriesGeoJson = { type: "FeatureCollection" };
       countriesGeoJson["features"] = data.features.filter(
         feature => feature.properties.formal_en !== "United States of America"
@@ -74,7 +74,7 @@ $(document).ready(() => {
         }
       }).addTo(map);
     });
-    $.getJSON("./assets/data/us-states.geo.json", data => {
+    $.getJSON("/assets/data/us-states.geo.json", data => {
       L.geoJSON(data, {
         style(feature) {
           if (states[feature.properties.name]) {
