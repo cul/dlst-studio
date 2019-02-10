@@ -12,7 +12,7 @@ prompt: >-
 Get involved in this week’s [Postcard Project](#s-postcard-project), [Love Data
 Week 2019 Instagram Challenge](#s-love-data-week-2019-instagram-challenge),
 [Love Data Photobooths](#s-love-data-photobooths), and,
-finally [Love Data Kisses](#s-love-data-kisses)!
+finally, [Love Data Kisses](#s-love-data-kisses)!
 
 February 11–15 is not only Columbia’s annual week of [Wellness
 Days](https://universitylife.columbia.edu/wellness-days-columbia-schedule)
