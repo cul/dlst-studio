@@ -50,8 +50,6 @@ $(document).ready(() => {
         obj[item] = (obj[item] || 0) + 1;
         return obj;
       }, {});
-    console.log(countries);
-    console.log(states);
     const max = Math.max(
       ...[
         Math.max(...Object.keys(countries).map(country => countries[country])),
@@ -77,8 +75,6 @@ $(document).ready(() => {
       }).addTo(map);
     });
     $.getJSON("./assets/data/us-states.geo.json", data => {
-      console.log("states");
-      console.log(data);
       L.geoJSON(data, {
         style(feature) {
           if (states[feature.properties.name]) {
