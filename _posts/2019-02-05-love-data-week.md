@@ -3,7 +3,7 @@ title: Love Data Week 2019
 slug: love-data-week-2019-01
 js: love-data-map-19
 image:
-  src: https://i.imgur.com/8anvl5W.png
+  src: https://i.imgur.com/9FqE1sj.jpg
   alt: Love crown Data logos
 prompt: >-
   Show your love for data and the Libraries during Love Data Week
