@@ -20,11 +20,11 @@ permalink: software.html
       <div class="row">
         <div class="col-md-2 col-3">
           {% if app.icon %}
-            <img class="img-fluid" src="{{ site.baseurl }}/assets/imgs/icons/{{ app.icon }}.png" alt="{{ app.full-name }} icon">
+          <img class="img-fluid" src={{ app.icon | append: ".png" | prepend: "/assets/imgs/icons/" | relative_url }} alt="{{ app.full-name }} icon">
           {% endif %}
         </div>
         <div class="col-md-10 col-9">
-          <h4><a href="{{ app.url | prepend: site.baseurl }}">{{ app.full-name }}</a></h4>
+          <h4><a href="{{ app.url | relative_url }}">{{ app.full-name }}</a></h4>
           <h5>{{ app.description }}</h5>
           <div class=" d-flex justify-content-end align-items-end">
             {% for tag in app.tags %}

@@ -9,7 +9,7 @@
     <ul>
       {% for lab in site.spaces %}
         <li>
-          <a href="{{ site.baseurl }}/spaces/{{ lab.tag }}">{{ lab.title }}</a>:
+          <a href={{ lab.tag | prepend: "/spaces/" | relative_url }}>{{ lab.title }}</a>:
           <ul>
             <li>
               {{ lab.open-lab.days }}, 

@@ -18,7 +18,7 @@ tags:
   - text
 ---
 
-MiKTeX, like [TeX Live]({{ site.baseurl }}/software/tex-live/), combines the various bits and pieces of
+MiKTeX, like [TeX Live]({{ "/software/tex-live/" | relative_url }}), combines the various bits and pieces of
 the TeX document preparation system into one, large distribution that is
 easier to maintain. Unlike TeX Live, which is updated once a year, MiKTeX is
 updated on a rolling basis, as it is maintained by one person, instead of by a

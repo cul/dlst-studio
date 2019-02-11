@@ -15,7 +15,7 @@
             {{ event.start | date: "%a, %b %e %l:%M %P" }} – {{ event.end | date: "%a, %b %e %l:%M %P" }}<br />
           {% endif %}
           {% assign location = site.spaces | where:"tag",event.location | first %}
-          <a href="{{ site.baseurl }}/spaces/{{ location.tag }}">{{ location.title }}</a>
+          <a href={{ location.tag | prepend: "/spaces/" | relative_url }}>{{ location.title }}</a>
           {% if event.guid %}
             (<a href="https://events.columbia.edu/cal/event/eventView.do?b=de&calPath=%2Fpublic%2Fcals%2FMainCal&guid={{ event.guid }}" target="_blank">RSVP <i class="far fa-calendar-alt"></i></a>)
           {% endif %}

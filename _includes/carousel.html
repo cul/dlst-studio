@@ -18,7 +18,7 @@
         {% endfor %}
       {% endif %}
       <div class="carousel-item">
-        <a href="{{ url | prepend: site.baseurl }}">
+        <a href="{{ url | relative_url }}">
           <img class="img-thumbnail d-block w-100" src="{{ src }}" alt="{{ alt }}">
           <div class="carousel-caption">
             <h5>{{ title }}</h5>

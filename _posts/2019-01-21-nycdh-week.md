@@ -109,8 +109,7 @@ that you can load it successfully with `spacy.load('en_core_web_lg')`. Refer
 to the SpaCy documentation for instructions on installing the language model.
 
 **[Simple-CV](http://dhweek.nycdh.org/event/simple-cv/):** NYCDH Week
-coincides with the first week of the [Scholar.txt]({{ site.baseurl
-}}/workshop/2019/01/04/write-in-plain-text-with-scholartxt-2019-01/) workshop
+coincides with the first week of the [Scholar.txt]({{ "/workshop/2019/01/04/write-in-plain-text-with-scholartxt-2019-01/" | relative_url }}) workshop
 series, so the first workshop, on making an online and print CV from the same
 plain text file, has been rolled into the NYCDH Week festivities. Moacir will
 be leading this workshop.
