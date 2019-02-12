@@ -6,23 +6,16 @@ $(document).ready(() => {
   // });
 
   const maxZoom = 5;
-  const stamenWatercolor = L.tileLayer(
-    "https://stamen-tiles-{s}.a.ssl.fastly.net/watercolor/{z}/{x}/{y}.{ext}",
-    {
-      attribution:
-        "Map tiles by <a href='http://stamen.com'>Stamen Design</a>, <a href='http://creativecommons.org/licenses/by/3.0'>CC BY 3.0</a> &mdash; Map data &copy; <a href='https://www.openstreetmap.org/copyright'>OpenStreetMap</a> contributors",
-      subdomains: "abcd",
-      minZoom: 1,
-      maxZoom: 16,
-      ext: "jpg"
-    }
-  );
+  const esriWorldTerrain = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Terrain_Base/MapServer/tile/{z}/{y}/{x}', {
+      attribution: 'Tiles &copy; Esri &mdash; Source: USGS, Esri, TANA, DeLorme, and NPS',
+      maxZoom: 13
+  });
   const map = L.map("love-data-map-19", {
     center: [30, 0],
     zoom: 2,
     maxZoom
   });
-  stamenWatercolor.addTo(map);
+  esriWorldTerrain.addTo(map);
 
   const loveDataUrl =
     "https://spreadsheets.google.com/feeds/cells/1tPuoRHSrEoU2aZFhZYN8B9TJ5NDUg-O40IMdF8nT4kM/1/public/full?alt=json";
@@ -35,6 +28,7 @@ $(document).ready(() => {
       )
       .map(entry => entry.content["$t"])
       .filter(content => content !== "")
+      .filter(content => content !== "United States of America")
       .reduce((obj, item) => {
         obj[item] = (obj[item] || 0) + 1;
         return obj;
