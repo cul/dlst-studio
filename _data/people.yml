@@ -1,12 +1,12 @@
 - name: Moacir
   img:
     src: moacir.jpg
+- name: Xiaoxi
+  img:
+    src: xiaoxi.jpg
 - name: Qianyu
   img:
     src: qianyu.jpg
-- name: Grayson
-  img:
-    src: grayson.png
 - name: Kang
   img:
     src: kang.jpeg
