@@ -44,12 +44,10 @@ $(document).ready(() => {
         obj[item] = (obj[item] || 0) + 1;
         return obj;
       }, {});
-    const max = Math.max(
-      ...[
-        Math.max(...Object.keys(countries).map(country => countries[country])),
-        Math.max(...Object.keys(states).map(state => states[state]))
-      ]
-    );
+    const countryCounts = Object.keys(countries).map(country => countries[country])
+    const stateCounts = Object.keys(states).map(state => states[state])
+    const clusters = ss.ckmeans([...countryCounts, ...stateCounts], 5);
+    const colors = d3.schemeBlues[clusters.length]
     $.getJSON("/assets/data/world.geo.json", data => {
       const countriesGeoJson = { type: "FeatureCollection" };
       countriesGeoJson["features"] = data.features.filter(
@@ -58,10 +56,14 @@ $(document).ready(() => {
       L.geoJSON(countriesGeoJson, {
         style(feature) {
           if (countries[feature.properties.admin]) {
-            const color = d3.interpolateBlues(
-              countries[feature.properties.admin] / max
-            );
-            return { color, fillColor: color };
+            const bin = [];
+            clusters.forEach((cluster, index) => { 
+              if(cluster.filter(entry => entry === countries[feature.properties.admin]).length > 0 ){ 
+                bin.push(index);
+              }
+            });
+            const fillColor = colors[bin[0]];
+            return { fillColor, color: colors[4], weight: 1, opacity: 0.5 };
           } else {
             return { fillOpacity: 0, opacity: 0 };
           }
@@ -72,10 +74,14 @@ $(document).ready(() => {
       L.geoJSON(data, {
         style(feature) {
           if (states[feature.properties.name]) {
-            const color = d3.interpolateBlues(
-              states[feature.properties.name] / max
-            );
-            return { color, fillColor: color };
+            const bin = [];
+            clusters.forEach((cluster, index) => { 
+              if(cluster.filter(entry => entry === states[feature.properties.name]).length > 0 ){ 
+                bin.push(index);
+              }
+            });
+            const fillColor = colors[bin[0]];
+            return { fillColor, color: colors[4], weight: 1, opacity: 0.3 };
           } else {
             return { fillOpacity: 0, opacity: 0 };
           }

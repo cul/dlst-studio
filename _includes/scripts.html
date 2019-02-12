@@ -13,10 +13,11 @@
 <!-- /CULTNBW END -->
   <!-- <script src="http://spin.js.org/spin.min.js"></script> -->
   <script src="https://d3js.org/d3.v5.min.js"></script>
+  <script src="https://unpkg.com/simple-statistics@7.0.1/dist/simple-statistics.min.js"></script>
   <script src={{ "/assets/js/app.js" | relative_url }}></script>
-  {% if jekyll.environment != "production" %}
-    <script src="http://localhost:35729/livereload.js"></script>
-  {% endif %}
   {% if page.js %}
     <script src={{ page.js | append: ".js" | prepend: "/assets/js/" | relative_url }}></script>
+  {% endif %}
+  {% if jekyll.environment != "production" %}
+    <script src="http://localhost:35729/livereload.js"></script>
   {% endif %}
