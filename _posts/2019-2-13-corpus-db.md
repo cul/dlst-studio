@@ -5,7 +5,7 @@ image:
   src: https://imgur.com/a/v6jOP66
   alt: Corpus DB poster
 prompt: >-
-	Come learn about Corpus-DB
+  Come learn about Corpus-DB
 ---
 
 Join us at Studio at Butler on February 20, 2019 at 4:30pm for a presentation by Jonathan Reeve.
