@@ -71,5 +71,4 @@ Computing](http://rcfoundations.research.columbia.edu).
 
 ### Anything else?
 
-For now, please also read our Open Lab [Code of Conduct]({{ site.baseurl
-}}/code-of-conduct.html).
+For now, please also read our Open Lab [Code of Conduct]({{ "/code-of-conduct.html" | relative_url }}).

@@ -25,7 +25,7 @@
           {% assign active = "" %}
         {% endif %}
         <div class="tab-pane {{ active }}" id="{{ space.tag }}" role="tabpanel" aria-labelledby="{{ space.tag }}-tab">
-          <a href="{{ site.baseurl }}/spaces/{{ space.tag }}">
+          <a href={{ space.tag | prepend: "/spaces/" | relative_url }}>
             <h5 class="card-title">{{ space.title }}</h5>
           </a>
           <div class="row">

@@ -9,7 +9,7 @@ Manifesto](http://xpmethod.plaintext.in/lab-culture.html))
 Working on ethical, sustainable, collaborative, and <abbr title="Findable,
 Accessible, Interoperable, Reusable" class="initialism">FAIR</abbr> digital, data-driven
 research and pedagogy requires work. And so, we believe in presence. Regular
-[Open Labs]({{ site.baseurl }}/open-lab.html) are a key way to get involved and to stay in touch. Use the
+[Open Labs]({{ "/open-lab.html" | relative_url }}) are a key way to get involved and to stay in touch. Use the
 time to work on your projects, learn new skills, share expertise, or just
 catch up on our own work. Attendance carries no requirements.
 {: .lead}
@@ -17,13 +17,13 @@ catch up on our own work. Attendance carries no requirements.
 ### Modalities of Engagement
 
 We would like to maintain a conscious and engaged environment during [Open
-Labs]({{ site.baseurl }}/open-lab.html), sensitive to the dynamics of power—gender, sexuality, class,
+Labs]({{ "/open-lab.html" | relative_url }}), sensitive to the dynamics of power—gender, sexuality, class,
 race—particularly as they manifest in spatial and temporal imbalances of
 participation. With this goal in mind, we actively promote the following
 practices:
 
 1. **Architectures of power.** Be mindful of the room’s physical arrangement.
-   At the beginning of [Open Lab]({{ site.baseurl }}/open-lab.html), long tables can be broken down into
+   At the beginning of [Open Lab]({{ "/open-lab.html" | relative_url }}), long tables can be broken down into
    smaller islands of activity. Locations of power, such as the lectern or the
    center of the room, should be systematically ceded and inverted.
 

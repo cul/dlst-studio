@@ -5,7 +5,7 @@ layout: default
 <div class="row">
   <div class="col-3 d-flex flex-wrap align-items-center">
     {% if page.icon %}
-      <img class=" img-fluid" src="{{ site.baseurl }}/assets/imgs/icons/{{ page.icon }}.png" alt="{{ page.full-name }} icon">
+    <img class=" img-fluid" src={{ page.icon | append: ".png" | prepend: "/assets/imgs/icons/" | relative_url }} alt="{{ page.full-name }} icon">
     {% endif %}
   </div>
   <div class="col-9">

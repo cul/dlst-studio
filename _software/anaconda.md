@@ -1,7 +1,7 @@
 ---
 full-name: Anaconda
 icon: anaconda
-url: http://anaconda.com
+appurl: http://anaconda.com
 documentation: 
   main: https://docs.anaconda.com/anaconda/
 download: https://anaconda.com/downloads

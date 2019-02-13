@@ -1,7 +1,7 @@
 ---
 full-name: TeX Live
 icon: tex
-url: https://www.tug.org/texlive/
+appurl: https://www.tug.org/texlive/
 documentation:
   main: https://www.tug.org/texlive/doc.html
 latest:
@@ -20,6 +20,6 @@ TeX Live combines all the various bits and pieces of the TeX document
 preparation system into one, large ecosystem that is simpler to install and
 maintain. It is battle-tested by a team of developers around the world,
 meaning every year’s edition is reliable and stable. Though it is available
-for Windows and Mac, we recommend using [MiKTeX]({{ site.baseurl }}/software/miktex/) on Windows
-computers and [MacTeX]({{ site.baseurl }}/software/mactex/) on Macs.
+for Windows and Mac, we recommend using [MiKTeX]({{ "/software/miktex/" | relative_url }}) on Windows
+computers and [MacTeX]({{ "/software/mactex/" | relative_url }}) on Macs.
 {: .lead}

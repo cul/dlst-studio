@@ -35,7 +35,7 @@ for the CTL.
 
 Since its inception, the Studio has worked with faculty both on a one-on-one
 basis as well as by collaborating with research collectives. For example, the
-Studio has facilitated an [Open Lab]({{ site.baseurl }}/open-lab.html) environment for the 
+Studio has facilitated an [Open Lab]({{ "/open-lab.html" | relative_url }}) environment for the 
 [Group for Experimental Methods in Humanistic Research at Columbia
 University](http://xpmethod.plaintext.in), which made use of connections
 forged at the studio in some of its most high-profile work, such as [_Torn
@@ -114,4 +114,4 @@ style="letter-spacing: 0.5em;">Makarewicz</span>
 
 Either space can be reserved for appropriate activity by emailing
 studio@libraries.cul.columbia.edu. We encourage looking at our [reservation
-FAQs]({{ site.baseurl }}/faqs.html) ahead of time.
+FAQs]({{ "/faqs.html" | relative_url }}) ahead of time.

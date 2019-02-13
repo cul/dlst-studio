@@ -1,7 +1,7 @@
 ---
 full-name: QGIS
 icon: qgis
-url: http://qgis.org
+appurl: http://qgis.org
 documentation: 
   main: https://docs.qgis.org/testing/en/docs/
 latest:
