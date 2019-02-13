@@ -51,8 +51,8 @@ Similarly, the Science, Engineering, and Social Sciences Libraries Division
 Engineering](https://library.columbia.edu/locations/science-engineering.html),
 [Social Work](https://library.columbia.edu/locations/social-work.html), and
 [Watson](https://library.columbia.edu/locations/business.html)), they have
-placed large Valentines. Your goal is to photograph yourself in front of it
-and then post an Instagram post of the five photos, hashtagged
+placed large Valentines. Your goal is to photograph yourself in front of one
+and then post it to Instagram, hashtagged
 [`#LoveData19`](https://www.instagram.com/explore/tags/lovedata19/) and
 [`#LoveColumbia`](https://www.instagram.com/explore/tags/lovecolumbia/). We’ll
 give out gift cards to three lucky winners: first, best, and “other.”
