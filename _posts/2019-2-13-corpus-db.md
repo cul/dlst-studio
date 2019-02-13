@@ -2,8 +2,8 @@
 title: Corpus-DB
 slug: corpus-db-studio-presentation
 image: 
-	src: https://imgur.com/a/v6jOP66
-	alt: Corpus DB poster
+  src: https://imgur.com/a/v6jOP66
+  alt: Corpus DB poster
 prompt: >-
 	Come learn about Corpus-DB
 ---
