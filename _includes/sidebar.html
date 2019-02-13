@@ -9,7 +9,7 @@
 <ul>
 {% for i in (0..3) %}
   {% assign post = site.posts[i] %}
-<li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+<li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
 {% endfor %}
 </ul>
 

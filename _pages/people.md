@@ -5,7 +5,7 @@ permalink: people.html
 
 {% capture people %}
 	{% for person in site.data.people %}
-		{'name': '{{ person.name }}', 'img_src': '{{ site.baseurl }}/assets/imgs/people/{{ person.img.src }}'},
+		{'name': '{{ person.name }}', 'img_src': '{{ person.img.src | prepend: "/assets/imgs/people/" | relative_url }}'},
 	{% endfor %}
 {% endcapture %}
 

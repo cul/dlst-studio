@@ -1,7 +1,7 @@
 ---
 full-name: RStudio Desktop
 icon: rstudio
-url: http://rstudio.com
+appurl: http://rstudio.com
 documentation:
   main: https://support.rstudio.com/hc/en-us/categories/200035113-Documentation
 latest:
@@ -19,6 +19,6 @@ tags:
 
 RStudio Desktop provides a complete environment for R programming, including a
 console, dedicated editor, and other windows for keeping track of vectors,
-files, and plots. With [Pandoc]({{ site.baseurl }}/software/pandoc/), it can make for an entire scholarly
+files, and plots. With [Pandoc]({{ "/software/pandoc/" | relative_url }}), it can make for an entire scholarly
 environment for a quantitatively minded social scientist.
 {: .lead}
