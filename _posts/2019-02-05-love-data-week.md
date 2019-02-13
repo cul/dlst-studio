@@ -39,7 +39,8 @@ In exchange, we’ll be keeping track of what states and countries the postcards
 are addressed to, and we’re building a world map of places our community is
 reaching out to this week:
 
-<div id="love-data-map-19" class="mb-3" style="height: 50vh"></div>
+<div id="love-data-map-19" style="height: 50vh"></div>
+<div id="love-data-map-19-legend" class="mb-3 w-100"></div>
 
 ### Love Data Week 2019 Instagram Challenge
 
