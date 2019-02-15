@@ -15,7 +15,7 @@ Jekyll site for the Digital Humanities @Columbia
 - [x] __Student/Faculty/Librarian contributions__
 - [ ] __Custom search__
 - [ ] __IIIF__ (`remote` or `local`, if `remote` describe path)
-- [ ] __Maps__
+- [x] __Maps__
 - [ ] __D3__
 - [ ] __Other:__ ______
 
