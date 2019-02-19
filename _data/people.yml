@@ -1,6 +1,9 @@
 - name: Moacir
   img:
     src: moacir.jpg
+- name: Haoyu
+  img:
+    src: haoyu.jpg
 - name: Xiaoxi
   img:
     src: xiaoxi.jpg
