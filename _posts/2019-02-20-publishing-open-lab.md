@@ -2,7 +2,7 @@
 title: Publishing Open Lab, Mondays 3-5
 slug: publishing-open-lab
 image: 
-  src: https://i.imgur.com/AKYAgpS.png
+  src: https://i.imgur.com/CAoSkw2.png
   alt: Poster for Monday Publishing Open Lab
 prompt: >-
   Join us for Publishing Open Lab, held every Monday in Studio at Butler.
