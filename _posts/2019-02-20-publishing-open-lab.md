@@ -1,6 +1,6 @@
 ---
 title: Publishing Open Lab, Mondays 3-5
-slug: publishing-open-lab
+slug: publishing-open-lab-mondays
 image: 
   src: https://i.imgur.com/CAoSkw2.png
   alt: Poster for Monday Publishing Open Lab
