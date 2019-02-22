@@ -1,5 +1,5 @@
 ---
-title: Publishing Open Lab, Mondays 3-5
+title: Publishing Open Lab, Mondays 3:00 pm – 5:00 pm
 slug: publishing-open-lab-mondays
 image: 
   src: https://i.imgur.com/CAoSkw2.png
@@ -10,7 +10,7 @@ categories:
 - open lab
 ---
 
-### Publishing Open Lab, Mondays 3-5
+### Publishing Open Lab, Mondays 3:00 pm – 5:00 pm
 
 The open publishing lab is a space for the Columbia community to explore open, ethical publishing practices and tools and build research communication expertise in a respectful, welcoming environment. Come to Studio at Butler (208b) to find your next collaborators and co-conspirators! 
 
