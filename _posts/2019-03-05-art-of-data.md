@@ -28,7 +28,22 @@ about digital humanities around New York.
 <div id="smith">
 <img src="http://icons.iconarchive.com/icons/graphicloads/100-flat/256/home-icon.png" class="rounded float-left" alt="smith">
 <h4>Talk Title</h4>
-**Sarah Smith** bio bio bio adflknsd aslkdfn lorem ipsum alsdfj ase bio.
+**Speaker Name** bio bio bio adflknsd aslkdfn lorem ipsum alsdfj ase bio.
+</div>
+</div>
+</div>
+
+<p class="mb-0">I'm the card header</p>
+</div>
+<div class="card-body">
+<h3 style="font-size: 5rem;">I am an h3</h3>
+<div class="list-group list-group-flush">
+<div class="list-group-item">
+<h3>Panel Name</h3>
+<div id="smith">
+<img src="http://icons.iconarchive.com/icons/graphicloads/100-flat/256/home-icon.png" class="rounded float-left" alt="smith">
+<h4>Talk Title</h4>
+**Speaker Name** bio bio bio adflknsd aslkdfn lorem ipsum alsdfj ase bio.
 </div>
 </div>
 </div>
