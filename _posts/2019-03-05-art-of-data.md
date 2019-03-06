@@ -33,7 +33,6 @@ about digital humanities around New York.
 </div>
 </div>
 
-<p class="mb-0">I'm the card header</p>
 </div>
 <div class="card-body">
 <h3 style="font-size: 5rem;">I am an h3</h3>
@@ -44,7 +43,6 @@ about digital humanities around New York.
 <img src="http://icons.iconarchive.com/icons/graphicloads/100-flat/256/home-icon.png" class="rounded float-left" alt="smith">
 <h4>Talk Title</h4>
 **Speaker Name** bio bio bio adflknsd aslkdfn lorem ipsum alsdfj ase bio.
-</div>
 </div>
 </div>
 </div>
