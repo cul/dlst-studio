@@ -33,9 +33,7 @@ about digital humanities around New York.
 </div>
 </div>
 
-</div>
 <div class="card-body">
-<h3 style="font-size: 5rem;">I am an h3</h3>
 <div class="list-group list-group-flush">
 <div class="list-group-item">
 <h3>Panel Name</h3>
