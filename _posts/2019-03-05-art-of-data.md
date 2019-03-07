@@ -42,19 +42,27 @@ about digital humanities around New York.
 
 <div class="list-group-item">
 <h3>Panel Name</h3>
-<div id="Jones">
-<img src="http://icons.iconarchive.com/icons/graphicloads/100-flat/256/home-icon.png" class="rounded float-left" alt="smith">
+<div id="Jones" class="row">
+<div class="col-3">
+<img src="http://icons.iconarchive.com/icons/graphicloads/100-flat/256/home-icon.png" class="rounded img-fluid" alt="smith">
+</div>
+<div class="col-9">
 <h4>Talk Title</h4>
-**Jonie Jones** bio bio bio adflknsd aslkdfn lorem ipsum alsdfj ase bio.
+**Joanie Jones** bio bio bio adflknsd aslkdfn lorem ipsum alsdfj ase bio.
+</div>
 </div> <!-- closes #Jones -->
 
-<div id="Bob">
-<img src="http://icons.iconarchive.com/icons/graphicloads/100-flat/256/home-icon.png" class="rounded float-left" alt="Bob">
+<div id="Bob" class="row">
+<div class="col-3">
+<img src="http://icons.iconarchive.com/icons/graphicloads/100-flat/256/home-icon.png" class="rounded img-fluid" alt="Bob">
+</div>
+<div class="col-9">
 <h4>Talk Title</h4>
 **Bobbie Bob** bio bio bio adflknsd aslkdfn lorem ipsum alsdfj ase bio.
-</div> <!-- closes #Bob -->
-
-</div> <!-- closes .list-group-item -->
+</div>
+</div>
+</div>
+</div>
 </div> <!-- closes .list-group -->
 </div> <!-- closes .card-body -->
 </div> <!-- closes .card -->
