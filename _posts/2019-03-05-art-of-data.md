@@ -17,40 +17,50 @@ the Studio is hosting workshops among the myriad opportunities to learn more
 about digital humanities around New York.
 
 <div class="card">
+
 <div class="card-header">
 <p class="mb-0">Schedule</p>
 </div>
+
 <div class="card-body">
 <h3 style="font-size: 5rem;">I am an h3</h3>
 <div class="list-group list-group-flush">
-<div class="list-group-item">
-<h3>Panel Name</h3>
-<div id="smith">
-<img src="http://icons.iconarchive.com/icons/graphicloads/100-flat/256/home-icon.png" style="width: 64px;" class="rounded float-left" alt="smith">
-<h4>Talk Title</h4>
-**Sarah Smith** bio bio bio adflknsd aslkdfn lorem ipsum alsdfj ase bio.
-</div>
-
-<div id="Brown">
-<img src="http://icons.iconarchive.com/icons/graphicloads/100-flat/256/home-icon.png" style="width: 64px;" class="rounded float-left" alt="smith">
-<h4>Talk Title</h4>
-**Beryl Brown** bio bio bio adflknsd aslkdfn lorem ipsum alsdfj ase bio.
-</div>
-
-</div>
-
 
 <div class="list-group-item">
 <h3>Panel Name</h3>
-<div id="Jones" class="row">
+
+<div id="Smith" class="row">
 <div class="col-3">
 <img src="http://icons.iconarchive.com/icons/graphicloads/100-flat/256/home-icon.png" class="rounded img-fluid" alt="smith">
 </div>
 <div class="col-9">
 <h4>Talk Title</h4>
+**Sarah Smith** bio bio bio adflknsd aslkdfn lorem ipsum alsdfj ase bio.
+</div>
+</div>
+
+<div id="Brown" class="row">
+<div class="col-3">
+<img src="http://icons.iconarchive.com/icons/graphicloads/100-flat/256/home-icon.png" class="rounded img-fluid" alt="Brown">
+</div>
+<div class="col-9">
+<h4>Talk Title</h4>
+**Beryl Brown** bio bio bio adflknsd aslkdfn lorem ipsum alsdfj ase bio.
+</div>
+</div>
+</div>
+
+<div class="list-group-item">
+<h3>Panel Name</h3>
+<div id="Jones" class="row">
+<div class="col-3">
+<img src="http://icons.iconarchive.com/icons/graphicloads/100-flat/256/home-icon.png" class="rounded img-fluid" alt="Jones">
+</div>
+<div class="col-9">
+<h4>Talk Title</h4>
 **Joanie Jones** bio bio bio adflknsd aslkdfn lorem ipsum alsdfj ase bio.
 </div>
-</div> <!-- closes #Jones -->
+</div>
 
 <div id="Bob" class="row">
 <div class="col-3">
@@ -60,9 +70,10 @@ about digital humanities around New York.
 <h4>Talk Title</h4>
 **Bobbie Bob** bio bio bio adflknsd aslkdfn lorem ipsum alsdfj ase bio.
 </div>
+</div> <!-- closes #Bob -->
 </div>
-</div>
-</div>
+</div> <!-- closes .list-group-item -->
+
 </div> <!-- closes .list-group -->
 </div> <!-- closes .card-body -->
 </div> <!-- closes .card -->
