@@ -26,29 +26,35 @@ about digital humanities around New York.
 <div class="list-group-item">
 <h3>Panel Name</h3>
 <div id="smith">
-<img src="http://icons.iconarchive.com/icons/graphicloads/100-flat/256/home-icon.png" class="rounded float-left" alt="smith">
+<img src="http://icons.iconarchive.com/icons/graphicloads/100-flat/256/home-icon.png" style="width: 64px;" class="rounded float-left" alt="smith">
 <h4>Talk Title</h4>
 **Sarah Smith** bio bio bio adflknsd aslkdfn lorem ipsum alsdfj ase bio.
 </div>
 
 <div id="Brown">
-<img src="http://icons.iconarchive.com/icons/graphicloads/100-flat/256/home-icon.png" class="rounded float-left" alt="smith">
+<img src="http://icons.iconarchive.com/icons/graphicloads/100-flat/256/home-icon.png" style="width: 64px;" class="rounded float-left" alt="smith">
 <h4>Talk Title</h4>
 **Beryl Brown** bio bio bio adflknsd aslkdfn lorem ipsum alsdfj ase bio.
 </div>
 
 </div>
-</div>
 
-<div class="card-body">
-<div class="list-group list-group-flush">
+
 <div class="list-group-item">
 <h3>Panel Name</h3>
 <div id="Jones">
 <img src="http://icons.iconarchive.com/icons/graphicloads/100-flat/256/home-icon.png" class="rounded float-left" alt="smith">
 <h4>Talk Title</h4>
 **Jonie Jones** bio bio bio adflknsd aslkdfn lorem ipsum alsdfj ase bio.
-</div>
-</div>
-</div>
-</div>
+</div> <!-- closes #Jones -->
+
+<div id="Bob">
+<img src="http://icons.iconarchive.com/icons/graphicloads/100-flat/256/home-icon.png" class="rounded float-left" alt="Bob">
+<h4>Talk Title</h4>
+**Bobbie Bob** bio bio bio adflknsd aslkdfn lorem ipsum alsdfj ase bio.
+</div> <!-- closes #Bob -->
+
+</div> <!-- closes .list-group-item -->
+</div> <!-- closes .list-group -->
+</div> <!-- closes .card-body -->
+</div> <!-- closes .card -->
