@@ -12,9 +12,7 @@ categories:
 - conference
 ---
 
-As it has for every year since [NYCDH Week](http://dhweek.nycdh.org) began,
-the Studio is hosting workshops among the myriad opportunities to learn more
-about digital humanities around New York.
+Join Columbia Libraries and the Brown Institute for an afternoon of talks about data and New York City. Learn how scholars and writers across disciplines use data to tell stories, make sense of our city, and uncover overlooked urban experiences.
 
 <div class="card">
 
@@ -23,19 +21,18 @@ about digital humanities around New York.
 </div>
 
 <div class="card-body">
-<h3 style="font-size: 5rem;">I am an h3</h3>
 <div class="list-group list-group-flush">
 
 <div class="list-group-item">
-<h3>Panel Name</h3>
+<h3>Uncovered New York</h3>
 
-<div id="Smith" class="row">
+<div id="Munshi-South" class="row">
 <div class="col-3">
-<img src="http://icons.iconarchive.com/icons/graphicloads/100-flat/256/home-icon.png" class="rounded img-fluid" alt="smith">
+<img src="http://icons.iconarchive.com/icons/graphicloads/100-flat/256/home-icon.png" class="rounded img-fluid" alt="Munshi-South">
 </div>
 <div class="col-9">
 <h4>Talk Title</h4>
-**Sarah Smith** bio bio bio adflknsd aslkdfn lorem ipsum alsdfj ase bio.
+**Jason Munshi-South** bio bio bio adflknsd aslkdfn lorem ipsum alsdfj ase bio.
 </div>
 </div>
 
@@ -51,29 +48,53 @@ about digital humanities around New York.
 </div>
 
 <div class="list-group-item">
+<h3>The Story of NYC</h3>
+<div id="Egan" class="row">
+<div class="col-3">
+<img src="/assets/imgs/art-of-data/rachel-egan.jpg" class="rounded img-fluid" alt="Egan">
+</div>
+<div class="col-9">
+<h4>The Art Genome Project</h4>
+**Rachel Egan** is a Brooklyn-based artist and information scientist. Her creative practice includes coding, drawing, and needlework, while her research is focused on applying semantic technologies and open access mechanisms to cultural object cataloging. She currently leads The Art Genome Project, the classification system and technological framework that powers Artsy, the leading platform for collecting and discovering art. Egan is a former Linked Open Data Fellow at the Whitney Museum of American Art, a researcher for the Sol LeWitt Wall Drawings Catalogue Raisonné, and has provided archival and data services for Artnet, Gallerie degli Uffizi, Gagsoian Gallery, and Greene Naftali Gallery. She received her Bachelor of Liberal Arts from Sarah Lawrence College and Master of Library and Information Science from Pratt Institute.
+</div>
+</div>
+
+<div id="Afsari-Mamagani" class="row">
+<div class="col-3">
+<img src="http://icons.iconarchive.com/icons/graphicloads/100-flat/256/home-icon.png" class="rounded img-fluid" alt="Afsari-Mamagani">
+</div>
+<div class="col-9">
+<h4>Talk Title</h4>
+**Grace Afsari-Mamagani** is a doctoral student in English at NYU, working on a dissertation that reads post-9/11 American fiction representing the lived experiences of marginalized communities as the site of a theory and ethics of interaction design for educational resources. In her teaching and research, she centers the relationship between everyday information structures and long, violent histories of colonialism and nation-building. She currently serves as a doctoral fellow in digital research and pedagogy with the NewYorkScapes research collaborative, which seeks to build community at the intersection of cultural heritage, spatial and urban studies, and digital methods. Grace is a member of the 2018-2020 HASTAC Scholars cohort, a former Polonsky-Brine digital humanities fellow at NYU, a former MLA Connected Academics fellow, and a recovering marketing agency project manager. Her professional interests include instructional design, educational technology, and digital project consulting.
+</div>
+</div>
+</div>
+
+<div class="list-group-item">
 <h3>Panel Name</h3>
-<div id="Jones" class="row">
+
+<div id="Black" class="row">
 <div class="col-3">
-<img src="http://icons.iconarchive.com/icons/graphicloads/100-flat/256/home-icon.png" class="rounded img-fluid" alt="Jones">
+<img src="http://icons.iconarchive.com/icons/graphicloads/100-flat/256/home-icon.png" class="rounded img-fluid" alt="black">
 </div>
 <div class="col-9">
 <h4>Talk Title</h4>
-**Joanie Jones** bio bio bio adflknsd aslkdfn lorem ipsum alsdfj ase bio.
+**Benji Black** bio bio bio adflknsd aslkdfn lorem ipsum alsdfj ase bio.
 </div>
 </div>
 
-<div id="Bob" class="row">
+<div id="Adams" class="row">
 <div class="col-3">
-<img src="http://icons.iconarchive.com/icons/graphicloads/100-flat/256/home-icon.png" class="rounded img-fluid" alt="Bob">
+<img src="http://icons.iconarchive.com/icons/graphicloads/100-flat/256/home-icon.png" class="rounded img-fluid" alt="Adams">
 </div>
 <div class="col-9">
 <h4>Talk Title</h4>
-**Bobbie Bob** bio bio bio adflknsd aslkdfn lorem ipsum alsdfj ase bio.
+**Addie Adams** bio bio bio adflknsd aslkdfn lorem ipsum alsdfj ase bio.
 </div>
-</div> <!-- closes #Bob -->
 </div>
-</div> <!-- closes .list-group-item -->
+</div>
+</div>
+</div>
+</div>
 
-</div> <!-- closes .list-group -->
-</div> <!-- closes .card-body -->
-</div> <!-- closes .card -->
+Hi.
