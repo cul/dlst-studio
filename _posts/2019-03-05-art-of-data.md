@@ -99,5 +99,8 @@ Cities exhibit considerable variation in "gray" built infrastructure, "green" or
 </div>
 </div>
 
-Thanks to our event sponsor, Sage Publishing.
+Thanks to our event sponsor, SAGE Publishing.
+<div class="row"><div class=col-4>
 <img src="/assets/imgs/art-of-data/sage-publishing-logo.png" class="rounded img-fluid" alt="Sage Publishing Logo">
+</div>
+</div>
