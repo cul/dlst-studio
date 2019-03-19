@@ -73,13 +73,13 @@ Join Columbia Libraries and the Brown Institute for an afternoon of talks about 
 <div class="list-group-item">
 <h3>Panel Name</h3>
 
-<div id="Black" class="row">
+<div id="Whong" class="row">
 <div class="col-3">
-<img src="http://icons.iconarchive.com/icons/graphicloads/100-flat/256/home-icon.png" class="rounded img-fluid" alt="black">
+<img src="/assets/imgs/art-of-data/chris_whong.jpg" class="rounded img-fluid" alt="black">
 </div>
 <div class="col-9">
-<h4>Talk Title</h4>
-**Benji Black** bio bio bio adflknsd aslkdfn lorem ipsum alsdfj ase bio.
+<h4>NYC Planning Labs</h4>
+**Chris Whong** is the Director of NYC Planning Labs.
 </div>
 </div>
 
