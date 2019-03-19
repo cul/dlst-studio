@@ -17,7 +17,7 @@ Join Columbia Libraries and the Brown Institute for an afternoon of talks about 
 <div class="card">
 
 <div class="card-header">
-<p class="mb-0">Schedule</p>
+<p class="mb-0">Program</p>
 </div>
 
 <div class="card-body">
