@@ -36,13 +36,13 @@ Join Columbia Libraries and the Brown Institute for an afternoon of talks about 
 </div>
 </div>
 
-<div id="Brown" class="row">
+<div id="Basic" class="row">
 <div class="col-3">
-<img src="http://icons.iconarchive.com/icons/graphicloads/100-flat/256/home-icon.png" class="rounded img-fluid" alt="Brown">
+<img src="/assets/imgs/art-of-data/gbasic-DV.jpg" class="rounded img-fluid" alt="Brown">
 </div>
 <div class="col-9">
-<h4>Talk Title</h4>
-**Beryl Brown** bio bio bio adflknsd aslkdfn lorem ipsum alsdfj ase bio.
+<h4>NYC Canners</h4>
+**Grga Basic** is an Associate Research Scholar in the Faculty of Architecture, Planning and Preservation; Adjunct Assistant Professor of Architecture, Planning and Preservation at Columbia University.
 </div>
 </div>
 </div>
