@@ -98,4 +98,4 @@ Join Columbia Libraries and the Brown Institute for an afternoon of talks about 
 </div>
 
 Thanks to our event sponsor, Sage Publishing.
-<img src="/assets/imgs/art-of-data/SAGE Publising Logo Hi Res.png" class="rounded img-fluid" alt="Sage Publishing Logo">
+<img src="/assets/imgs/art-of-data/sage-publishing-logo.png" class="rounded img-fluid" alt="Sage Publishing Logo">
