@@ -88,8 +88,8 @@ Join Columbia Libraries and the Brown Institute for an afternoon of talks about 
 <img src="http://icons.iconarchive.com/icons/graphicloads/100-flat/256/home-icon.png" class="rounded img-fluid" alt="Adams">
 </div>
 <div class="col-9">
-<h4>Talk Title</h4>
-**Addie Adams** bio bio bio adflknsd aslkdfn lorem ipsum alsdfj ase bio.
+<h4>Talk Title coming soon!</h4>
+**Speaker coming soon!**
 </div>
 </div>
 </div>
