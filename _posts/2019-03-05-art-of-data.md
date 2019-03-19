@@ -71,7 +71,7 @@ Join Columbia Libraries and the Brown Institute for an afternoon of talks about 
 </div>
 
 <div class="list-group-item">
-<h3>Panel Name</h3>
+<h3>NYC Data in Action</h3>
 
 <div id="Whong" class="row">
 <div class="col-3">
