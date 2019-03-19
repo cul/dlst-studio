@@ -32,6 +32,8 @@ Join Columbia Libraries and the Brown Institute for an afternoon of talks about 
 </div>
 <div class="col-9">
 <h4>How do rodents move through our cities?</h4>
+Cities exhibit considerable variation in "gray" built infrastructure, "green" or "blue" natural areas, and socioeconomic characteristics of human neighborhoods. Cities are also inhabited by a complex mix of native wildlife and non-native species introduced by humans. These species face many ecological and evolutionary challenges from urbanization, including moving through landscapes constructed primarily for human use. This talk will address how tools from landscape ecology and populations can be used to infer and visualize the movements of wildlife through cities. Examples discussed will include native white-footed mice in New York City, and invasive brown rats in four cities with different characteristics.
+
 **Jason Munshi-South** is a Professor in the Department of Biological Sciences and the Louis Calder Center at Fordham University. His lab studies the ecological and evolutionary consequences of urbanization for wildlife populations, with a particular focus on New York City. Of particular fascination for Jason are the rodents that live in and around our urban homes, but his lab studies organisms ranging from mammals to lichens.
 </div>
 </div>
