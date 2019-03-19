@@ -75,7 +75,7 @@ Join Columbia Libraries and the Brown Institute for an afternoon of talks about 
 
 <div id="Whong" class="row">
 <div class="col-3">
-<img src="/assets/imgs/art-of-data/chris_whong.jpg" class="rounded img-fluid" alt="black">
+<img src="/assets/imgs/art-of-data/chris-whong.jpg" class="rounded img-fluid" alt="Whong">
 </div>
 <div class="col-9">
 <h4>NYC Planning Labs</h4>
