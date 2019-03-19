@@ -42,7 +42,7 @@ Join Columbia Libraries and the Brown Institute for an afternoon of talks about 
 </div>
 <div class="col-9">
 <h4>NYC Canners</h4>
-**Grga Basic** is an Associate Research Scholar in the Faculty of Architecture, Planning and Preservation; Adjunct Assistant Professor of Architecture, Planning and Preservation at Columbia University.
+**Grga Basic** is an Associate Research Scholar and Adjunct Assistant Professor at Graduate School of Architecture, Planning and Preservation (GSAPP); his work and research focus on critical, narrative, and investigative cartography. He joined the Center for Resilient Cities and Landscapes (CRCL) in 2018, coming from the Center for Spatial Research. At CRCL, Grga acts as a mapping expert, developing and overseeing spatial analysis and cartographic representations for all projects. At GSAPP, Grga also co-teaches Points Unknown, an interdisciplinary course focused on pairing journalistic techniques with design practices through spatial data analysis and visualization. Prior to joining GSAPP, Grga held academic appointment at the Harvard Urban Theory Lab and worked as an architect at the Atelier Seraji in Paris. His cartographic representations have been exhibited at the Venice, Hong Kong, Shenzhen, and Rotterdam Biennials of Architecture.
 </div>
 </div>
 </div>
@@ -79,7 +79,7 @@ Join Columbia Libraries and the Brown Institute for an afternoon of talks about 
 </div>
 <div class="col-9">
 <h4>NYC Planning Labs</h4>
-**Chris Whong** is the Director of NYC Planning Labs.
+**Chris Whong** is a public-sector entrepreneur and civic technologist. As Founder and Director of the progressive digital services team NYC Planning Labs, he promotes the use of agile methods, human-centered design, and open technology to build impactful tools at the NYC Department of City Planning. Chris is a leader in the NYC civic technology community, and a former Code for America brigade leader.
 </div>
 </div>
 
