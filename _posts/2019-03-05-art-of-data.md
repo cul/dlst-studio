@@ -31,8 +31,8 @@ Join Columbia Libraries and the Brown Institute for an afternoon of talks about 
 <img src="/assets/imgs/art-of-data/MunshiSouth.Headshot.Oct2015.jpg" class="rounded img-fluid" alt="Munshi-South">
 </div>
 <div class="col-9">
-<h4>Talk Title</h4>
-**Jason Munshi-South** bio bio bio adflknsd aslkdfn lorem ipsum alsdfj ase bio.
+<h4>How do rodents move through our cities?</h4>
+**Jason Munshi-South** is a Professor in the Department of Biological Sciences and the Louis Calder Center at Fordham University. His lab studies the ecological and evolutionary consequences of urbanization for wildlife populations, with a particular focus on New York City. Of particular fascination for Jason are the rodents that live in and around our urban homes, but his lab studies organisms ranging from mammals to lichens.
 </div>
 </div>
 
