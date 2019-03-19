@@ -61,7 +61,7 @@ Join Columbia Libraries and the Brown Institute for an afternoon of talks about 
 
 <div id="Afsari-Mamagani" class="row">
 <div class="col-3">
-<img src="http://icons.iconarchive.com/icons/graphicloads/100-flat/256/home-icon.png" class="rounded img-fluid" alt="Afsari-Mamagani">
+<img src="/assets/imgs/art-of-data/afsari-mamagani.jpg" class="rounded img-fluid" alt="Afsari-Mamagani">
 </div>
 <div class="col-9">
 <h4>Talk Title</h4>
