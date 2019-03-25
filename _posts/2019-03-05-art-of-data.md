@@ -91,7 +91,7 @@ Cities exhibit considerable variation in "gray" built infrastructure, "green" or
 </div>
 <div class="col-9">
 <h4>Talk Title coming soon!</h4>
-**Speaker coming soon!**
+**Ben Wellington!** is the creator of I Quant NY, a data science and policy blog that focuses on insights drawn from New York City's public data, and advocates for the expansion and improvement of that data. His data analysis has influenced local government policy including changes in NYC street infrastructure, the way New Yorkers pay for cabs and the design of NYC subway vending machines, and his talk on urban data was featured on TED. Ben holds a Ph.D. in Computer Science (Natural Language Processing) from New York University.
 </div>
 </div>
 </div>
