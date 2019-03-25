@@ -70,6 +70,7 @@ Cities exhibit considerable variation in "gray" built infrastructure, "green" or
 **Grace Afsari-Mamagani** is a doctoral student in English at NYU, working on a dissertation that reads post-9/11 American fiction representing the lived experiences of marginalized communities as the site of a theory and ethics of interaction design for educational resources. In her teaching and research, she centers the relationship between everyday information structures and long, violent histories of colonialism and nation-building. She currently serves as a doctoral fellow in digital research and pedagogy with the NewYorkScapes research collaborative, which seeks to build community at the intersection of cultural heritage, spatial and urban studies, and digital methods. Grace is a member of the 2018-2020 HASTAC Scholars cohort, a former Polonsky-Brine digital humanities fellow at NYU, a former MLA Connected Academics fellow, and a recovering marketing agency project manager. Her professional interests include instructional design, educational technology, and digital project consulting.
 </div>
 </div>
+Panel moderated by Sophie Leveque, Social Work & Social Science Librarian at Columbia University Libraries.
 </div>
 
 <div class="list-group-item">
@@ -94,6 +95,7 @@ Cities exhibit considerable variation in "gray" built infrastructure, "green" or
 **Ben Wellington** is the creator of I Quant NY, a data science and policy blog that focuses on insights drawn from New York City's public data, and advocates for the expansion and improvement of that data. His data analysis has influenced local government policy including changes in NYC street infrastructure, the way New Yorkers pay for cabs and the design of NYC subway vending machines, and his talk on urban data was featured on TED. Ben holds a Ph.D. in Computer Science (Natural Language Processing) from New York University.
 </div>
 </div>
+Panel moderated by Kae Bara Kratcha, Entrepreneurship & Social Science Librarian at Columbia University Libraries.
 </div>
 </div>
 </div>
