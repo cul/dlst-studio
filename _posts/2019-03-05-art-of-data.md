@@ -99,6 +99,12 @@ Cities exhibit considerable variation in "gray" built infrastructure, "green" or
 </div>
 </div>
 
+This event is co-sponsored by Columbia University Libraries and the Brown Institute for Media Innovation.
+<div class="row"><div class="col-4">
+<img src="/assets/imgs/art-of-data/Brown-logo.jpg" class="rounded img-fluid" alt="Sage Publishing Logo">
+</div>
+
+
 Thanks to our event sponsor, SAGE Publishing.
 <div class="row"><div class="col-4">
 <img src="/assets/imgs/art-of-data/sage-publishing-logo.png" class="rounded img-fluid" alt="Sage Publishing Logo">
