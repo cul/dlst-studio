@@ -87,7 +87,7 @@ Cities exhibit considerable variation in "gray" built infrastructure, "green" or
 
 <div id="Adams" class="row">
 <div class="col-3">
-<img src="/assessts/imgs/art-of-data/benwellington" class="rounded img-fluid" alt="Wellington">
+<img src="/assets/imgs/art-of-data/benwellington" class="rounded img-fluid" alt="Wellington">
 </div>
 <div class="col-9">
 <h4>Talk Title coming soon!</h4>
