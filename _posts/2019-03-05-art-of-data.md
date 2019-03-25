@@ -56,7 +56,7 @@ Cities exhibit considerable variation in "gray" built infrastructure, "green" or
 <img src="/assets/imgs/art-of-data/rachel-egan.jpg" class="rounded img-fluid" alt="Egan">
 </div>
 <div class="col-9">
-<h4>The Art Genome Project</h4>
+<h4>Open Data at the Whitney</h4>
 **Rachel Egan** is a Brooklyn-based artist and information scientist. Her creative practice includes coding, drawing, and needlework, while her research is focused on applying semantic technologies and open access mechanisms to cultural object cataloging. She currently leads The Art Genome Project, the classification system and technological framework that powers Artsy, the leading platform for collecting and discovering art. Egan is a former Linked Open Data Fellow at the Whitney Museum of American Art, a researcher for the Sol LeWitt Wall Drawings Catalogue Raisonné, and has provided archival and data services for Artnet, Gallerie degli Uffizi, Gagsoian Gallery, and Greene Naftali Gallery. She received her Bachelor of Liberal Arts from Sarah Lawrence College and Master of Library and Information Science from Pratt Institute.
 </div>
 </div>
