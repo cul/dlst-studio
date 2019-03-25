@@ -106,6 +106,7 @@ This event is co-sponsored by Columbia University Libraries and the Brown Instit
 <div class="row"><div class="col-4">
 <img src="/assets/imgs/art-of-data/Brown-logo.jpg" class="rounded img-fluid" alt="Brown Institute logo">
 </div>
+</div>
 
 Thanks to our event sponsor, SAGE Publishing.
 <div class="row"><div class="col-4">
