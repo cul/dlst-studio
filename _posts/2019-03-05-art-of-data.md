@@ -104,7 +104,7 @@ Panel moderated by **Kae Bara Kratcha**, Entrepreneurship & Social Science Libra
 
 This event is co-sponsored by Columbia University Libraries and the Brown Institute for Media Innovation.
 <div class="row"><div class="col-4">
-<img src="/assets/imgs/art-of-data/Brown-logo.jpg" class="rounded img-fluid" alt="Brown Institute logo">
+<img src="/assets/imgs/art-of-data/Brown_logo.jpg" class="rounded img-fluid" alt="Brown Institute logo">
 </div>
 </div>
 
