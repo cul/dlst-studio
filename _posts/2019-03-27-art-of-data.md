@@ -14,7 +14,7 @@ categories:
 
 Join Columbia Libraries and the Brown Institute for an afternoon of talks about data and New York City. Learn how scholars and writers across disciplines use data to tell stories, make sense of our city, and uncover overlooked urban experiences.
 
-<div class="card">
+<div class="card mb-3">
 
 <div class="card-header">
 <p class="mb-0">Program</p>
@@ -23,7 +23,7 @@ Join Columbia Libraries and the Brown Institute for an afternoon of talks about 
 <div class="card-body">
 <div class="list-group list-group-flush">
 
-<div class="list-group-item">
+<div class="mb-0 list-group-item">
 <h3>Uncovered New York</h3>
 
 <div id="Munshi-South" class="row">
@@ -50,7 +50,7 @@ Cities exhibit considerable variation in "gray" built infrastructure, "green" or
 Panel moderated by **Wei Yin**, Research Support & Data Services Librarian.
 </div>
 
-<div class="list-group-item">
+<div class="mb-0 list-group-item">
 <h3>The Story of NYC</h3>
 <div id="Egan" class="row">
 <div class="col-3">
@@ -67,14 +67,18 @@ Panel moderated by **Wei Yin**, Research Support & Data Services Librarian.
 <img src="/assets/imgs/art-of-data/afsari-mamagani_headshot.jpg" class="rounded img-fluid" alt="Afsari-Mamagani">
 </div>
 <div class="col-9">
-<h4>Storytelling with NYC Data</h4>
+<h4>Sitations: Small Data, Identity, and the Poetics of Place</h4>
+
+Highlighting Teju Cole’s _Open City_ (2011) and Jacqueline Woodson’s _Another
+Brooklyn_ (2016) as case studies, this presentation examines the ways in which humanities researchers extract and encode spatial data from literary accounts of the city. It asks whether the racialized, gendered, and temporally multivalent experiences of NYC encoded in these and other texts offer models for how we site both the comparatively small data sets that underpin literary cartography projects and our own relationships with the city as participants in data-driven narrative placemaking. 
+
 **Grace Afsari-Mamagani** is a doctoral student in English at NYU, working on a dissertation that reads post-9/11 American fiction representing the lived experiences of marginalized communities as the site of a theory and ethics of interaction design for educational resources. In her teaching and research, she centers the relationship between everyday information structures and long, violent histories of colonialism and nation-building. She currently serves as a doctoral fellow in digital research and pedagogy with the NewYorkScapes research collaborative, which seeks to build community at the intersection of cultural heritage, spatial and urban studies, and digital methods. Grace is a member of the 2018-2020 HASTAC Scholars cohort, a former Polonsky-Brine digital humanities fellow at NYU, a former MLA Connected Academics fellow, and a recovering marketing agency project manager. Her professional interests include instructional design, educational technology, and digital project consulting.
 </div>
 </div>
 Panel moderated by **Sophie Leveque**, Social Work & Social Science Librarian at Columbia University Libraries.
 </div>
 
-<div class="list-group-item">
+<div class="mb-0 list-group-item">
 <h3>NYC Data in Action</h3>
 
 <div id="Whong" class="row">
@@ -97,19 +101,24 @@ Panel moderated by **Sophie Leveque**, Social Work & Social Science Librarian at
 </div>
 </div>
 Panel moderated by **Kae Bara Kratcha**, Entrepreneurship & Social Science Librarian at Columbia University Libraries.
+{: .mb-0}
 </div>
 </div>
 </div>
 </div>
 
-This event is co-sponsored by Columbia University Libraries and the Brown Institute for Media Innovation.
-<div class="row"><div class="col-4">
+This event is co-sponsored by Columbia University Libraries and the [Brown
+Institute for Media Innovation](https://brown.columbia.edu/).
+<div class="row"><div class="col-6">
+<a href="https://brown.columbia.edu/">
 <img src="/assets/imgs/art-of-data/Brown_logo.jpg" class="rounded img-fluid" alt="Brown Institute logo">
+</a>
 </div>
 </div>
 
-Thanks to our event sponsor, SAGE Publishing.
-<div class="row"><div class="col-4">
+Thanks to our event sponsor, [SAGE
+Publishing](http://us.sagepub.com/en-us/nam/home).
+<div class="row"><div class="col-5">
 <img src="/assets/imgs/art-of-data/sage-publishing-logo.png" class="rounded img-fluid" alt="Sage Publishing Logo">
 </div>
 </div>
