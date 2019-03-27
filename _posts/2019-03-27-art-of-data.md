@@ -2,10 +2,10 @@
 title: Art of Data 2019
 slug: art-of-data19
 image:
-  src: https://i.imgur.com/lGDJUhq.png
-  alt: "NYCDH Week 2019 Logo"
-  url: http://dhweek.nycdh.org/
-  photographer: Elizabeth Cornell
+  src: https://i.imgur.com/hhv3fdc.jpg
+  alt: "Art of Data 2019"
+#  url: http://dhweek.nycdh.org/
+#  photographer: Elizabeth Cornell
 prompt: >-
   Join us for the 5th annual Art of Data conference, Processing New York
 categories:
