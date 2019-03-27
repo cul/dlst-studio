@@ -6,7 +6,7 @@ image:
   src: https://i.imgur.com/9FqE1sj.jpg
   alt: Love crown Data logos
 prompt: >-
-  Show your love for data and the Libraries during Love Data Week
+  Where did our Love Data Week Postcards get sent?
 ---
 
 As part of Columbia’s annual week of [Wellness

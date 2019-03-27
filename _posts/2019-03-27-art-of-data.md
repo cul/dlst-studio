@@ -7,7 +7,7 @@ image:
 #  url: http://dhweek.nycdh.org/
 #  photographer: Elizabeth Cornell
 prompt: >-
-  Join us for the 5th annual Art of Data conference, Processing New York
+  “Processing New York,” the 5th annual Art of Data conference
 categories:
 - conference
 ---
