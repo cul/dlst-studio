@@ -2,7 +2,7 @@
 title: Ethical Pedagogy Directory Edit-a-thon
 slug: ethical-edtech-edit-a-thon
 image:
-  src: https://imgur.com/KD0truN
+  src: https://i.imgur.com/KD0truN.png
   alt: Ethical Pedagogy Edit-a-thon
 prompt: >-
   Contribute to building a directory of technical tools for use in ethical pedagogy.
