@@ -1,6 +1,6 @@
 ---
 title: Machine Learning and Human Interpretive Theory
-slug: ted-underwood-talk
+slug: ted-underwood-talk19
 image:
   src: https://i.imgur.com/k7tSTjf.jpg
   alt: Retrospective Viewpoints
