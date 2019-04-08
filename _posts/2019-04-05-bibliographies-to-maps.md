@@ -1,12 +1,11 @@
 ---
-title: From Bibliographies to Maps: A Spring Mini-Course
-slug: bibliiographies-to-maps
+title: "From Bibliographies to Maps: A Spring Mini-Course"
+slug: bibliographies-to-maps
 image:
   src: https://i.imgur.com/kenb9kv.png
   alt: From Bibliographies to Maps
 prompt: >-
   Learn how to navigate tools to produce maps from your bibliographies.
-
 ---
 
 Join us on Mondays from April 8th – April 29th at 1:00 – 3:00pm in Studio Butler (Butler 208b) for "Bibliographies to Maps: A Spring Mini-Course," taught by Digital Scholarship Librarian Alex Gil and GIS / Metadata Librarian Eric Glass.
