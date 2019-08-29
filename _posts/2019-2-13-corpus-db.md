@@ -1,11 +1,11 @@
 ---
 title: Corpus-DB
-slug: corpus-db-studio-presentation
+slug: silent-era
 image: 
-  src: https://imgur.com/a/v6jOP66
-  alt: Corpus DB poster
+  src: /assets/imgs/silent-era/karen-pearlman.jpg
+  alt: Karen Pearlman
 prompt: >-
-  Come learn about Corpus-DB
+  Come learn about silent-era female editors
 ---
 
 Join us at Studio at Butler on February 20, 2019 at 4:30pm for a presentation by Jonathan Reeve.
