@@ -6,6 +6,9 @@ active: True
 type: workshop
 ---
 
-Scholar and filmmaker Karen Pearlman (Macquarie University) will conduct a two-day workshop for the MA students in Columbia's Film & Media Studies Program, exploring the practices and techniques of silent-era female editors. Co-sponsored by the Women Film Pioneers Project.
+Scholar and filmmaker Karen Pearlman (Macquarie University) will conduct a
+two-day workshop for the MA students in Columbia's Film & Media Studies
+Program, exploring the practices and techniques of silent-era female editors.
+Co-sponsored by the Women Film Pioneers Project.
 
 
