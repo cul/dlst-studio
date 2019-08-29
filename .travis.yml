@@ -1,6 +1,7 @@
 language: ruby
 rvm: 2.5.1
 script:
+  - gem update --system
   - bundle exec jekyll build
   - bundle exec rake test
 after_success:
