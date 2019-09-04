@@ -1,18 +1,6 @@
 - name: Moacir
   img:
     src: moacir.jpg
-- name: Haoyu
-  img:
-    src: haoyu.jpg
-- name: Xiaoxi
-  img:
-    src: xiaoxi.jpg
-- name: Qianyu
-  img:
-    src: qianyu.jpg
-- name: Kang
-  img:
-    src: kang.jpeg
 - name: Buck
   img:
     src: buck.jpg
