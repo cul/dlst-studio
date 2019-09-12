@@ -1,5 +1,5 @@
 ---
-title: "PhD Gistertation Workshops"
+title: "PhD Gitsertation Workshops"
 slug: phd-gitsertation
 image:
   src: https://i.imgur.com/cjos1hc.png
@@ -51,7 +51,7 @@ Git relies on unique markers in time that you set, letting you keep track of
 the changes you made over the course of a writing session and giving you a
 diary to consult.
 
-### Git Handles to-dos
+### Git Handles To-Dos
 
 When integrated with GitHub and ZenHub, your Git-managed
 project becomes even more manageable, with adding to-dos (issues), tracking
