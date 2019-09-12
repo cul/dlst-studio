@@ -13,7 +13,7 @@ events:
   end: "2019-09-19 15:00 -500"
   location: butler
 - guid: "CAL-00bb9e28-6c6b24b7-016c-6d4bd9b9-000051a1events%40columbia.edu"
-  title: "PhD Gitsertation 1 (of 2): Managing research with Git"
+  title: "PhD Gitsertation 1 (of 2): Git + Dissertation"
   start: "2019-10-02 16:00 -500"
   end: "2019-10-02 18:00 -500"
   location: lehman
@@ -84,7 +84,7 @@ Gitsertation,” which will show researchers (but particularly graduate
 students) how they can use versioning software like Git to manage large-scale
 research projects like dissertations or monographss:
 
-* *PhD Gitsertation 1: Managing Research with Git*, October 2, 2019, 4–6pm,
+* *PhD Gitsertation 1: Git + Dissertation*, October 2, 2019, 4–6pm,
 [Studio at Lehman]({{ "/spaces/lehman" | relative_url }}).
 [RSVP](https://library.columbia.edu/about/events/event.html?guid=CAL-00bb9e28-6c6b24b7-016c-6d4bd9b9-000051a1events%40columbia.edu)
 
