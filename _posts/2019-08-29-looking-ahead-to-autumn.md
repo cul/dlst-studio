@@ -2,7 +2,7 @@
 title: "Looking ahead to Autumn 2019"
 slug: looking-ahead-to-autumn-2019
 image:
-  src: https://i.imgur.com/NRI7jkD.png
+  src: "/assets/imgs/studio-screen.jpg"
   alt: Camera looking ahead
 prompt: >-
   First Butler Studio Open Lab: Friday, Sept 13
