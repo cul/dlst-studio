@@ -14,7 +14,7 @@ Manufacturing Face Shields](/face-shield) with
 a 3D printer and household tools.
 
 On Thursday, March 19, 2020, Dr. Pierre Elias, a Columbia University
-Cardiologist reached out to Research and Learning Technologies Librarian
+Cardiology Fellow, reached out to Research and Learning Technologies Librarian
 Madiha Choksi to utilize the Columbia University Libraries’ 3D printers to
 produce supplemental face shields. Dr. Elias sent along a design for a face
 shield visor posted by [Budmen Industries](http://www.budmen.com). Choksi took
@@ -37,15 +37,15 @@ below the shield.
 Additionally, Choksi enlisted the help of other librarians who work in the
 Studio. Digital Scholarship Librarian Alex Gil and Research Data Librarian
 Moacir P. de Sá Pereira created the [Guide and Design for Rapidly Produced
-Face Shields](/face-shield) webpage for
-distributing the optimized visor design and instructions to other academic
-libraries in the US and people beyond the US borders, eager to help address
-the worldwide PPE shortage. The instructions are available in English (and
-soon in Spanish), with other translations to follow. Contributors must
-exercise care over producing the shields and sterilize the shields before
-distributing them to health professionals. In so doing, the Studio is
-contributing to the efforts of [Get us PPE](https://getusppe.org/), an online
-consortium of crowd-sourced, citizen-manufactured PPE. 
+Face Shields](/face-shield) webpage for distributing the optimized visor
+design and instructions to other academic libraries in the US and to people
+beyond the US borders who are also eager to help address the worldwide PPE
+shortage. The instructions are available in English (and soon in Spanish),
+with other translations to follow. Contributors must exercise care over
+producing the shields and sterilize the shields before distributing them to
+health professionals. In so doing, the Studio is contributing to the efforts
+of [Get us PPE](https://getusppe.org/), an online consortium of crowd-sourced,
+citizen-manufactured PPE. 
 
 Choksi delivered five prototype shields on March 21 to Dr. Elias, who quickly
 asked for 1,000 more for New York Presbyterian Hospitals. To meet the growing
@@ -53,14 +53,15 @@ demand, librarian Jeremiah Trinidad-Christensen, who is the Head of Research
 Data Services and the Interim Co-Director of the Science, Engineering, and
 Social Sciences Libraries Division, reached out to Columbia faculty at both
 the [Fu Foundation School of Engineering and Applied
-Science](http://engineering.columbia.edu) and the [Graduate
-School of Architecture and Public Planning]( to commandeer their unused 3D
-printers. 
+Science](http://engineering.columbia.edu) and the [Graduate School of
+Architecture, Planning, and Preservation](http://arch.columbia.edu) to
+commandeer their unused 3D printers. 
 
 On March 23, Choksi is traveling to Tangible Creative’s 700-square-foot
-production space in Newark, NJ. [Tangible
-Creative](http://tangiblecreative.com), a 3D printing services company, has
-agreed to mobilize their wall of printers to help meet Dr.  Elias’s demand.
+production space in Newark, NJ, to oversee production of additional shields.
+[Tangible Creative](http://tangiblecreative.com), a 3D printing services
+company, has agreed to mobilize their wall of printers to help meet Dr.
+Elias’s demand.
 
 Additionally, Choksi was able to deliver ten prototypes to Laurell Taylor, RN,
 who has distributed them to front line health care workers around New
@@ -75,4 +76,4 @@ with access to 3D printers, as long as they agreed to sign a waiver releasing
 Budmen Industries of any liability.
 
 The Butler Library 3D printers are part of a 3D printing service the Columbia
-University Libraries provide members of the Columbia Community.
+University Libraries provide to members of the Columbia Community.
