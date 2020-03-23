@@ -99,14 +99,6 @@ Due to how overwhelming COVID-19 has been for organizations and health care prof
 
 ---
 
-<img src="{{site.baseurl}}/assets/imgs/fig3.jpeg" width="100%">Figure 3
-
----
-
-<img src="{{site.baseurl}}/assets/imgs/fig4.jpeg" width="100%">Figure 4
-
----
-
 As always, we recommend folks to exercise good judgement and caution when trying to work with complicated, rapid responses to a crisis. We hope this guide has been helpful, and wish all of us good luck during this pandemic. If you need to contact us please write to Alex Gil (<agil@columbia.edu>) and Jeremiah Christensen (<jt2118@columbia.edu>) with the subject "Rapidly Produced Face Shields."
 
 
