@@ -10,7 +10,7 @@ prompt: ""
 In response to the shortage of personal protective equipment (PPE) as
 hospitals and clinics scramble to respond to the COVID-19 pandemic, Librarians
 at Columbia University Libraries have released a [Guide and Design for Rapidly
-Manufacturing Face Shields](https://studio.cul.columbia.edu/face-shield/) with
+Manufacturing Face Shields](/face-shield) with
 a 3D printer and household tools.
 
 On Thursday, March 19, 2020, Dr. Pierre Elias, a Columbia University
@@ -37,7 +37,7 @@ below the shield.
 Additionally, Choksi enlisted the help of other librarians who work in the
 Studio. Digital Scholarship Librarian Alex Gil and Research Data Librarian
 Moacir P. de Sá Pereira created the [Guide and Design for Rapidly Produced
-Face Shields](http://studio.cul.columbia.edu/face-shield) webpage for
+Face Shields](/face-shield) webpage for
 distributing the optimized visor design and instructions to other academic
 libraries in the US and people beyond the US borders, eager to help address
 the worldwide PPE shortage. The instructions are available in English (and
