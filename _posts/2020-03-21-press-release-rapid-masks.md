@@ -34,7 +34,7 @@ than 10 percent to dramatically reduce printing time. Additionally, she angled
 the visor to make it easier for health professionals to don protective masks
 below the shield. 
 
-Additionally, Choksi enlisted the help of other librarians who work in the
+Next, Choksi enlisted the help of other librarians who work in the
 Studio. Digital Scholarship Librarian Alex Gil and Research Data Librarian
 Moacir P. de Sá Pereira created the [Guide and Design for Rapidly Produced
 Face Shields](/face-shield) webpage for distributing the optimized visor
@@ -63,7 +63,7 @@ production space in Newark, NJ, to oversee production of additional shields.
 company, has agreed to mobilize their wall of printers to help meet Dr.
 Elias’s demand.
 
-Additionally, Choksi was able to deliver ten prototypes to Laurell Taylor, RN,
+Finally, Choksi was able to deliver ten prototypes to Laurell Taylor, RN,
 who has distributed them to front line health care workers around New
 York City to test for usability and durability. The workers include ICU
 nurses, nursing administrators, and medical assistants processing laboratory
