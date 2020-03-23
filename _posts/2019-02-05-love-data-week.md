@@ -1,5 +1,5 @@
 ---
-title: Love Data Week 2019
+title: "Love Data Week 2019"
 slug: love-data-week-2019-01
 js: love-data-map-19
 image:
