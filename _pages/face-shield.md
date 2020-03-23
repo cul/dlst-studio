@@ -3,9 +3,9 @@ title: Guide and Design for Rapidly Produced Face Shields
 permalink: face-shield/
 ---
 
-## Introduction
+### Introduction
 
-### What is the problem?
+#### What is the problem?
 
 As the [Coronavirus
 Pandemic](https://en.wikipedia.org/wiki/2019%E2%80%9320_coronavirus_pandemic)
@@ -14,7 +14,7 @@ protective equipment (PPE) becomes more acute. With a 3D printer, however, it
 is possible—while supplies last—for ordinary citizens to manufacture PPE and
 make them available to hospitals and clinics in their communities.
 
-### How can I help?
+#### How can I help?
 
 Although 3D printers can be used to print complex PPE such as N95 masks,
 printing a successful mask is beyond the reach of the abilities and budgets of
@@ -23,7 +23,7 @@ for printing visors that can be attached to clear plastic to make face
 shields. This site provides documentation and the necessary model to 3D print
 visors.
 
-### What will I need?
+#### What will I need?
 
 The face shield is made up of three parts:
     
@@ -36,9 +36,9 @@ The face shield is made up of three parts:
 To create a face shield, one needs access to a 3D printer, cutting tools for
 the shield itself, and the ability to sanitize the shields with disinfectants once they are produced.
 
-## Printing
+### Printing
 
-### Raw materials
+#### Raw materials
 
 1. Filament (PLA, ABS). We used PLA filament from Verbatim, Dremel, and
    MakerBot.
@@ -49,20 +49,20 @@ the shield itself, and the ability to sanitize the shields with disinfectants on
 6. Rubbing alcohol, bleach, or other disinfectants.
 7. Zipper seal plastic storage bags.
 
-### Manufacturing equipment and tools
+#### Manufacturing equipment and tools
 
 0. **Safety equipment. _Wear vinyl gloves and face mask while manufacturing and handling the face shield components_.**
 1. **3D printer**. Any 3D printer can work, however, as long as it is compatible with the filaments listed above.
 2. **Cutting tools**. Household scissors will suffice.
 3. **Hole-Punch**. A typical office hole punch will suffice. The hole-punch needs to be able to punch through the transparent shield.
 
-### Files
+#### Files
 
 1. [FaceShieldChoksiMod.stl](/assets/files/FaceShieldChoksiMod.stl) (by Madiha
    Choksi, based on the design provided by [Budmen
    Industries](http://budmen.com)).
 
-### Pre-printing instructions
+#### Pre-printing instructions
 
   1. Disable Raft.
   2. Set first layer height to 0.3mm.
@@ -72,7 +72,7 @@ the shield itself, and the ability to sanitize the shields with disinfectants on
   7. Set top solid layers to 2.
   8. Set bottom solid layers to 2.
 
-### Assembly instructions
+#### Assembly instructions
 
 1. _Wear vinyl gloves and a face mask while working_.
 2. Print out the visor component on the 3D printer.
@@ -94,7 +94,7 @@ the shield itself, and the ability to sanitize the shields with disinfectants on
 14. Limit who touches the masks to the person making them and the person
     bagging them. They should not be passed between multiple hands. 
 
-### Images
+#### Images
 
 <img src="{{site.baseurl}}/assets/imgs/fig1.jpeg" width="100%">Figure 1
 
@@ -104,7 +104,7 @@ the shield itself, and the ability to sanitize the shields with disinfectants on
 
 ---
 
-### Tips on obtaining equipment in collaboration with admins at universities/libraries
+#### Tips on obtaining equipment in collaboration with admins at universities/libraries
 
 Many libraries and universities today usually have maker spaces and other
 spaces with 3D printers. If you don’t own one, you may want to work with top administrators to get access to these printers. An email to the University Librarian, the Chair of Engineering, or even the Provost might get you access to otherwise locked buildings to retrieve the equipment. 
@@ -114,9 +114,9 @@ tools beyond just a 3D printer and filament. Another possible solution is to
 reserve the spaces that have all the tools for this use by working with your
 administrators. 
 
-## Distribution
+### Distribution
 
-### Finding clinics, practitioners who need the equipment
+#### Finding clinics, practitioners who need the equipment
 
 Many organizations are posting their immediate need for PPE to websites and stating specifically which PPEs are needed. They are accepting used goggles, cloth face masks and asking the public for face shields. A simple online search will help you target which organizations specifically requesting face shields. Invite medical professionals into your teams to allow for networking, to assess need and to help you navigate the healthcare world. 
 
