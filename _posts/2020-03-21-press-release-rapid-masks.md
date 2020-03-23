@@ -30,7 +30,7 @@ Butler Library, which [has been closed since Sunday, March 15, in response to
 the COVID-19 health
 emergency](https://library.columbia.edu/about/news/alert.html), to her home.
 Because she only had two printers, she scaled down the visor’s size by less
-than 10 percent to dramatically reduce printing time. Additionally, she angled
+than 10 percent to reduce printing time. Additionally, she angled
 the visor to make it easier for health professionals to don protective masks
 below the shield. 
 
@@ -57,7 +57,7 @@ Science](http://engineering.columbia.edu) and the [Graduate School of
 Architecture, Planning, and Preservation](http://arch.columbia.edu) to
 commandeer their unused 3D printers. 
 
-On March 23, Choksi is traveling to Tangible Creative’s 700-square-foot
+On March 23, Choksi is traveling to Tangible Creative’s 7500-square-foot
 production space in Newark, NJ, to oversee production of additional shields.
 [Tangible Creative](http://tangiblecreative.com), a 3D printing services
 company, has agreed to mobilize their wall of printers to help meet Dr.
