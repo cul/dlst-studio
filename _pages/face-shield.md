@@ -58,9 +58,8 @@ the shield itself, and the ability to sanitize the shields with disinfectants on
 
 #### Files
 
-1. [FaceShieldChoksiMod.stl](/assets/files/FaceShieldChoksiMod.stl) (by Madiha
-   Choksi, based on the design provided by [Budmen
-   Industries](http://budmen.com)).
+1. [Tangible_Choksi_3_FaceShieldMarch21Mod.stl](/assets/files/Tangible_Choksi_3_FaceShieldMarch21Mod.stl) (by Madiha
+   Choksi and Tangible Creative, based on the design provided by [Budmen Industries](http://budmen.com)).
 
 #### Pre-printing instructions
 
