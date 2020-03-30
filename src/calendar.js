@@ -1,3 +1,4 @@
+/*
 import https from "https";
 
 export default function() {
@@ -12,3 +13,4 @@ export default function() {
     })
     .on("error", e => console.log("Error from calendar: " + e.message));
 }
+*/
