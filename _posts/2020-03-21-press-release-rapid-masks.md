@@ -28,7 +28,7 @@ Choksi was eager to help with the PPE crisis, and once Dr. Elias’s request
 came in, she moved quickly to transport two idle printers from Columbia’s
 Butler Library, which [has been closed since Sunday, March 15, in response to
 the COVID-19 health
-emergency](https://library.columbia.edu/about/news/alert.html), to her home.
+emergency](https://web.archive.org/web/20200328142602/https://library.columbia.edu/about/news/alert.html), to her home.
 Because she only had two printers, she scaled down the visor’s size by less
 than 10 percent to reduce printing time. Additionally, she angled
 the visor to make it easier for health professionals to don protective masks
