@@ -1,0 +1,81 @@
+- name: Community Healthcare Network - Washington Heights
+  url: https://www.chnnyc.org/locations/washingtonheights/
+  addr: 511 W. 157th Street New York, NY 10032
+  lat: 40.8333519
+  lng: -73.942559
+- name: Community Healthcare Network - Lower East Side/Catherine M. Abate Health Center
+  url: https://www.chnnyc.org/locations/lowereastside-cma/
+  addr: 150 Essex Street New York, NY 10002
+  lat: 40.7205594
+  lng: -73.9869055
+- name: Lynchburg General Hospital
+  url: https://www.centrahealth.com/LGH
+  addr: 1901 Tate Springs Rd Lynchburg, VA 24501
+  lat: 37.4166183
+  lng: -79.1717596
+- name: NewYork-Presbyterian Lawrence
+  url: https://www.nyp.org/lawrence
+  addr: 55 Palmer Avenue Bronxville, NY 10708
+  lat: 40.9421824	
+  lng: -73.8368522
+- name: Mount Sinai Queens
+  url: https://www.mountsinai.org/locations/queens
+  addr: Mount Sinai Queens 25-10 30th Avenue Astoria, NY 11102
+  lat: 40.7643316
+  lng: -73.9542559
+- name: NewYork-Presbyterian/Weill Cornell Medical Center
+  url: https://www.nyp.org/locations/newyork-presbyterian-weill-cornell-medical-center
+  addr: 525 East 68th Street New York, NY 10065
+  lat: 40.7643316
+  lng: -73.9542559
+- name: St. Charles Hospital
+  url: https://stcharleshospital.chsli.org/
+  addr: 200 Belle Terre Rd, Port Jefferson, NY 11777
+  lat: 40.9465654
+  lng: -73.0609279
+- name: NYC Health+Hospitals Elmhurst Hospital
+  url: https://www.nychealthandhospitals.org/elmhurst/
+  addr: 79-01 Broadway, Elmhurst, NY 11373
+  lat: 40.7450814	
+  lng: -73.8857797
+- name: NewYork-Presbyterian Brooklyn Methodist Hospital
+  url: https://www.nyp.org/brooklyn
+  addr: 506 6th St Brooklyn NY 11215
+  lat: 40.6683276
+  lng: -73.9798349
+- name: Washington Heights CORNER Project
+  url: http://cornerproject.org/
+  addr: 181st Street and St. Nicholas Ave, New York, NY
+  lat: 40.8492959	
+  lng: -73.9337552
+- name: Long Island Jewish Medical Center
+  url: https://lij.northwell.edu/
+  addr: 270-05 76th Avenue New Hyde Park, New York 11040
+  lat: 40.7554874
+  lng: -73.7091813
+- name: NewYork-Presbyterian / Columbia University Medical Center
+  url: https://www.nyp.org/locations/newyork-presbyterian-columbia-university-medical-center
+  addr: 622 West 168th Street New York NY 10032
+  lat: 40.8412426
+  lng: -73.9409706
+- name: BronxCare
+  addr: 1650 Grand Concourse, The Bronx, New York, United States
+  url: http://www.bronxcare.org
+  lat: 40.8434675
+  lng: -73.9110798
+- name: NYC Health + Hospitals Jacobi
+  addr: 1400 Pelham Pkwy S, The Bronx, NY 10461
+  url: https://www.nychealthandhospitals.org/jacobi
+  lat: 40.8556769
+  lng: -73.8462363
+- name: The Brooklyn Hospital Center
+  addr: 121 DeKalb Avenue Brooklyn, New York 11201
+  url: https://www.tbh.org/
+  lat: 40.691265
+  lng: -73.9777743
+- name: NYU Langone Hospital–Brooklyn
+  url: https://nyulangone.org/locations/nyu-langone-hospital-brooklyn
+  addr: 150 55th Street Brooklyn, NY 11220
+  lat: 40.6466634
+  lng: -74.0209235
+  

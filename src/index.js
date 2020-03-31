@@ -49,12 +49,12 @@ $(window).ready( () => {
   formatArticle();
   addExternalLinks();
   addAlertLinks();
-    $("#loader").hide();
-    $("#bwOutput").show();
-    $(".carousel-item").first().addClass("active");
-    // $(".carousel").carousel({
-    //   interval: 8000 // default: 5000
-    // });
+  $("#loader").hide();
+  $("#bwOutput").show();
+  $(".carousel-item").first().addClass("active");
+  // $(".carousel").carousel({
+  //   interval: 8000 // default: 5000
+  // });
 
   $(".badge")
     .css("cursor", "pointer")
