@@ -257,7 +257,7 @@ administrators.
 
 * Eugene, [Tangible Creative, Inc.](http://tangiblecreative.com)
 * Nevaris, [Tangible Creative, Inc.](http://tangiblecreative.com)
-* Dave Weisz, [MakerBot](http://makerbot.com)
+* Dave Veisz, [MakerBot](http://makerbot.com)
 * Sarah Rosenstein, [MakerBot](http://makerbot.com)
 * Ray Cruz, [MakerBot](http://makerbot.com)
 * Mike Zappitello, [MakerBot](http://makerbot.com)
