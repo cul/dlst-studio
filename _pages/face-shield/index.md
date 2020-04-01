@@ -2,7 +2,6 @@
 title: Guide and Design for Rapidly Produced Face Shields
 permalink: face-shield/
 layout: face-shield
-js: face-shield
 ---
 
 <div class="tab-pane active" id="guide" role="tabpanel" aria-labelledby="guide-tab">
@@ -271,28 +270,5 @@ administrators.
 
 </div>
 </div>
-
-</div>
-<div class="tab-pane" id="recipients" role="tabpanel" aria-labelledby="recipients-tab">
-
-### Recipients
-
-<p class="lead">Our shields have been distributed:</p>
-
-<div id="recipient-map" style="height: 50vh; width: 100%;"></div>
-
-<script>
-var recipients = [
-{% for recipient in site.data.face-shield-recipients %}
- {
-  name: "{{ recipient.name }}",
-  url: "{{ recipient.url }}",
-  lat: {{ recipient.lat }},
-  lng: {{ recipient.lng }}
-  },
-{% endfor %}
-];
-</script>
-
 
 </div>
