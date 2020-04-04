@@ -261,6 +261,7 @@ administrators.
 * Sarah Rosenstein, [MakerBot](http://makerbot.com)
 * Ray Cruz, [MakerBot](http://makerbot.com)
 * Mike Zappitello, [MakerBot](http://makerbot.com)
+* Yonah Elorza, [Columbia GSAPP Makerspace](https://www.arch.columbia.edu/facilities/2-making-at-gsapp)
 
 #### Transportation, Communications, and Purchasing
 
