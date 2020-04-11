@@ -149,7 +149,7 @@ the visor and is thin enough for a hole punch.
    four tabs T. 
 3. Using those marks as a guide, punch four holes into the plastic sheet.
 
-### A Demonstration
+#### Assembling the Parts
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/q3hjQio6bns" frameborder="0" allow="accelerometer;  encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
