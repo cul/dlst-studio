@@ -149,6 +149,10 @@ the visor and is thin enough for a hole punch.
    four tabs T. 
 3. Using those marks as a guide, punch four holes into the plastic sheet.
 
+### How-to Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q3hjQio6bns" frameborder="0" allow="accelerometer;  encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Safety Concerns
 
 0. _Wear vinyl gloves and face mask while manufacturing and handling the face
