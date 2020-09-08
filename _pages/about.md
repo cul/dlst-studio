@@ -23,7 +23,7 @@ practices in pedagogy and digital
 scholarship](https://library.columbia.edu/news/libraries/2013/2013-9-11_Studio_Butler_Opens.html).” 
 
 With two founding organizations, Studio@Butler has pursued two distinct, but
-related goals. Digital Scholarship Coordinator Alex Gil has scheduled talks,
+related goals. Digital Scholarship Librarian, Alex Gil has scheduled talks,
 trainings, researchathons, labs, and many other happenings in the space.
 Similarly, initially Studio@Butler housed the GSAS Teaching Center, a
 professional development resource for graduate students that merged into
