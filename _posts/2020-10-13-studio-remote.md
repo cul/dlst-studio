@@ -2,7 +2,7 @@
 title: "Announcing Studio Remote"
 slug: studio-remote-launch
 image:
- src: "/assets/imgs/post-images/studio-remote.jpg"
+ src: "/assets/imgs/post-images/studio-remote-still.png"
  alt: Image of Moacir and Alex working on Twitch
 prompt: ""
 ---
