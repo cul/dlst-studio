@@ -8,9 +8,9 @@ prompt: ""
 ---
 
 We miss the social life that we fostered around our collaborative research and
-learning, especially every Friday from 3pm to 5pm at the Studio Burler.  This
-summmer, after wrapping up our work building [a grass roots
-coallition](http://covidmakerresponse.com/) to provide our city with much
+learning, especially every Friday from 3pm to 5pm at the Studio Butler.  This
+summer, after wrapping up our work building [a grass roots
+coalition](http://covidmakerresponse.com/) to provide our city with much
 needed PPE, we started to offer our support to faculty, students and
 colleagues again, adjusting to our intensified virtual research and learning
 environments. As part of our renewed effort, we began to dream of new and
