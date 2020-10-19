@@ -2,7 +2,7 @@
   <div class="card-header d-flex">
     <div class="mr-auto"><h3 class="mb-0">Space</h3></div>
     <ul class="nav justify-content-end nav-pills card-header-pills" id="space-tabs" role="tablist">
-      {% for space in site.spaces %}
+      {% comment %}{% for space in site.spaces %}
         {% if space == site.spaces.first %}
           {% assign active = "active" %}
           {% assign selected = "true" %}
@@ -10,10 +10,17 @@
           {% assign active = "" %}
           {% assign selected = "false" %}
         {% endif %}
-        <li class="nav-item">
+<!--         <li class="nav-item">
+          <a class="space-tab nav-link {{ active }}" href="#{{ space.tag }}" id="{{ space.tag }}-tab" data-toggle="pill" role="tab" aria-controls="{{ space.tag }}" aria-selected="{{ selected }}">{{ space.name }}</a>
+        </li> -->
+
+      {% endfor %}{% endcomment %}
+      <li class="nav-item">
+          <a class="space-tab nav-link active " href="#remote" id="remote-tab" data-toggle="pill" role="tab" aria-controls="remote" aria-selected="remote">Remote</a>
+        </li>
+      <li class="nav-item">
           <a class="space-tab nav-link {{ active }}" href="#{{ space.tag }}" id="{{ space.tag }}-tab" data-toggle="pill" role="tab" aria-controls="{{ space.tag }}" aria-selected="{{ selected }}">{{ space.name }}</a>
         </li>
-      {% endfor %}
     </ul>
   </div>
   <div class="card-body">
@@ -26,14 +33,19 @@
         {% endif %}
         <div class="tab-pane {{ active }}" id="{{ space.tag }}" role="tabpanel" aria-labelledby="{{ space.tag }}-tab">
           <a href={{ space.tag | prepend: "/spaces/" | relative_url }}>
-            <h5 class="card-title">{{ space.title }}</h5>
+            <h5 class="card-title">Studio Remote</h5>
+            <!-- <h5 class="card-title">{{ space.title }}</h5> -->
           </a>
           <div class="row">
             <div class="col-xl-6 order-12 order-xl-1">
-              {{ space.text | markdownify }}
+              Original programming in digital scholarship every Friday, from 3PM to 5PM. Join us for Season 1: The Rose Hall Project.
             </div>
+            <!-- <div class="col-xl-6 order-12 order-xl-1">
+              {{ space.text | markdownify }}
+            </div> -->
             <div class="col-xl-6 order-1 order-xl-12">
-              <img class="rounded img-fluid" src="{{ site.data.images[space.tag].src }}" alt="{{ site.data.images[space.tag].alt }}" />
+              <!-- <img class="rounded img-fluid" src="{{ site.data.images[space.tag].src }}" alt="{{ site.data.images[space.tag].alt }}" /> -->
+              <img class="rounded img-fluid" src="https://elotroalex.com/images/studio-remote.jpg" alt="Remote Studio poster" />
             </div>
           </div>
           <!-- <div class="nav nav-justified"> -->
