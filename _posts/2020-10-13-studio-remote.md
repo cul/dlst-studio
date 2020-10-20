@@ -48,7 +48,7 @@ Plantation in Montego Bay, Jamaica is one of the island’s largest tourist
 attractions. Tours of the old plantation still revolve around the myth of the
 White Witch of Rose Hall.  Not only is this story ahistorical, it obscures the
 lives of the enslaved who labored and lived in Rose Hall. In this project we
-set out to re-center the their lives and relationships with each other as best
+set out to re-center their lives and relationships with each other as best
 as we can from the flawed and dehumanizing archival record. The project will
 serve as a companion piece to Naylor's forthcoming volume on the Rose Hall
 Plantation.
