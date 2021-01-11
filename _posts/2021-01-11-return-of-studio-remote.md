@@ -26,6 +26,10 @@ data](https://github.com/muziejus/rose-hall). This semester, they will improve
 the user experience and aesthetic appeal of the site, with a planned launch at
 the end of the semester.
 
+Additionally, Studio Remote is adding a second show, “[Coding with the
+Dead](http://studio.cul.columbia.edu/2021/01/11/coding-with-the-dead-launch/),” that will air on Tuesdays,
+3pm–5pm, starting on January 19th.
+
 If you can’t make the streams live, they are archived on the Studio [YouTube
 channel](https://www.youtube.com/channel/UCLOUh6s8E2FYAVAsJg3lgoA).
 
