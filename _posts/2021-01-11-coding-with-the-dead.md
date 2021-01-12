@@ -1,5 +1,5 @@
 ---
-title: "Coding with the Dead"
+title: "Launching “Coding with the Dead”"
 slug: coding-with-the-dead-launch
 image:
  src: "/assets/imgs/post-images/wandertext-index-page.png"
@@ -7,12 +7,13 @@ image:
 prompt: ""
 ---
 
-With half a season’s worth of [CUL Studio’s Studio Remote “The Rose Hall
-Project”](https://studio.cul.columbia.edu/2020/10/13/studio-remote-launch/)
+With a handful of episodes of [CUL Studio’s Studio Remote’ _The Rose Hall
+Project_](https://studio.cul.columbia.edu/2020/10/13/studio-remote-launch/)
 done and archived on [YouTube](https://www.youtube.com/~FYAVAsJg3lgoA), it’s
-time to start branching out. To that end, on January 19, Research Data
-Librarian Moacir P. de Sá Pereira is launching a new stream on Tuesdays, from
-3:00pm to 5:00pm New York time, for Studio Remote’s “Coding with the Dead.”
+time to start branching out with a second show on the Studio Remote channel.
+To that end, on January 19, Research Data Librarian Moacir P. de Sá Pereira is
+launching a new stream on Tuesdays, from 3:00pm to 5:00pm New York time, for
+Studio Remote’s _Coding with the Dead_.
 
 For years, Moacir has been working on a project that has gone through
 various iterations and names. It has used various technologies and has been
@@ -20,11 +21,11 @@ used in classrooms at least two universities. Under the Studio Remote
 banner, however, he will resuscitate the project, now called _Wandertext_, and
 develop it anew (but better) on Twitch. 
 
-What “Coding with the Dead” sacrifices in banter and collegiality (Moacir will
+What _Coding with the Dead_ sacrifices in banter and collegiality (Moacir will
 typically be alone, possibly talking to himself) is countered by the increased
-complexity and depth of _Wandertext_.  The Rose Hall project relies on a fixed
+complexity and depth of _Wandertext_.  _The Rose Hall Project_ relies on a fixed
 dataset from which it constructs visualizations for the public so that they
-may better imagine the lives of the enslaved persons at Rose Hall plantation
+may better imagine the lives of the enslaved persons at the Rose Hall plantation
 in Jamaica. _Wandertext_, however, is a project dedicated to _creating_
 datasets, thereby providing a semantically rich catalog of places referred to
 in various “texts” (understood broadly) that can then be cross-referenced with
