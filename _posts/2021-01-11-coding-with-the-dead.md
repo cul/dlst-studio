@@ -7,7 +7,7 @@ image:
 prompt: ""
 ---
 
-With a handful of episodes of [CUL Studio’s Studio Remote’ _The Rose Hall
+With a handful of episodes of [CUL Studio’s Studio Remote’s _The Rose Hall
 Project_](https://studio.cul.columbia.edu/2020/10/13/studio-remote-launch/)
 done and archived on [YouTube](https://www.youtube.com/~FYAVAsJg3lgoA), it’s
 time to start branching out with a second show on the Studio Remote channel.
