@@ -23,6 +23,6 @@ lehman:
   alt: Empty Studio at Lehman
   photographer: Moacir P. de Sá Pereira
 remote:
-  src: https://elotroalex.com/images/studio-remote.jpg
+  src: "/assets/imgs/studio-remote.png"
   alt: Studio Remote Poster
   photographer: Alex Gil
