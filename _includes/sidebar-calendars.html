@@ -11,6 +11,7 @@
     <small>({{ labs.meta.semester-start | date: "%b %e" }} – {{ labs.meta.semester-end | date: "%b %e" }})</small>
     <ul>
       {% for lab in site.spaces %}
+        {% if lab.open-lab %}
         <li>
           <a href={{ lab.tag | prepend: "/spaces/" | relative_url }}>{{ lab.title }}</a>:
           <ul>
@@ -21,9 +22,10 @@
             </li>
           </ul>
         </li>
+        {% endif %}
       {% endfor %}
     </ul>
   </li>
-  <li><a href="https://library.columbia.edu/services/research-data-services/schedule.html">Research Data Services Walk-in Schedule</a></li>
+<!--   <li><a href="https://library.columbia.edu/services/research-data-services/schedule.html">Research Data Services Walk-in Schedule</a></li> -->
 </ul>
 

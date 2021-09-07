@@ -23,11 +23,11 @@ directions: >-
   1. Studio at Lehman is at the bottom of the stairs, room 215.
 lat: 40.807587
 lng: -73.959412
-open-lab:
-  days: Mondays – Thursdays
-  # pretend date needed for parsing.
-  start-time: 2019-01-01 12:00
-  end-time: 2019-01-01 16:00
+# open-lab:
+#   days: Mondays – Thursdays
+#   # pretend date needed for parsing.
+#   start-time: 2019-01-01 12:00
+#   end-time: 2019-01-01 16:00
 ---
 
 Studio at Lehman offers space for about 25 participants in a room within
