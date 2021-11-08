@@ -19,10 +19,10 @@ butler:
   alt: Open Lab at Studio at Butler
   photographer: "[@elotroalex](https://twitter.com/elotroalex/status/906256208964800514)"
 lehman:
-  src: /assets/imgs/lehman-studio.png
+  src: /assets/imgs/lehman-studio.jpg
   alt: Empty Studio at Lehman
   photographer: Moacir P. de Sá Pereira
 remote:
-  src: "/assets/imgs/studio-remote.jpg"
+  src: "/assets/imgs/studio-remote.png"
   alt: Studio Remote Poster
   photographer: Alex Gil

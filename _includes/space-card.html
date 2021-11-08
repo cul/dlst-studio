@@ -44,7 +44,7 @@
               <img class="rounded img-fluid" src="{{ site.data.images[space.tag].src }}" alt="{{ site.data.images[space.tag].alt }}" />
             </div>
           </div>
-          <div class="nav nav-justified">
+          <!-- <div class="nav nav-justified">
             <div class="nav-item">
               <a class="nav-link" href="#{{ space.tag }}-location" data-toggle="collapse" role="button" aria-expanded="false" aria-controls="{{ space.tag }}-location"><i class="fas fa-map-marked-alt"></i><span class="sr-only">Location</span></a>
             </div>
@@ -54,7 +54,7 @@
             <div class="nav-item">
               <a class="nav-link" href="{{ space.tag }}-archive"><i class="fas fa-archive"></i><span class="sr-only">Archive</span></a>
             </div>
-          </div>
+          </div> -->
           <div class="location collapse" data-lat="{{ space.lat }}" data-lng="{{ space.lng }}" id="{{ space.tag }}-location">
             {% include location-card.html %}
           </div>
