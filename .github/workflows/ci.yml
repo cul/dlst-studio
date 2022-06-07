@@ -53,15 +53,16 @@ jobs:
         run: ls -la ./_site
       - name: If github-actions-deployment branch, deploy to staging
         if: github.ref == 'refs/heads/github-actions-deployment'
-        uses: jakejarvis/s3-sync-action@master
-        with:
-          args: --acl public-read --follow-symlinks --delete
+        # GitHub Actions includes the AWS CLI by default, so we can just use it directly
+        run: >
+          aws s3 sync
+          ./_site
+          s3://cul-s3-dlst-travis-studio-staging/
+          --acl public-read --follow-symlinks --delete
         env:
-          AWS_S3_BUCKET: cul-s3-dlst-travis-studio-staging
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           AWS_REGION: 'us-west-2'
-          SOURCE_DIR: '_site'
       - name: If deploy-staging branch, deploy to staging
         if: github.ref == 'refs/heads/deploy-staging'
         run: echo 'placeholder - deploy to staging'
