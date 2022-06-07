@@ -42,9 +42,6 @@ jobs:
     if: contains(fromJson('["refs/heads/github-actions-deployment", "refs/heads/deploy-staging", "refs/heads/deploy-prod"]'), github.ref)
     needs: ci
     runs-on: ubuntu-latest
-    env:
-      AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
-      AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
     steps:
       - name: Download built-site artifact from previous CI job
         uses: actions/download-artifact@v3
@@ -56,11 +53,15 @@ jobs:
         run: ls -la ./_site
       - name: If github-actions-deployment branch, deploy to staging
         if: github.ref == 'refs/heads/github-actions-deployment'
-        uses: reggionick/s3-deploy@v3
+        uses: jakejarvis/s3-sync-action@master
         with:
-            folder: _site
-            bucket: cul-s3-dlst-travis-studio-staging
-            bucket-region: us-west-2
+          args: --acl public-read --follow-symlinks --delete
+        env:
+          AWS_S3_BUCKET: cul-s3-dlst-travis-studio-staging
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          AWS_REGION: 'us-west-2'
+          SOURCE_DIR: '_site'
       - name: If deploy-staging branch, deploy to staging
         if: github.ref == 'refs/heads/deploy-staging'
         run: echo 'placeholder - deploy to staging'
