@@ -119,7 +119,7 @@ administrators.
 
 Many organizations are posting their immediate need for PPE to websites and stating specifically which PPEs are needed. They are accepting used goggles, cloth face masks and asking the public for face shields. A simple online search will help you target which organizations specifically requesting face shields. Invite medical professionals into your teams to allow for networking, to assess need and to help you navigate the healthcare world. 
 
-Due to how overwhelming COVID-19 has been for organizations and health care professionals, they are centralizing how to donate on social media pages and are providing email addresses on how to donate. Some websites are stating that they will check the PPE for use as they come in. We do not believe specifically contacting procurement offices is necessary, and investigating where to donate is more important. [Here's a sample list of places seeking donations in the United States](https://docs.google.com/spreadsheets/d/1txEanDkIrJ5GNfSk-zlXkTlB-bQPNRN_Y69qEwmdme8/htmlview?sle=true#gid=1259409226).
+Due to how overwhelming COVID-19 has been for organizations and health care professionals, they are centralizing how to donate on social media pages and are providing email addresses on how to donate. Some websites are stating that they will check the PPE for use as they come in. We do not believe specifically contacting procurement offices is necessary, and investigating where to donate is more important. [Here’s a sample list of places seeking donations in the United States](https://docs.google.com/spreadsheets/d/1txEanDkIrJ5GNfSk-zlXkTlB-bQPNRN_Y69qEwmdme8/htmlview?sle=true#gid=1259409226).
 
 
 As always, we recommend folks to exercise good judgement and caution when
