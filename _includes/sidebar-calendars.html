@@ -1,31 +1,35 @@
 <h3>Welcome</h3>
 
-<p>Butler Studio is open again! To make a reservation for your digital scholarship or pedagogy event please contact our Digital Scholarship Librarian, Alex Gil, (agil@columbia.edu). Our Studio Remote is now on <a href="https://www.youtube.com/channel/UCLOUh6s8E2FYAVAsJg3lgoA" target="_blank">YouTube</a>. You can also visit us at <a href="https://library.columbia.edu/services/research-data-services.html">our Research Data Services page</a> to learn more about our services.</p>
+<p>Butler Studio is open again for Fall 2022!
+  Our Studio Remote is now on <a href="https://www.youtube.com/channel/UCLOUh6s8E2FYAVAsJg3lgoA"
+    target="_blank">YouTube</a>. You can also visit us at <a
+    href="https://library.columbia.edu/services/research-data-services.html">our Research Data Services page</a> to
+  learn more about our services.</p>
 
 {% assign labs = site.data.open-labs %}
 
 <ul>
 
-  <li><a href="https://library.columbia.edu/services/research-data-services/events.html">Columbia University Libraries Studio Calendar</a></li>
-  <li>{{ labs.meta.semester }} Open Labs 
+  <li><a href="https://library.columbia.edu/services/research-data-services/events.html">Columbia University Libraries
+      Studio Calendar</a></li>
+  <li>{{ labs.meta.semester }} Open Labs
     <small>({{ labs.meta.semester-start | date: "%b %e" }} – {{ labs.meta.semester-end | date: "%b %e" }})</small>
     <ul>
       {% for lab in site.spaces %}
-        {% if lab.open-lab %}
-        <li>
-          <a href={{ lab.tag | prepend: "/spaces/" | relative_url }}>{{ lab.title }}</a>:
-          <ul>
-            <li>
-              {{ lab.open-lab.days }}, 
-              {{ lab.open-lab.start-time | date: "%l:%M %P"}} –
-              {{ lab.open-lab.end-time | date: "%l:%M %P"}}
-            </li>
-          </ul>
-        </li>
-        {% endif %}
+      {% if lab.open-lab %}
+      <li>
+        <a href={{ lab.tag | prepend: "/spaces/" | relative_url }}>{{ lab.title }}</a>:
+        <ul>
+          <li>
+            {{ lab.open-lab.days }},
+            {{ lab.open-lab.start-time | date: "%l:%M %P"}} –
+            {{ lab.open-lab.end-time | date: "%l:%M %P"}}
+          </li>
+        </ul>
+      </li>
+      {% endif %}
       {% endfor %}
     </ul>
   </li>
-<!--   <li><a href="https://library.columbia.edu/services/research-data-services/schedule.html">Research Data Services Walk-in Schedule</a></li> -->
+  <!--   <li><a href="https://library.columbia.edu/services/research-data-services/schedule.html">Research Data Services Walk-in Schedule</a></li> -->
 </ul>
-
