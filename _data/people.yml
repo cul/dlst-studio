@@ -1,27 +1,24 @@
 - name: Moacir
   img:
-    src: moacir.jpg
-- name: Buck
-  img:
-    src: buck.jpg
+    src: Moacir_de_sa_Pereira.mpd2149.2019-05-01.123.F.jpg
 - name: Wei
   img:
-    src: wei.jpg
+    src: Wei_Yin.face.jpg
 - name: Eric
   img:
     src: eric.jpg
 - name: Jeremiah
   img:
     src: jeremiah.jpg
-- name: Alex
-  img:
-    src: Alex_Gil.face.jpg
 - name: Will
   img:
     src: Will_Vanti.face.jpg
 - name: Katherine
   img:
     src: Katherine_Brooks.face.jpg
-- name: Michelle
+- name: Madiha
   img:
-    src: michelle.jpg
+    src: person.face.jpg
+- name: Roger
+  img:
+    src: person.face.jpg
