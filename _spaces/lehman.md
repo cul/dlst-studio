@@ -1,6 +1,7 @@
 ---
 title: Studio at Lehman
 layout: space
+openForStudio: false
 tag: lehman
 name: Lehman
 text: Studio at Lehman offers Open Labs for four hours, four days a week as well as other programming.

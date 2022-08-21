@@ -1,9 +1,10 @@
 ---
 title: Studio at Butler
 layout: space
+openForStudio: true
 tag: butler
 name: Butler
-text: The original Studio, Studio at Butler hosts talks, workshops, and two Open Labs.
+text: The original Studio, Studio at Butler hosts talks, workshops, and the Friday Open Lab.
 directions: >-
   1. Take the [❶](http://web.mta.info/nyct/service/oneline.htm) to 116th St.  Columbia University.
 
