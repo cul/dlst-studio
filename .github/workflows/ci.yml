@@ -58,7 +58,7 @@ jobs:
           aws s3 sync
           ./_site
           ${{ secrets.STAGING_BUCKET_NAME }}
-          --acl public-read --follow-symlinks --delete
+          --follow-symlinks --delete
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.DLST_SERV_DEPLOY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.DLST_SERV_DEPLOY_KEY }}
