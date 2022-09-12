@@ -57,11 +57,11 @@ jobs:
         run: >
           aws s3 sync
           ./_site
-          s3://cul-s3-dlst-travis-studio-staging/
+          ${{ secrets.STAGING_BUCKET_NAME }}
           --acl public-read --follow-symlinks --delete
         env:
-          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
-          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          AWS_ACCESS_KEY_ID: ${{ secrets.DLST_SERV_DEPLOY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.DLST_SERV_DEPLOY_KEY }}
           AWS_REGION: 'us-west-2'
       - name: If deploy-staging branch, deploy to staging
         if: github.ref == 'refs/heads/deploy-staging'
