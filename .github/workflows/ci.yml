@@ -2,7 +2,7 @@ name: CI + Deployment
 
 on:
   push:
-    branches: [ 'github-actions-deployment' ] # TODO: Change later
+    branches: [ 'staging', 'main' ] # TODO: Change later
 
 jobs:
   ci:
@@ -26,12 +26,12 @@ jobs:
         run: bundle exec rake test
       # This step will only run for certain branches:
       - name: Optionally zip up the built site (if deploying)
-        if: contains(fromJson('["refs/heads/github-actions-deployment", "refs/heads/deploy-staging", "refs/heads/deploy-prod"]'), github.ref)
+        if: contains(fromJson('["refs/heads/staging", "refs/heads/main"]'), github.ref)
         run: zip -q -r ./_site.zip ./_site
       # This step will only run for certain branches:
       # Note: The upload-artifact step is slow for lots of files, but fast for a single zip file.
       - name: Optionally store site build for subsequent deployment step (if deploying)
-        if: contains(fromJson('["refs/heads/github-actions-deployment", "refs/heads/deploy-staging", "refs/heads/deploy-prod"]'), github.ref)
+        if: contains(fromJson('["refs/heads/staging", "refs/heads/main"]'), github.ref)
         uses: actions/upload-artifact@v3
         with:
           name: built-site
@@ -39,9 +39,13 @@ jobs:
 
   deploy:
     # This job will only run on certain branches
-    if: contains(fromJson('["refs/heads/github-actions-deployment", "refs/heads/deploy-staging", "refs/heads/deploy-prod"]'), github.ref)
+    if: contains(fromJson('["refs/heads/staging", "refs/heads/main"]'), github.ref)
     needs: ci
     runs-on: ubuntu-latest
+    env:
+      AWS_ACCESS_KEY_ID: ${{ secrets.DLST_SERV_DEPLOY_ID }}
+      AWS_SECRET_ACCESS_KEY: ${{ secrets.DLST_SERV_DEPLOY_KEY }}
+      AWS_REGION: 'us-west-2'
     steps:
       - name: Download built-site artifact from previous CI job
         uses: actions/download-artifact@v3
@@ -51,24 +55,21 @@ jobs:
         run: unzip -q ./_site.zip
       - name: ls the unzipped artifact
         run: ls -la ./_site
-      - name: If github-actions-deployment branch, deploy to staging
-        if: github.ref == 'refs/heads/github-actions-deployment'
+      - name: If staging branch, deploy to staging
+        if: github.ref == 'refs/heads/staging'
         # GitHub Actions includes the AWS CLI by default, so we can just use it directly
         run: >
           aws s3 sync
           ./_site
           ${{ secrets.STAGING_BUCKET_NAME }}
           --follow-symlinks --delete
-        env:
-          AWS_ACCESS_KEY_ID: ${{ secrets.DLST_SERV_DEPLOY_ID }}
-          AWS_SECRET_ACCESS_KEY: ${{ secrets.DLST_SERV_DEPLOY_KEY }}
-          AWS_REGION: 'us-west-2'
-      - name: If deploy-staging branch, deploy to staging
-        if: github.ref == 'refs/heads/deploy-staging'
-        run: echo 'placeholder - deploy to staging'
-      - name: If deploy-prod branch, deploy to prod
-        if: github.ref == 'refs/heads/deploy-prod'
-        run: echo 'placeholder - deploy to prod'
+      - name: If main branch, deploy to prod
+        if: github.ref == 'refs/heads/main'
+        run: >
+          aws s3 sync
+          ./_site
+          ${{ secrets.REPO_BUCKET_NAME }}
+          --follow-symlinks --delete
 
   # deploy-to-s3:
     # if: github.ref == 'refs/heads/master' # this job should only run on the master branch
