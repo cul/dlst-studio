@@ -9,6 +9,8 @@ task :test do
     :allow_hash_href => true,
     :disable_external => true,
     :empty_alt_ignore => true,
+    :allow_missing_href => true,
+    :enforce_https=> false,
     :only_4xx => true,
     :verbose => true
   }
