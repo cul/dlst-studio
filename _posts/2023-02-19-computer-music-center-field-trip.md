@@ -16,9 +16,9 @@ and [Seth Cluett](https://music.columbia.edu/bios/seth-cluett),
 the director of the Center, will show us its treasures.
 
 Almost 70 years old, the CMC is the oldest such facility in the country, 
-and it houses both a wealth of historical artifacts as well as contemporary experiments in electroacoustic music.
+and it houses both a wealth of historical artifacts as well as contemporary electroacoustic experiments.
 We’ll get to see the [room-sized RCA Mark II Sound Synthesizer](https://en.wikipedia.org/wiki/RCA_Mark_II_Sound_Synthesizer), dating to 1957, 
-plus innumerable contemporary projects Seth and his colleagues/students are working on today. 
+plus innumerable projects Seth and his colleagues/students are working on today. 
 
 [Please register](https://events.columbia.edu/go/studio_computer_music_center_field_trip) for the event, since if we’re too many, priority will be given to those who registered, and you definitely don’t want to be left out in the cold on 125th Street! Bring your creativest and musicalest thinking caps and let’s hack away.
 We should also add that, 
